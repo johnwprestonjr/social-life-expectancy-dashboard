@@ -151,12 +151,10 @@ with tab1:
 with tab2:
     st.subheader("How Life Expectancy Varies by State and Racial Group")
     st.write(
-        "Brush across states in the top chart to update the racial group comparison below. This gives the dashboard a coordinated visualization feature."
+        "Click on states in the map to update the racial group comparison below. This gives the dashboard a coordinated visualization feature."
     )
 
-    race_chart_data = filtered_race.dropna(subset=["Life Expectancy"])
-    state_brush = alt.selection_interval(encodings=["x"], name="StateBrush")
-
+    # Data preparation for geochart
     state_fips = {
         "Alabama": 1, "Alaska": 2, "Arizona": 4, "Arkansas": 5, "California": 6,
         "Colorado": 8, "Connecticut": 9, "Delaware": 10, "District of Columbia": 11,
@@ -172,21 +170,24 @@ with tab2:
         "Washington": 53, "West Virginia": 54, "Wisconsin": 55, "Wyoming": 56
     }
 
-    race_chart_data = filtered_race.dropna(subset=["Life Expectancy"]).copy()
-    race_chart_data["id"] = race_chart_data["State"].map(state_fips)
+    geochart_data = filtered_race.dropna(subset=["Life Expectancy"]).copy()
+    geochart_data["id"] = geochart_data["State"].map(state_fips)
 
-    state_summary = (
-        race_chart_data
+    state_summary_for_geochart = (
+        geochart_data
         .groupby(["State", "id"], as_index=False)["Life Expectancy"]
         .mean()
     )
 
-    states = alt.topo_feature(
+    states_topo = alt.topo_feature(
         "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json",
         "states"
     )
 
-    state_chart = alt.Chart(states).mark_geoshape(
+    # Selection for the geochart
+    state_selection = alt.selection_point(fields=['State'], name='state_selection', on='click')
+
+    state_chart = alt.Chart(states_topo).mark_geoshape(
         stroke="white",
         strokeWidth=0.5
     ).encode(
@@ -198,22 +199,28 @@ with tab2:
         tooltip=[
             alt.Tooltip("State:N", title="State"),
             alt.Tooltip("Life Expectancy:Q", title="Avg. Life Expectancy", format=".1f")
-        ]
+        ],
+        # Add color condition for selection feedback
+        strokeOpacity=alt.condition(state_selection, alt.value(1), alt.value(0.5)),
+        strokeWidth=alt.condition(state_selection, alt.value(2), alt.value(0.5)),
     ).transform_lookup(
         lookup="id",
         from_=alt.LookupData(
-            state_summary,
+            state_summary_for_geochart,
             key="id",
             fields=["State", "Life Expectancy"]
         )
     ).project(
         type="albersUsa"
     ).properties(
-        title="Average Life Expectancy by State",
+        title="Average Life Expectancy by State — Click to Select",
         height=400
-    )
+    ).add_params(state_selection)
 
-    race_chart = alt.Chart(race_chart_data).mark_bar().encode(
+    # The race_chart uses filtered_race, which has 'State' column.
+    race_chart_data_for_bar = filtered_race.dropna(subset=["Life Expectancy"])
+
+    race_chart = alt.Chart(race_chart_data_for_bar).mark_bar().encode(
         x=alt.X("Race Group:N", title="Racial/Ethnic Group"),
         y=alt.Y("mean(Life Expectancy):Q", title="Average Life Expectancy"),
         color=alt.Color("Race Group:N", title="Race Group"),
@@ -221,14 +228,14 @@ with tab2:
             "Race Group:N",
             alt.Tooltip("mean(Life Expectancy):Q", title="Avg. Life Expectancy", format=".1f")
         ]
-    ).transform_filter(state_brush).properties(
+    ).transform_filter(
+        state_selection
+    ).properties(
         title="Average Life Expectancy by Race for Selected State(s)",
         height=300
     )
 
-    st.altair_chart(state_chart & race_chart, use_container_width=True)
-
-with tab3:
+    st.altair_chart(state_chart & race_chart, use_container_width=True)with tab3:
     st.subheader("Highest and Lowest Life Expectancy Counties")
     st.write(
         "This view compares counties with the highest and lowest life expectancy and shows how food insecurity differs across those counties."
