@@ -1,0 +1,4886 @@
+State,County,Region,Race Group,Life Expectancy
+Alabama,Baldwin,South,Hispanic,98.1
+Alabama,Blount,South,Hispanic,97.8
+Alabama,Calhoun,South,Hispanic,92.7
+Alabama,Chilton,South,Hispanic,92.5
+Alabama,Coffee,South,Hispanic,84.4
+Alabama,Dale,South,Hispanic,88.1
+Alabama,DeKalb,South,Hispanic,80.9
+Alabama,Elmore,South,Hispanic,101.9
+Alabama,Etowah,South,Hispanic,83.0
+Alabama,Franklin,South,Hispanic,82.0
+Alabama,Houston,South,Hispanic,84.8
+Alabama,Jackson,South,Hispanic,91.9
+Alabama,Jefferson,South,Hispanic,89.6
+Alabama,Lauderdale,South,Hispanic,104.7
+Alabama,Lee,South,Hispanic,92.7
+Alabama,Limestone,South,Hispanic,92.0
+Alabama,Madison,South,Hispanic,86.1
+Alabama,Marshall,South,Hispanic,88.0
+Alabama,Mobile,South,Hispanic,100.9
+Alabama,Montgomery,South,Hispanic,80.3
+Alabama,Morgan,South,Hispanic,81.8
+Alabama,Russell,South,Hispanic,77.5
+Alabama,Shelby,South,Hispanic,101.9
+Alabama,Tuscaloosa,South,Hispanic,98.8
+Alaska,Anchorage,West,Hispanic,82.8
+Alaska,Fairbanks North Star,West,Hispanic,85.3
+Alaska,Juneau,West,Hispanic,82.4
+Alaska,Matanuska-Susitna,West,Hispanic,82.2
+Arizona,Apache,West,Hispanic,72.2
+Arizona,Cochise,West,Hispanic,77.0
+Arizona,Coconino,West,Hispanic,78.1
+Arizona,Gila,West,Hispanic,77.0
+Arizona,Graham,West,Hispanic,74.5
+Arizona,Greenlee,West,Hispanic,75.3
+Arizona,La Paz,West,Hispanic,76.3
+Arizona,Maricopa,West,Hispanic,76.5
+Arizona,Mohave,West,Hispanic,77.1
+Arizona,Navajo,West,Hispanic,72.6
+Arizona,Pima,West,Hispanic,76.5
+Arizona,Pinal,West,Hispanic,77.7
+Arizona,Santa Cruz,West,Hispanic,79.2
+Arizona,Yavapai,West,Hispanic,78.9
+Arizona,Yuma,West,Hispanic,77.3
+Arkansas,Benton,South,Hispanic,84.1
+Arkansas,Carroll,South,Hispanic,93.8
+Arkansas,Craighead,South,Hispanic,91.3
+Arkansas,Crawford,South,Hispanic,89.8
+Arkansas,Faulkner,South,Hispanic,86.4
+Arkansas,Garland,South,Hispanic,79.9
+Arkansas,Hempstead,South,Hispanic,77.9
+Arkansas,Howard,South,Hispanic,83.0
+Arkansas,Independence,South,Hispanic,87.2
+Arkansas,Johnson,South,Hispanic,106.3
+Arkansas,Mississippi,South,Hispanic,79.7
+Arkansas,Pope,South,Hispanic,96.2
+Arkansas,Pulaski,South,Hispanic,82.7
+Arkansas,Saline,South,Hispanic,94.3
+Arkansas,Sebastian,South,Hispanic,91.9
+Arkansas,Sevier,South,Hispanic,81.6
+Arkansas,Washington,South,Hispanic,86.5
+Arkansas,White,South,Hispanic,85.4
+Arkansas,Yell,South,Hispanic,79.1
+California,Alameda,West,Hispanic,82.2
+California,Amador,West,Hispanic,82.7
+California,Butte,West,Hispanic,81.0
+California,Calaveras,West,Hispanic,83.9
+California,Colusa,West,Hispanic,82.7
+California,Contra Costa,West,Hispanic,83.1
+California,Del Norte,West,Hispanic,85.0
+California,El Dorado,West,Hispanic,83.1
+California,Fresno,West,Hispanic,76.6
+California,Glenn,West,Hispanic,79.9
+California,Humboldt,West,Hispanic,80.7
+California,Imperial,West,Hispanic,76.9
+California,Inyo,West,Hispanic,80.8
+California,Kern,West,Hispanic,76.6
+California,Kings,West,Hispanic,77.6
+California,Lake,West,Hispanic,79.5
+California,Lassen,West,Hispanic,88.0
+California,Los Angeles,West,Hispanic,79.5
+California,Madera,West,Hispanic,77.7
+California,Marin,West,Hispanic,86.7
+California,Mariposa,West,Hispanic,84.6
+California,Mendocino,West,Hispanic,83.9
+California,Merced,West,Hispanic,78.7
+California,Mono,West,Hispanic,109.4
+California,Monterey,West,Hispanic,81.3
+California,Napa,West,Hispanic,83.5
+California,Nevada,West,Hispanic,83.9
+California,Orange,West,Hispanic,80.5
+California,Placer,West,Hispanic,83.9
+California,Plumas,West,Hispanic,88.0
+California,Riverside,West,Hispanic,78.8
+California,Sacramento,West,Hispanic,79.7
+California,San Benito,West,Hispanic,79.8
+California,San Bernardino,West,Hispanic,76.7
+California,San Diego,West,Hispanic,80.3
+California,San Francisco,West,Hispanic,82.1
+California,San Joaquin,West,Hispanic,78.2
+California,San Luis Obispo,West,Hispanic,83.0
+California,San Mateo,West,Hispanic,85.5
+California,Santa Barbara,West,Hispanic,80.9
+California,Santa Clara,West,Hispanic,81.4
+California,Santa Cruz,West,Hispanic,81.5
+California,Shasta,West,Hispanic,77.4
+California,Siskiyou,West,Hispanic,78.9
+California,Solano,West,Hispanic,82.2
+California,Sonoma,West,Hispanic,83.5
+California,Stanislaus,West,Hispanic,78.3
+California,Sutter,West,Hispanic,80.5
+California,Tehama,West,Hispanic,80.9
+California,Tulare,West,Hispanic,77.0
+California,Tuolumne,West,Hispanic,80.6
+California,Ventura,West,Hispanic,81.5
+California,Yolo,West,Hispanic,80.1
+California,Yuba,West,Hispanic,82.2
+Colorado,Adams,West,Hispanic,77.9
+Colorado,Alamosa,West,Hispanic,70.2
+Colorado,Arapahoe,West,Hispanic,78.9
+Colorado,Archuleta,West,Hispanic,74.6
+Colorado,Bent,West,Hispanic,73.9
+Colorado,Boulder,West,Hispanic,81.2
+Colorado,Broomfield,West,Hispanic,79.9
+Colorado,Chaffee,West,Hispanic,83.4
+Colorado,Conejos,West,Hispanic,71.6
+Colorado,Crowley,West,Hispanic,69.3
+Colorado,Delta,West,Hispanic,78.6
+Colorado,Denver,West,Hispanic,75.6
+Colorado,Douglas,West,Hispanic,84.2
+Colorado,Eagle,West,Hispanic,85.4
+Colorado,Elbert,West,Hispanic,82.3
+Colorado,El Paso,West,Hispanic,74.7
+Colorado,Fremont,West,Hispanic,79.1
+Colorado,Garfield,West,Hispanic,82.4
+Colorado,Gunnison,West,Hispanic,80.5
+Colorado,Huerfano,West,Hispanic,70.1
+Colorado,Jefferson,West,Hispanic,75.7
+Colorado,Lake,West,Hispanic,78.2
+Colorado,La Plata,West,Hispanic,78.9
+Colorado,Larimer,West,Hispanic,78.4
+Colorado,Las Animas,West,Hispanic,71.3
+Colorado,Logan,West,Hispanic,74.9
+Colorado,Mesa,West,Hispanic,76.6
+Colorado,Moffat,West,Hispanic,83.4
+Colorado,Montezuma,West,Hispanic,74.9
+Colorado,Montrose,West,Hispanic,77.7
+Colorado,Morgan,West,Hispanic,76.4
+Colorado,Otero,West,Hispanic,70.5
+Colorado,Prowers,West,Hispanic,73.6
+Colorado,Pueblo,West,Hispanic,70.4
+Colorado,Rio Grande,West,Hispanic,70.0
+Colorado,Routt,West,Hispanic,83.5
+Colorado,Saguache,West,Hispanic,76.1
+Colorado,Summit,West,Hispanic,85.6
+Colorado,Teller,West,Hispanic,80.9
+Colorado,Weld,West,Hispanic,77.6
+Colorado,Yuma,West,Hispanic,86.9
+Connecticut,Fairfield,Northeast,Hispanic,83.2
+Connecticut,Hartford,Northeast,Hispanic,78.1
+Connecticut,Litchfield,Northeast,Hispanic,83.4
+Connecticut,Middlesex,Northeast,Hispanic,82.7
+Connecticut,New Haven,Northeast,Hispanic,80.0
+Connecticut,New London,Northeast,Hispanic,80.0
+Connecticut,Tolland,Northeast,Hispanic,85.5
+Connecticut,Windham,Northeast,Hispanic,78.1
+Delaware,Kent,South,Hispanic,83.9
+Delaware,New Castle,South,Hispanic,83.3
+Delaware,Sussex,South,Hispanic,87.7
+District of Columbia,District of Columbia,South,Hispanic,84.9
+Florida,Alachua,South,Hispanic,86.5
+Florida,Bay,South,Hispanic,81.4
+Florida,Brevard,South,Hispanic,81.4
+Florida,Broward,South,Hispanic,83.7
+Florida,Charlotte,South,Hispanic,82.2
+Florida,Citrus,South,Hispanic,75.8
+Florida,Clay,South,Hispanic,80.4
+Florida,Collier,South,Hispanic,84.3
+Florida,Columbia,South,Hispanic,79.8
+Florida,DeSoto,South,Hispanic,87.5
+Florida,Duval,South,Hispanic,80.6
+Florida,Escambia,South,Hispanic,83.3
+Florida,Flagler,South,Hispanic,83.4
+Florida,Gadsden,South,Hispanic,111.2
+Florida,Glades,South,Hispanic,95.7
+Florida,Hardee,South,Hispanic,74.2
+Florida,Hendry,South,Hispanic,78.7
+Florida,Hernando,South,Hispanic,79.9
+Florida,Highlands,South,Hispanic,78.3
+Florida,Hillsborough,South,Hispanic,79.9
+Florida,Indian River,South,Hispanic,84.4
+Florida,Jackson,South,Hispanic,81.6
+Florida,Lake,South,Hispanic,80.9
+Florida,Lee,South,Hispanic,81.8
+Florida,Leon,South,Hispanic,86.2
+Florida,Levy,South,Hispanic,82.0
+Florida,Manatee,South,Hispanic,82.0
+Florida,Marion,South,Hispanic,77.9
+Florida,Martin,South,Hispanic,80.6
+Florida,Miami-Dade,South,Hispanic,81.5
+Florida,Monroe,South,Hispanic,85.3
+Florida,Nassau,South,Hispanic,78.7
+Florida,Okaloosa,South,Hispanic,82.1
+Florida,Okeechobee,South,Hispanic,76.6
+Florida,Orange,South,Hispanic,81.6
+Florida,Osceola,South,Hispanic,79.2
+Florida,Palm Beach,South,Hispanic,83.4
+Florida,Pasco,South,Hispanic,80.3
+Florida,Pinellas,South,Hispanic,83.1
+Florida,Polk,South,Hispanic,79.2
+Florida,Putnam,South,Hispanic,81.9
+Florida,St. Johns,South,Hispanic,87.2
+Florida,St. Lucie,South,Hispanic,82.8
+Florida,Santa Rosa,South,Hispanic,84.1
+Florida,Sarasota,South,Hispanic,84.4
+Florida,Seminole,South,Hispanic,82.9
+Florida,Sumter,South,Hispanic,84.0
+Florida,Suwannee,South,Hispanic,79.8
+Florida,Volusia,South,Hispanic,80.3
+Florida,Walton,South,Hispanic,79.7
+Georgia,Atkinson,South,Hispanic,83.9
+Georgia,Barrow,South,Hispanic,81.5
+Georgia,Bartow,South,Hispanic,87.8
+Georgia,Bibb,South,Hispanic,84.1
+Georgia,Bryan,South,Hispanic,87.5
+Georgia,Bulloch,South,Hispanic,83.8
+Georgia,Camden,South,Hispanic,85.7
+Georgia,Carroll,South,Hispanic,87.7
+Georgia,Catoosa,South,Hispanic,95.7
+Georgia,Chatham,South,Hispanic,85.2
+Georgia,Cherokee,South,Hispanic,82.9
+Georgia,Clarke,South,Hispanic,84.0
+Georgia,Clayton,South,Hispanic,81.7
+Georgia,Cobb,South,Hispanic,83.6
+Georgia,Coffee,South,Hispanic,82.6
+Georgia,Colquitt,South,Hispanic,89.9
+Georgia,Columbia,South,Hispanic,81.7
+Georgia,Coweta,South,Hispanic,85.6
+Georgia,DeKalb,South,Hispanic,83.4
+Georgia,Douglas,South,Hispanic,82.3
+Georgia,Effingham,South,Hispanic,83.4
+Georgia,Fayette,South,Hispanic,85.6
+Georgia,Floyd,South,Hispanic,89.1
+Georgia,Forsyth,South,Hispanic,85.9
+Georgia,Fulton,South,Hispanic,84.8
+Georgia,Glynn,South,Hispanic,85.2
+Georgia,Gordon,South,Hispanic,98.7
+Georgia,Gwinnett,South,Hispanic,83.6
+Georgia,Habersham,South,Hispanic,104.3
+Georgia,Hall,South,Hispanic,85.6
+Georgia,Harris,South,Hispanic,89.8
+Georgia,Henry,South,Hispanic,84.8
+Georgia,Houston,South,Hispanic,83.7
+Georgia,Jackson,South,Hispanic,86.6
+Georgia,Liberty,South,Hispanic,83.2
+Georgia,Lowndes,South,Hispanic,81.4
+Georgia,Lumpkin,South,Hispanic,85.4
+Georgia,Madison,South,Hispanic,99.4
+Georgia,Murray,South,Hispanic,103.3
+Georgia,Muscogee,South,Hispanic,86.5
+Georgia,Newton,South,Hispanic,98.5
+Georgia,Oconee,South,Hispanic,98.1
+Georgia,Paulding,South,Hispanic,87.9
+Georgia,Peach,South,Hispanic,78.9
+Georgia,Polk,South,Hispanic,89.6
+Georgia,Richmond,South,Hispanic,86.9
+Georgia,Rockdale,South,Hispanic,83.7
+Georgia,Spalding,South,Hispanic,80.0
+Georgia,Tattnall,South,Hispanic,87.4
+Georgia,Thomas,South,Hispanic,92.5
+Georgia,Tift,South,Hispanic,80.2
+Georgia,Toombs,South,Hispanic,82.2
+Georgia,Troup,South,Hispanic,84.2
+Georgia,Walker,South,Hispanic,82.9
+Georgia,Walton,South,Hispanic,79.8
+Georgia,Ware,South,Hispanic,101.8
+Georgia,Wayne,South,Hispanic,84.3
+Georgia,Whitfield,South,Hispanic,85.7
+Hawaii,Hawaii,West,Hispanic,76.4
+Hawaii,Honolulu,West,Hispanic,75.9
+Hawaii,Kauai,West,Hispanic,77.5
+Hawaii,Maui,West,Hispanic,78.0
+Idaho,Ada,West,Hispanic,83.9
+Idaho,Bannock,West,Hispanic,77.4
+Idaho,Bingham,West,Hispanic,82.2
+Idaho,Blaine,West,Hispanic,103.9
+Idaho,Bonner,West,Hispanic,92.4
+Idaho,Bonneville,West,Hispanic,79.7
+Idaho,Canyon,West,Hispanic,79.0
+Idaho,Cassia,West,Hispanic,80.8
+Idaho,Elmore,West,Hispanic,83.9
+Idaho,Gem,West,Hispanic,84.9
+Idaho,Gooding,West,Hispanic,82.8
+Idaho,Jefferson,West,Hispanic,91.5
+Idaho,Jerome,West,Hispanic,81.9
+Idaho,Kootenai,West,Hispanic,80.6
+Idaho,Latah,West,Hispanic,90.7
+Idaho,Madison,West,Hispanic,86.0
+Idaho,Minidoka,West,Hispanic,76.7
+Idaho,Nez Perce,West,Hispanic,77.2
+Idaho,Owyhee,West,Hispanic,80.4
+Idaho,Payette,West,Hispanic,80.6
+Idaho,Power,West,Hispanic,80.7
+Idaho,Twin Falls,West,Hispanic,80.8
+Idaho,Washington,West,Hispanic,77.2
+Illinois,Boone,Midwest,Hispanic,81.5
+Illinois,Bureau,Midwest,Hispanic,83.6
+Illinois,Cass,Midwest,Hispanic,95.8
+Illinois,Champaign,Midwest,Hispanic,83.8
+Illinois,Cook,Midwest,Hispanic,81.2
+Illinois,DeKalb,Midwest,Hispanic,85.0
+Illinois,DuPage,Midwest,Hispanic,83.5
+Illinois,Grundy,Midwest,Hispanic,79.9
+Illinois,Henry,Midwest,Hispanic,82.3
+Illinois,Iroquois,Midwest,Hispanic,80.0
+Illinois,Jackson,Midwest,Hispanic,94.0
+Illinois,Kane,Midwest,Hispanic,82.6
+Illinois,Kankakee,Midwest,Hispanic,78.4
+Illinois,Kendall,Midwest,Hispanic,83.5
+Illinois,Knox,Midwest,Hispanic,79.0
+Illinois,Lake,Midwest,Hispanic,83.4
+Illinois,LaSalle,Midwest,Hispanic,81.5
+Illinois,Lee,Midwest,Hispanic,85.9
+Illinois,McHenry,Midwest,Hispanic,85.6
+Illinois,McLean,Midwest,Hispanic,87.1
+Illinois,Macon,Midwest,Hispanic,99.7
+Illinois,Madison,Midwest,Hispanic,86.9
+Illinois,Ogle,Midwest,Hispanic,91.3
+Illinois,Peoria,Midwest,Hispanic,84.6
+Illinois,Rock Island,Midwest,Hispanic,81.8
+Illinois,St. Clair,Midwest,Hispanic,91.4
+Illinois,Sangamon,Midwest,Hispanic,86.0
+Illinois,Stephenson,Midwest,Hispanic,83.7
+Illinois,Tazewell,Midwest,Hispanic,95.5
+Illinois,Vermilion,Midwest,Hispanic,87.0
+Illinois,Warren,Midwest,Hispanic,84.7
+Illinois,Whiteside,Midwest,Hispanic,80.3
+Illinois,Will,Midwest,Hispanic,82.7
+Illinois,Williamson,Midwest,Hispanic,98.7
+Illinois,Winnebago,Midwest,Hispanic,79.8
+Indiana,Allen,Midwest,Hispanic,81.0
+Indiana,Bartholomew,Midwest,Hispanic,95.2
+Indiana,Boone,Midwest,Hispanic,83.7
+Indiana,Cass,Midwest,Hispanic,80.3
+Indiana,Clinton,Midwest,Hispanic,88.2
+Indiana,Dubois,Midwest,Hispanic,79.1
+Indiana,Elkhart,Midwest,Hispanic,85.3
+Indiana,Floyd,Midwest,Hispanic,85.1
+Indiana,Grant,Midwest,Hispanic,74.7
+Indiana,Hamilton,Midwest,Hispanic,87.5
+Indiana,Hancock,Midwest,Hispanic,86.1
+Indiana,Hendricks,Midwest,Hispanic,84.4
+Indiana,Howard,Midwest,Hispanic,82.7
+Indiana,Jasper,Midwest,Hispanic,79.2
+Indiana,Johnson,Midwest,Hispanic,82.1
+Indiana,Kosciusko,Midwest,Hispanic,81.5
+Indiana,LaGrange,Midwest,Hispanic,95.4
+Indiana,Lake,Midwest,Hispanic,78.5
+Indiana,LaPorte,Midwest,Hispanic,79.1
+Indiana,Madison,Midwest,Hispanic,82.5
+Indiana,Marion,Midwest,Hispanic,79.3
+Indiana,Monroe,Midwest,Hispanic,87.8
+Indiana,Noble,Midwest,Hispanic,85.0
+Indiana,Porter,Midwest,Hispanic,78.9
+Indiana,St. Joseph,Midwest,Hispanic,84.1
+Indiana,Tippecanoe,Midwest,Hispanic,84.2
+Indiana,Vanderburgh,Midwest,Hispanic,87.1
+Indiana,Vigo,Midwest,Hispanic,92.7
+Indiana,White,Midwest,Hispanic,82.7
+Iowa,Black Hawk,Midwest,Hispanic,88.4
+Iowa,Buena Vista,Midwest,Hispanic,94.3
+Iowa,Cerro Gordo,Midwest,Hispanic,81.4
+Iowa,Crawford,Midwest,Hispanic,90.7
+Iowa,Dallas,Midwest,Hispanic,81.7
+Iowa,Dubuque,Midwest,Hispanic,90.1
+Iowa,Johnson,Midwest,Hispanic,90.7
+Iowa,Linn,Midwest,Hispanic,80.8
+Iowa,Louisa,Midwest,Hispanic,87.5
+Iowa,Marshall,Midwest,Hispanic,88.9
+Iowa,Muscatine,Midwest,Hispanic,80.5
+Iowa,Polk,Midwest,Hispanic,79.3
+Iowa,Pottawattamie,Midwest,Hispanic,121.0
+Iowa,Scott,Midwest,Hispanic,80.6
+Iowa,Story,Midwest,Hispanic,85.6
+Iowa,Tama,Midwest,Hispanic,81.3
+Iowa,Wapello,Midwest,Hispanic,81.9
+Iowa,Warren,Midwest,Hispanic,96.2
+Iowa,Webster,Midwest,Hispanic,84.1
+Iowa,Woodbury,Midwest,Hispanic,93.2
+Iowa,Wright,Midwest,Hispanic,79.8
+Kansas,Barton,Midwest,Hispanic,75.3
+Kansas,Butler,Midwest,Hispanic,80.1
+Kansas,Cowley,Midwest,Hispanic,78.8
+Kansas,Crawford,Midwest,Hispanic,76.9
+Kansas,Douglas,Midwest,Hispanic,81.7
+Kansas,Finney,Midwest,Hispanic,78.8
+Kansas,Ford,Midwest,Hispanic,78.1
+Kansas,Geary,Midwest,Hispanic,81.1
+Kansas,Grant,Midwest,Hispanic,76.0
+Kansas,Harvey,Midwest,Hispanic,75.8
+Kansas,Johnson,Midwest,Hispanic,79.8
+Kansas,Leavenworth,Midwest,Hispanic,78.0
+Kansas,Lyon,Midwest,Hispanic,82.5
+Kansas,Montgomery,Midwest,Hispanic,77.0
+Kansas,Reno,Midwest,Hispanic,77.2
+Kansas,Riley,Midwest,Hispanic,78.0
+Kansas,Saline,Midwest,Hispanic,76.4
+Kansas,Sedgwick,Midwest,Hispanic,78.3
+Kansas,Seward,Midwest,Hispanic,81.8
+Kansas,Shawnee,Midwest,Hispanic,76.7
+Kansas,Stevens,Midwest,Hispanic,75.6
+Kansas,Wyandotte,Midwest,Hispanic,78.5
+Kentucky,Boone,South,Hispanic,87.5
+Kentucky,Bullitt,South,Hispanic,84.8
+Kentucky,Campbell,South,Hispanic,108.3
+Kentucky,Christian,South,Hispanic,79.2
+Kentucky,Daviess,South,Hispanic,80.7
+Kentucky,Fayette,South,Hispanic,90.8
+Kentucky,Franklin,South,Hispanic,85.1
+Kentucky,Graves,South,Hispanic,103.6
+Kentucky,Hardin,South,Hispanic,80.5
+Kentucky,Jefferson,South,Hispanic,83.5
+Kentucky,Kenton,South,Hispanic,88.0
+Kentucky,McCracken,South,Hispanic,94.8
+Kentucky,Oldham,South,Hispanic,84.9
+Kentucky,Pulaski,South,Hispanic,90.2
+Kentucky,Scott,South,Hispanic,97.1
+Kentucky,Shelby,South,Hispanic,91.1
+Kentucky,Warren,South,Hispanic,85.5
+Kentucky,Woodford,South,Hispanic,88.6
+Louisiana,Ascension,South,Hispanic,83.0
+Louisiana,Bossier,South,Hispanic,84.0
+Louisiana,Caddo,South,Hispanic,87.4
+Louisiana,Calcasieu,South,Hispanic,86.4
+Louisiana,East Baton Rouge,South,Hispanic,79.5
+Louisiana,Iberia,South,Hispanic,87.1
+Louisiana,Jefferson,South,Hispanic,81.9
+Louisiana,Lafayette,South,Hispanic,85.3
+Louisiana,Lafourche,South,Hispanic,95.8
+Louisiana,Livingston,South,Hispanic,84.6
+Louisiana,Orleans,South,Hispanic,80.5
+Louisiana,Ouachita,South,Hispanic,81.7
+Louisiana,Rapides,South,Hispanic,84.5
+Louisiana,St. Bernard,South,Hispanic,108.5
+Louisiana,St. Charles,South,Hispanic,80.8
+Louisiana,St. John the Baptist,South,Hispanic,82.5
+Louisiana,St. Mary,South,Hispanic,81.3
+Louisiana,St. Tammany,South,Hispanic,82.4
+Louisiana,Tangipahoa,South,Hispanic,82.0
+Louisiana,Terrebonne,South,Hispanic,81.9
+Louisiana,Vermilion,South,Hispanic,84.5
+Louisiana,Vernon,South,Hispanic,82.6
+Maine,Androscoggin,Northeast,Hispanic,89.9
+Maine,Cumberland,Northeast,Hispanic,103.6
+Maine,Kennebec,Northeast,Hispanic,88.3
+Maine,Penobscot,Northeast,Hispanic,97.8
+Maine,York,Northeast,Hispanic,101.9
+Maryland,Anne Arundel,South,Hispanic,83.2
+Maryland,Baltimore,South,Hispanic,84.7
+Maryland,Calvert,South,Hispanic,97.5
+Maryland,Caroline,South,Hispanic,81.2
+Maryland,Carroll,South,Hispanic,93.6
+Maryland,Cecil,South,Hispanic,92.0
+Maryland,Charles,South,Hispanic,82.3
+Maryland,Dorchester,South,Hispanic,85.2
+Maryland,Frederick,South,Hispanic,84.8
+Maryland,Harford,South,Hispanic,82.9
+Maryland,Howard,South,Hispanic,89.0
+Maryland,Montgomery,South,Hispanic,86.2
+Maryland,Prince George's,South,Hispanic,83.2
+Maryland,Queen Anne's,South,Hispanic,86.1
+Maryland,St. Mary's,South,Hispanic,90.9
+Maryland,Talbot,South,Hispanic,106.7
+Maryland,Washington,South,Hispanic,84.3
+Maryland,Wicomico,South,Hispanic,79.1
+Maryland,Worcester,South,Hispanic,95.6
+Maryland,Baltimore City,South,Hispanic,83.5
+Massachusetts,Barnstable,Northeast,Hispanic,91.3
+Massachusetts,Berkshire,Northeast,Hispanic,84.0
+Massachusetts,Bristol,Northeast,Hispanic,81.1
+Massachusetts,Essex,Northeast,Hispanic,83.8
+Massachusetts,Hampden,Northeast,Hispanic,74.8
+Massachusetts,Hampshire,Northeast,Hispanic,81.9
+Massachusetts,Middlesex,Northeast,Hispanic,85.7
+Massachusetts,Norfolk,Northeast,Hispanic,87.9
+Massachusetts,Plymouth,Northeast,Hispanic,84.9
+Massachusetts,Suffolk,Northeast,Hispanic,84.6
+Massachusetts,Worcester,Northeast,Hispanic,80.2
+Michigan,Allegan,Midwest,Hispanic,77.3
+Michigan,Barry,Midwest,Hispanic,85.9
+Michigan,Bay,Midwest,Hispanic,76.4
+Michigan,Berrien,Midwest,Hispanic,84.6
+Michigan,Branch,Midwest,Hispanic,77.4
+Michigan,Calhoun,Midwest,Hispanic,76.7
+Michigan,Clinton,Midwest,Hispanic,79.3
+Michigan,Eaton,Midwest,Hispanic,76.7
+Michigan,Genesee,Midwest,Hispanic,73.3
+Michigan,Grand Traverse,Midwest,Hispanic,91.2
+Michigan,Gratiot,Midwest,Hispanic,73.4
+Michigan,Ingham,Midwest,Hispanic,73.9
+Michigan,Ionia,Midwest,Hispanic,80.4
+Michigan,Isabella,Midwest,Hispanic,75.1
+Michigan,Jackson,Midwest,Hispanic,81.5
+Michigan,Kalamazoo,Midwest,Hispanic,79.6
+Michigan,Kent,Midwest,Hispanic,80.1
+Michigan,Lapeer,Midwest,Hispanic,74.2
+Michigan,Lenawee,Midwest,Hispanic,74.7
+Michigan,Livingston,Midwest,Hispanic,80.3
+Michigan,Macomb,Midwest,Hispanic,82.3
+Michigan,Midland,Midwest,Hispanic,79.6
+Michigan,Monroe,Midwest,Hispanic,78.2
+Michigan,Montcalm,Midwest,Hispanic,76.4
+Michigan,Muskegon,Midwest,Hispanic,75.5
+Michigan,Newaygo,Midwest,Hispanic,80.8
+Michigan,Oakland,Midwest,Hispanic,80.4
+Michigan,Oceana,Midwest,Hispanic,74.8
+Michigan,Ottawa,Midwest,Hispanic,79.1
+Michigan,Saginaw,Midwest,Hispanic,72.3
+Michigan,St. Clair,Midwest,Hispanic,78.2
+Michigan,St. Joseph,Midwest,Hispanic,79.7
+Michigan,Sanilac,Midwest,Hispanic,73.6
+Michigan,Shiawassee,Midwest,Hispanic,78.8
+Michigan,Tuscola,Midwest,Hispanic,81.8
+Michigan,Van Buren,Midwest,Hispanic,78.2
+Michigan,Washtenaw,Midwest,Hispanic,84.2
+Michigan,Wayne,Midwest,Hispanic,76.0
+Minnesota,Anoka,Midwest,Hispanic,86.4
+Minnesota,Blue Earth,Midwest,Hispanic,93.4
+Minnesota,Carver,Midwest,Hispanic,90.0
+Minnesota,Clay,Midwest,Hispanic,71.3
+Minnesota,Dakota,Midwest,Hispanic,84.0
+Minnesota,Freeborn,Midwest,Hispanic,76.6
+Minnesota,Goodhue,Midwest,Hispanic,86.0
+Minnesota,Hennepin,Midwest,Hispanic,82.5
+Minnesota,Kandiyohi,Midwest,Hispanic,82.1
+Minnesota,Le Sueur,Midwest,Hispanic,84.7
+Minnesota,Lyon,Midwest,Hispanic,92.1
+Minnesota,McLeod,Midwest,Hispanic,77.8
+Minnesota,Mower,Midwest,Hispanic,84.3
+Minnesota,Nicollet,Midwest,Hispanic,89.1
+Minnesota,Olmsted,Midwest,Hispanic,85.1
+Minnesota,Otter Tail,Midwest,Hispanic,88.7
+Minnesota,Polk,Midwest,Hispanic,79.5
+Minnesota,Ramsey,Midwest,Hispanic,79.8
+Minnesota,Rice,Midwest,Hispanic,99.9
+Minnesota,St. Louis,Midwest,Hispanic,98.0
+Minnesota,Scott,Midwest,Hispanic,84.3
+Minnesota,Sherburne,Midwest,Hispanic,85.7
+Minnesota,Stearns,Midwest,Hispanic,86.7
+Minnesota,Steele,Midwest,Hispanic,84.0
+Minnesota,Washington,Midwest,Hispanic,89.2
+Minnesota,Watonwan,Midwest,Hispanic,88.0
+Minnesota,Wright,Midwest,Hispanic,94.2
+Mississippi,DeSoto,South,Hispanic,81.1
+Mississippi,Hancock,South,Hispanic,86.2
+Mississippi,Harrison,South,Hispanic,85.0
+Mississippi,Hinds,South,Hispanic,74.7
+Mississippi,Jackson,South,Hispanic,101.3
+Mississippi,Jones,South,Hispanic,102.9
+Mississippi,Lamar,South,Hispanic,82.8
+Mississippi,Lauderdale,South,Hispanic,88.7
+Mississippi,Lee,South,Hispanic,79.9
+Mississippi,Madison,South,Hispanic,82.0
+Mississippi,Pearl River,South,Hispanic,84.4
+Mississippi,Rankin,South,Hispanic,91.4
+Mississippi,Scott,South,Hispanic,71.9
+Missouri,Barry,Midwest,Hispanic,84.5
+Missouri,Boone,Midwest,Hispanic,86.3
+Missouri,Buchanan,Midwest,Hispanic,91.3
+Missouri,Cass,Midwest,Hispanic,84.2
+Missouri,Christian,Midwest,Hispanic,91.7
+Missouri,Clay,Midwest,Hispanic,82.4
+Missouri,Cole,Midwest,Hispanic,88.6
+Missouri,Dunklin,Midwest,Hispanic,93.3
+Missouri,Franklin,Midwest,Hispanic,96.6
+Missouri,Greene,Midwest,Hispanic,83.0
+Missouri,Jackson,Midwest,Hispanic,78.9
+Missouri,Jasper,Midwest,Hispanic,92.0
+Missouri,Jefferson,Midwest,Hispanic,92.8
+Missouri,Johnson,Midwest,Hispanic,82.1
+Missouri,McDonald,Midwest,Hispanic,80.1
+Missouri,Newton,Midwest,Hispanic,94.7
+Missouri,Pettis,Midwest,Hispanic,89.9
+Missouri,Platte,Midwest,Hispanic,84.5
+Missouri,Pulaski,Midwest,Hispanic,80.9
+Missouri,St. Charles,Midwest,Hispanic,87.0
+Missouri,St. Louis,Midwest,Hispanic,81.8
+Missouri,Saline,Midwest,Hispanic,85.8
+Missouri,Taney,Midwest,Hispanic,82.3
+Missouri,St. Louis City,Midwest,Hispanic,84.1
+Montana,Cascade,West,Hispanic,78.1
+Montana,Flathead,West,Hispanic,106.6
+Montana,Gallatin,West,Hispanic,94.1
+Montana,Lewis and Clark,West,Hispanic,79.4
+Montana,Missoula,West,Hispanic,84.3
+Montana,Ravalli,West,Hispanic,82.7
+Montana,Yellowstone,West,Hispanic,72.1
+Nebraska,Adams,Midwest,Hispanic,86.3
+Nebraska,Buffalo,Midwest,Hispanic,82.9
+Nebraska,Colfax,Midwest,Hispanic,85.2
+Nebraska,Dawson,Midwest,Hispanic,79.5
+Nebraska,Dodge,Midwest,Hispanic,85.2
+Nebraska,Douglas,Midwest,Hispanic,82.8
+Nebraska,Hall,Midwest,Hispanic,81.8
+Nebraska,Lancaster,Midwest,Hispanic,86.2
+Nebraska,Lincoln,Midwest,Hispanic,77.0
+Nebraska,Platte,Midwest,Hispanic,82.9
+Nebraska,Sarpy,Midwest,Hispanic,86.6
+Nebraska,Scotts Bluff,Midwest,Hispanic,76.5
+Nevada,Churchill,West,Hispanic,86.3
+Nevada,Clark,West,Hispanic,80.9
+Nevada,Douglas,West,Hispanic,87.2
+Nevada,Elko,West,Hispanic,78.5
+Nevada,Humboldt,West,Hispanic,101.0
+Nevada,Lyon,West,Hispanic,87.7
+Nevada,Nye,West,Hispanic,78.9
+Nevada,Washoe,West,Hispanic,82.7
+Nevada,Carson City,West,Hispanic,81.6
+New Hampshire,Cheshire,Northeast,Hispanic,96.3
+New Hampshire,Hillsborough,Northeast,Hispanic,85.0
+New Hampshire,Merrimack,Northeast,Hispanic,93.8
+New Hampshire,Rockingham,Northeast,Hispanic,95.0
+New Hampshire,Strafford,Northeast,Hispanic,85.4
+New Jersey,Atlantic,Northeast,Hispanic,80.0
+New Jersey,Bergen,Northeast,Hispanic,83.9
+New Jersey,Burlington,Northeast,Hispanic,83.5
+New Jersey,Camden,Northeast,Hispanic,77.8
+New Jersey,Cape May,Northeast,Hispanic,87.2
+New Jersey,Cumberland,Northeast,Hispanic,76.2
+New Jersey,Essex,Northeast,Hispanic,81.2
+New Jersey,Gloucester,Northeast,Hispanic,81.1
+New Jersey,Hudson,Northeast,Hispanic,81.7
+New Jersey,Hunterdon,Northeast,Hispanic,85.1
+New Jersey,Mercer,Northeast,Hispanic,80.9
+New Jersey,Middlesex,Northeast,Hispanic,82.1
+New Jersey,Monmouth,Northeast,Hispanic,80.4
+New Jersey,Morris,Northeast,Hispanic,84.7
+New Jersey,Ocean,Northeast,Hispanic,82.2
+New Jersey,Passaic,Northeast,Hispanic,81.5
+New Jersey,Salem,Northeast,Hispanic,82.7
+New Jersey,Somerset,Northeast,Hispanic,84.7
+New Jersey,Sussex,Northeast,Hispanic,81.8
+New Jersey,Union,Northeast,Hispanic,81.5
+New Jersey,Warren,Northeast,Hispanic,86.2
+New Mexico,Bernalillo,West,Hispanic,74.3
+New Mexico,Chaves,West,Hispanic,72.8
+New Mexico,Cibola,West,Hispanic,74.1
+New Mexico,Colfax,West,Hispanic,71.3
+New Mexico,Curry,West,Hispanic,71.8
+New Mexico,Dona Ana,West,Hispanic,76.0
+New Mexico,Eddy,West,Hispanic,72.8
+New Mexico,Grant,West,Hispanic,72.8
+New Mexico,Lea,West,Hispanic,73.8
+New Mexico,Lincoln,West,Hispanic,74.9
+New Mexico,Los Alamos,West,Hispanic,81.3
+New Mexico,Luna,West,Hispanic,74.4
+New Mexico,McKinley,West,Hispanic,72.8
+New Mexico,Otero,West,Hispanic,76.7
+New Mexico,Quay,West,Hispanic,70.8
+New Mexico,Rio Arriba,West,Hispanic,69.0
+New Mexico,Roosevelt,West,Hispanic,72.5
+New Mexico,Sandoval,West,Hispanic,78.1
+New Mexico,San Juan,West,Hispanic,73.9
+New Mexico,San Miguel,West,Hispanic,72.9
+New Mexico,Santa Fe,West,Hispanic,76.8
+New Mexico,Sierra,West,Hispanic,73.3
+New Mexico,Socorro,West,Hispanic,70.9
+New Mexico,Taos,West,Hispanic,74.6
+New Mexico,Torrance,West,Hispanic,73.2
+New Mexico,Union,West,Hispanic,71.5
+New Mexico,Valencia,West,Hispanic,74.8
+New York,Albany,Northeast,Hispanic,84.0
+New York,Bronx,Northeast,Hispanic,78.8
+New York,Broome,Northeast,Hispanic,79.8
+New York,Cattaraugus,Northeast,Hispanic,79.0
+New York,Chautauqua,Northeast,Hispanic,73.5
+New York,Chemung,Northeast,Hispanic,88.8
+New York,Clinton,Northeast,Hispanic,87.0
+New York,Columbia,Northeast,Hispanic,101.8
+New York,Delaware,Northeast,Hispanic,80.4
+New York,Dutchess,Northeast,Hispanic,82.7
+New York,Erie,Northeast,Hispanic,76.9
+New York,Fulton,Northeast,Hispanic,85.8
+New York,Genesee,Northeast,Hispanic,83.5
+New York,Greene,Northeast,Hispanic,84.6
+New York,Jefferson,Northeast,Hispanic,83.1
+New York,Kings,Northeast,Hispanic,79.5
+New York,Livingston,Northeast,Hispanic,90.4
+New York,Madison,Northeast,Hispanic,94.8
+New York,Monroe,Northeast,Hispanic,77.4
+New York,Montgomery,Northeast,Hispanic,76.5
+New York,Nassau,Northeast,Hispanic,82.9
+New York,New York,Northeast,Hispanic,81.9
+New York,Niagara,Northeast,Hispanic,77.4
+New York,Oneida,Northeast,Hispanic,78.5
+New York,Onondaga,Northeast,Hispanic,79.6
+New York,Ontario,Northeast,Hispanic,82.2
+New York,Orange,Northeast,Hispanic,81.2
+New York,Orleans,Northeast,Hispanic,94.4
+New York,Otsego,Northeast,Hispanic,84.3
+New York,Putnam,Northeast,Hispanic,85.8
+New York,Queens,Northeast,Hispanic,83.3
+New York,Rensselaer,Northeast,Hispanic,79.7
+New York,Richmond,Northeast,Hispanic,80.9
+New York,Rockland,Northeast,Hispanic,81.4
+New York,St. Lawrence,Northeast,Hispanic,96.0
+New York,Saratoga,Northeast,Hispanic,93.3
+New York,Schenectady,Northeast,Hispanic,78.0
+New York,Steuben,Northeast,Hispanic,86.6
+New York,Suffolk,Northeast,Hispanic,81.2
+New York,Sullivan,Northeast,Hispanic,78.5
+New York,Tompkins,Northeast,Hispanic,96.6
+New York,Ulster,Northeast,Hispanic,81.8
+New York,Wayne,Northeast,Hispanic,81.2
+New York,Westchester,Northeast,Hispanic,83.8
+North Carolina,Alamance,South,Hispanic,86.5
+North Carolina,Alexander,South,Hispanic,87.7
+North Carolina,Beaufort,South,Hispanic,83.0
+North Carolina,Brunswick,South,Hispanic,82.5
+North Carolina,Buncombe,South,Hispanic,88.7
+North Carolina,Burke,South,Hispanic,86.9
+North Carolina,Cabarrus,South,Hispanic,84.0
+North Carolina,Caldwell,South,Hispanic,85.9
+North Carolina,Catawba,South,Hispanic,93.5
+North Carolina,Chatham,South,Hispanic,89.1
+North Carolina,Cleveland,South,Hispanic,82.3
+North Carolina,Columbus,South,Hispanic,95.7
+North Carolina,Craven,South,Hispanic,81.2
+North Carolina,Cumberland,South,Hispanic,81.5
+North Carolina,Davidson,South,Hispanic,94.6
+North Carolina,Davie,South,Hispanic,88.8
+North Carolina,Duplin,South,Hispanic,80.3
+North Carolina,Durham,South,Hispanic,85.8
+North Carolina,Forsyth,South,Hispanic,81.6
+North Carolina,Franklin,South,Hispanic,94.1
+North Carolina,Gaston,South,Hispanic,83.9
+North Carolina,Granville,South,Hispanic,92.4
+North Carolina,Guilford,South,Hispanic,83.2
+North Carolina,Harnett,South,Hispanic,82.0
+North Carolina,Haywood,South,Hispanic,90.2
+North Carolina,Henderson,South,Hispanic,86.5
+North Carolina,Hoke,South,Hispanic,78.7
+North Carolina,Iredell,South,Hispanic,87.5
+North Carolina,Johnston,South,Hispanic,81.7
+North Carolina,Lee,South,Hispanic,80.6
+North Carolina,Lenoir,South,Hispanic,91.5
+North Carolina,Lincoln,South,Hispanic,97.3
+North Carolina,Macon,South,Hispanic,82.7
+North Carolina,Mecklenburg,South,Hispanic,82.7
+North Carolina,Montgomery,South,Hispanic,76.7
+North Carolina,Moore,South,Hispanic,81.0
+North Carolina,Nash,South,Hispanic,88.6
+North Carolina,New Hanover,South,Hispanic,82.8
+North Carolina,Onslow,South,Hispanic,82.7
+North Carolina,Orange,South,Hispanic,85.4
+North Carolina,Pender,South,Hispanic,91.1
+North Carolina,Pitt,South,Hispanic,90.7
+North Carolina,Randolph,South,Hispanic,81.5
+North Carolina,Richmond,South,Hispanic,83.7
+North Carolina,Robeson,South,Hispanic,78.3
+North Carolina,Rockingham,South,Hispanic,111.9
+North Carolina,Rowan,South,Hispanic,92.1
+North Carolina,Rutherford,South,Hispanic,89.6
+North Carolina,Sampson,South,Hispanic,81.6
+North Carolina,Stanly,South,Hispanic,86.9
+North Carolina,Stokes,South,Hispanic,85.8
+North Carolina,Surry,South,Hispanic,86.3
+North Carolina,Union,South,Hispanic,84.7
+North Carolina,Vance,South,Hispanic,89.7
+North Carolina,Wake,South,Hispanic,85.3
+North Carolina,Watauga,South,Hispanic,87.6
+North Carolina,Wayne,South,Hispanic,81.3
+North Carolina,Wilson,South,Hispanic,88.7
+North Carolina,Yadkin,South,Hispanic,93.4
+North Dakota,Burleigh,Midwest,Hispanic,84.5
+North Dakota,Cass,Midwest,Hispanic,75.8
+North Dakota,Grand Forks,Midwest,Hispanic,85.0
+North Dakota,Stark,Midwest,Hispanic,86.1
+North Dakota,Ward,Midwest,Hispanic,87.5
+Ohio,Allen,Midwest,Hispanic,87.6
+Ohio,Ashtabula,Midwest,Hispanic,79.1
+Ohio,Butler,Midwest,Hispanic,96.4
+Ohio,Clark,Midwest,Hispanic,84.5
+Ohio,Clermont,Midwest,Hispanic,95.3
+Ohio,Cuyahoga,Midwest,Hispanic,79.6
+Ohio,Defiance,Midwest,Hispanic,71.4
+Ohio,Delaware,Midwest,Hispanic,89.0
+Ohio,Erie,Midwest,Hispanic,78.5
+Ohio,Fairfield,Midwest,Hispanic,101.2
+Ohio,Franklin,Midwest,Hispanic,84.3
+Ohio,Fulton,Midwest,Hispanic,75.0
+Ohio,Greene,Midwest,Hispanic,90.2
+Ohio,Hamilton,Midwest,Hispanic,102.3
+Ohio,Hancock,Midwest,Hispanic,76.2
+Ohio,Henry,Midwest,Hispanic,76.8
+Ohio,Huron,Midwest,Hispanic,80.6
+Ohio,Lake,Midwest,Hispanic,110.7
+Ohio,Licking,Midwest,Hispanic,94.1
+Ohio,Lorain,Midwest,Hispanic,77.5
+Ohio,Lucas,Midwest,Hispanic,76.3
+Ohio,Mahoning,Midwest,Hispanic,78.6
+Ohio,Medina,Midwest,Hispanic,96.5
+Ohio,Miami,Midwest,Hispanic,86.0
+Ohio,Montgomery,Midwest,Hispanic,86.7
+Ohio,Ottawa,Midwest,Hispanic,76.2
+Ohio,Putnam,Midwest,Hispanic,74.1
+Ohio,Richland,Midwest,Hispanic,80.1
+Ohio,Sandusky,Midwest,Hispanic,81.5
+Ohio,Seneca,Midwest,Hispanic,77.2
+Ohio,Stark,Midwest,Hispanic,89.4
+Ohio,Summit,Midwest,Hispanic,93.4
+Ohio,Trumbull,Midwest,Hispanic,91.4
+Ohio,Warren,Midwest,Hispanic,87.5
+Ohio,Wayne,Midwest,Hispanic,97.5
+Ohio,Williams,Midwest,Hispanic,74.1
+Ohio,Wood,Midwest,Hispanic,77.4
+Oklahoma,Beckham,South,Hispanic,77.1
+Oklahoma,Bryan,South,Hispanic,79.2
+Oklahoma,Caddo,South,Hispanic,71.8
+Oklahoma,Canadian,South,Hispanic,81.6
+Oklahoma,Carter,South,Hispanic,78.1
+Oklahoma,Cleveland,South,Hispanic,83.8
+Oklahoma,Comanche,South,Hispanic,76.0
+Oklahoma,Creek,South,Hispanic,82.7
+Oklahoma,Custer,South,Hispanic,85.7
+Oklahoma,Garfield,South,Hispanic,80.2
+Oklahoma,Garvin,South,Hispanic,73.1
+Oklahoma,Grady,South,Hispanic,83.0
+Oklahoma,Jackson,South,Hispanic,74.5
+Oklahoma,Kay,South,Hispanic,87.1
+Oklahoma,Kingfisher,South,Hispanic,84.9
+Oklahoma,Le Flore,South,Hispanic,84.1
+Oklahoma,Logan,South,Hispanic,86.0
+Oklahoma,Love,South,Hispanic,80.3
+Oklahoma,McClain,South,Hispanic,78.3
+Oklahoma,McCurtain,South,Hispanic,83.9
+Oklahoma,Marshall,South,Hispanic,83.0
+Oklahoma,Muskogee,South,Hispanic,81.2
+Oklahoma,Oklahoma,South,Hispanic,77.5
+Oklahoma,Okmulgee,South,Hispanic,80.2
+Oklahoma,Osage,South,Hispanic,82.7
+Oklahoma,Ottawa,South,Hispanic,80.7
+Oklahoma,Payne,South,Hispanic,87.6
+Oklahoma,Pittsburg,South,Hispanic,79.1
+Oklahoma,Pontotoc,South,Hispanic,92.1
+Oklahoma,Pottawatomie,South,Hispanic,78.5
+Oklahoma,Rogers,South,Hispanic,81.4
+Oklahoma,Stephens,South,Hispanic,85.4
+Oklahoma,Texas,South,Hispanic,79.9
+Oklahoma,Tillman,South,Hispanic,73.3
+Oklahoma,Tulsa,South,Hispanic,80.4
+Oklahoma,Wagoner,South,Hispanic,84.6
+Oklahoma,Washington,South,Hispanic,82.4
+Oregon,Benton,West,Hispanic,87.4
+Oregon,Clackamas,West,Hispanic,84.3
+Oregon,Clatsop,West,Hispanic,93.4
+Oregon,Columbia,West,Hispanic,87.6
+Oregon,Coos,West,Hispanic,93.8
+Oregon,Crook,West,Hispanic,81.4
+Oregon,Curry,West,Hispanic,89.1
+Oregon,Deschutes,West,Hispanic,83.2
+Oregon,Douglas,West,Hispanic,86.2
+Oregon,Hood River,West,Hispanic,88.7
+Oregon,Jackson,West,Hispanic,82.5
+Oregon,Jefferson,West,Hispanic,77.1
+Oregon,Josephine,West,Hispanic,78.1
+Oregon,Klamath,West,Hispanic,82.6
+Oregon,Lane,West,Hispanic,83.1
+Oregon,Lincoln,West,Hispanic,80.4
+Oregon,Linn,West,Hispanic,87.9
+Oregon,Malheur,West,Hispanic,76.2
+Oregon,Marion,West,Hispanic,81.1
+Oregon,Morrow,West,Hispanic,81.8
+Oregon,Multnomah,West,Hispanic,82.1
+Oregon,Polk,West,Hispanic,81.2
+Oregon,Tillamook,West,Hispanic,86.5
+Oregon,Umatilla,West,Hispanic,81.0
+Oregon,Wasco,West,Hispanic,87.7
+Oregon,Washington,West,Hispanic,83.8
+Oregon,Yamhill,West,Hispanic,85.1
+Pennsylvania,Adams,Northeast,Hispanic,84.9
+Pennsylvania,Allegheny,Northeast,Hispanic,87.3
+Pennsylvania,Beaver,Northeast,Hispanic,89.5
+Pennsylvania,Berks,Northeast,Hispanic,78.8
+Pennsylvania,Blair,Northeast,Hispanic,99.5
+Pennsylvania,Bucks,Northeast,Hispanic,83.8
+Pennsylvania,Butler,Northeast,Hispanic,80.3
+Pennsylvania,Carbon,Northeast,Hispanic,79.7
+Pennsylvania,Centre,Northeast,Hispanic,85.9
+Pennsylvania,Chester,Northeast,Hispanic,86.2
+Pennsylvania,Clearfield,Northeast,Hispanic,99.0
+Pennsylvania,Columbia,Northeast,Hispanic,86.7
+Pennsylvania,Cumberland,Northeast,Hispanic,82.4
+Pennsylvania,Dauphin,Northeast,Hispanic,76.1
+Pennsylvania,Delaware,Northeast,Hispanic,79.4
+Pennsylvania,Erie,Northeast,Hispanic,78.5
+Pennsylvania,Franklin,Northeast,Hispanic,79.7
+Pennsylvania,Lackawanna,Northeast,Hispanic,81.0
+Pennsylvania,Lancaster,Northeast,Hispanic,79.2
+Pennsylvania,Lebanon,Northeast,Hispanic,76.9
+Pennsylvania,Lehigh,Northeast,Hispanic,79.3
+Pennsylvania,Luzerne,Northeast,Hispanic,83.9
+Pennsylvania,Lycoming,Northeast,Hispanic,87.8
+Pennsylvania,Mercer,Northeast,Hispanic,89.5
+Pennsylvania,Monroe,Northeast,Hispanic,80.8
+Pennsylvania,Montgomery,Northeast,Hispanic,82.5
+Pennsylvania,Northampton,Northeast,Hispanic,80.7
+Pennsylvania,Northumberland,Northeast,Hispanic,82.2
+Pennsylvania,Philadelphia,Northeast,Hispanic,76.6
+Pennsylvania,Pike,Northeast,Hispanic,91.6
+Pennsylvania,Schuylkill,Northeast,Hispanic,82.6
+Pennsylvania,Union,Northeast,Hispanic,92.0
+Pennsylvania,Washington,Northeast,Hispanic,92.5
+Pennsylvania,Wayne,Northeast,Hispanic,84.2
+Pennsylvania,Westmoreland,Northeast,Hispanic,94.3
+Pennsylvania,York,Northeast,Hispanic,76.8
+Rhode Island,Bristol,Northeast,Hispanic,96.4
+Rhode Island,Kent,Northeast,Hispanic,91.5
+Rhode Island,Newport,Northeast,Hispanic,102.3
+Rhode Island,Providence,Northeast,Hispanic,84.7
+Rhode Island,Washington,Northeast,Hispanic,90.1
+South Carolina,Aiken,South,Hispanic,83.6
+South Carolina,Anderson,South,Hispanic,84.5
+South Carolina,Beaufort,South,Hispanic,89.4
+South Carolina,Berkeley,South,Hispanic,79.5
+South Carolina,Charleston,South,Hispanic,82.0
+South Carolina,Dorchester,South,Hispanic,79.3
+South Carolina,Edgefield,South,Hispanic,93.2
+South Carolina,Florence,South,Hispanic,88.5
+South Carolina,Greenville,South,Hispanic,82.6
+South Carolina,Horry,South,Hispanic,81.8
+South Carolina,Jasper,South,Hispanic,74.4
+South Carolina,Kershaw,South,Hispanic,80.3
+South Carolina,Lancaster,South,Hispanic,84.7
+South Carolina,Laurens,South,Hispanic,82.8
+South Carolina,Lexington,South,Hispanic,84.0
+South Carolina,Oconee,South,Hispanic,86.1
+South Carolina,Orangeburg,South,Hispanic,83.0
+South Carolina,Pickens,South,Hispanic,83.4
+South Carolina,Richland,South,Hispanic,80.5
+South Carolina,Saluda,South,Hispanic,84.4
+South Carolina,Spartanburg,South,Hispanic,84.7
+South Carolina,Sumter,South,Hispanic,86.0
+South Carolina,York,South,Hispanic,85.2
+South Dakota,Beadle,Midwest,Hispanic,84.2
+South Dakota,Minnehaha,Midwest,Hispanic,76.7
+South Dakota,Pennington,Midwest,Hispanic,77.8
+Tennessee,Anderson,South,Hispanic,88.4
+Tennessee,Bedford,South,Hispanic,83.4
+Tennessee,Blount,South,Hispanic,85.3
+Tennessee,Bradley,South,Hispanic,79.0
+Tennessee,Cheatham,South,Hispanic,85.8
+Tennessee,Coffee,South,Hispanic,83.3
+Tennessee,Cumberland,South,Hispanic,81.3
+Tennessee,Davidson,South,Hispanic,81.3
+Tennessee,DeKalb,South,Hispanic,82.6
+Tennessee,Dickson,South,Hispanic,80.2
+Tennessee,Hamblen,South,Hispanic,84.4
+Tennessee,Hamilton,South,Hispanic,86.5
+Tennessee,Knox,South,Hispanic,83.3
+Tennessee,Loudon,South,Hispanic,90.8
+Tennessee,McMinn,South,Hispanic,82.2
+Tennessee,Madison,South,Hispanic,82.5
+Tennessee,Maury,South,Hispanic,79.0
+Tennessee,Monroe,South,Hispanic,80.8
+Tennessee,Montgomery,South,Hispanic,82.2
+Tennessee,Putnam,South,Hispanic,79.7
+Tennessee,Robertson,South,Hispanic,83.6
+Tennessee,Rutherford,South,Hispanic,80.1
+Tennessee,Sevier,South,Hispanic,82.1
+Tennessee,Shelby,South,Hispanic,79.5
+Tennessee,Sullivan,South,Hispanic,96.5
+Tennessee,Sumner,South,Hispanic,83.1
+Tennessee,Tipton,South,Hispanic,83.5
+Tennessee,Warren,South,Hispanic,96.6
+Tennessee,Washington,South,Hispanic,87.4
+Tennessee,Williamson,South,Hispanic,87.8
+Tennessee,Wilson,South,Hispanic,83.7
+Texas,Anderson,South,Hispanic,71.0
+Texas,Andrews,South,Hispanic,75.3
+Texas,Angelina,South,Hispanic,77.3
+Texas,Aransas,South,Hispanic,75.4
+Texas,Atascosa,South,Hispanic,73.9
+Texas,Austin,South,Hispanic,79.8
+Texas,Bailey,South,Hispanic,74.4
+Texas,Bandera,South,Hispanic,81.5
+Texas,Bastrop,South,Hispanic,79.2
+Texas,Bee,South,Hispanic,71.2
+Texas,Bell,South,Hispanic,79.0
+Texas,Bexar,South,Hispanic,76.3
+Texas,Blanco,South,Hispanic,80.4
+Texas,Bosque,South,Hispanic,83.1
+Texas,Bowie,South,Hispanic,85.1
+Texas,Brazoria,South,Hispanic,79.9
+Texas,Brazos,South,Hispanic,80.8
+Texas,Brewster,South,Hispanic,83.2
+Texas,Brown,South,Hispanic,76.3
+Texas,Burleson,South,Hispanic,78.2
+Texas,Burnet,South,Hispanic,79.1
+Texas,Caldwell,South,Hispanic,76.6
+Texas,Calhoun,South,Hispanic,74.0
+Texas,Cameron,South,Hispanic,76.1
+Texas,Camp,South,Hispanic,89.6
+Texas,Castro,South,Hispanic,73.7
+Texas,Chambers,South,Hispanic,82.9
+Texas,Cherokee,South,Hispanic,78.9
+Texas,Childress,South,Hispanic,70.2
+Texas,Collin,South,Hispanic,84.4
+Texas,Colorado,South,Hispanic,76.8
+Texas,Comal,South,Hispanic,79.6
+Texas,Comanche,South,Hispanic,77.6
+Texas,Cooke,South,Hispanic,87.6
+Texas,Coryell,South,Hispanic,82.4
+Texas,Crosby,South,Hispanic,67.6
+Texas,Dallam,South,Hispanic,71.7
+Texas,Dallas,South,Hispanic,80.0
+Texas,Dawson,South,Hispanic,69.7
+Texas,Deaf Smith,South,Hispanic,73.2
+Texas,Denton,South,Hispanic,85.6
+Texas,DeWitt,South,Hispanic,73.9
+Texas,Eastland,South,Hispanic,74.8
+Texas,Ector,South,Hispanic,73.5
+Texas,Ellis,South,Hispanic,79.5
+Texas,El Paso,South,Hispanic,76.8
+Texas,Erath,South,Hispanic,85.1
+Texas,Falls,South,Hispanic,78.3
+Texas,Fannin,South,Hispanic,79.8
+Texas,Fayette,South,Hispanic,77.0
+Texas,Floyd,South,Hispanic,72.0
+Texas,Fort Bend,South,Hispanic,82.5
+Texas,Franklin,South,Hispanic,80.2
+Texas,Freestone,South,Hispanic,84.8
+Texas,Frio,South,Hispanic,71.5
+Texas,Gaines,South,Hispanic,74.7
+Texas,Galveston,South,Hispanic,79.6
+Texas,Garza,South,Hispanic,73.9
+Texas,Gillespie,South,Hispanic,82.7
+Texas,Goliad,South,Hispanic,73.4
+Texas,Gonzales,South,Hispanic,75.7
+Texas,Gray,South,Hispanic,78.1
+Texas,Grayson,South,Hispanic,83.0
+Texas,Gregg,South,Hispanic,78.4
+Texas,Grimes,South,Hispanic,78.9
+Texas,Guadalupe,South,Hispanic,79.2
+Texas,Hale,South,Hispanic,72.1
+Texas,Hansford,South,Hispanic,90.6
+Texas,Hardin,South,Hispanic,92.8
+Texas,Harris,South,Hispanic,79.9
+Texas,Harrison,South,Hispanic,86.8
+Texas,Hays,South,Hispanic,79.0
+Texas,Henderson,South,Hispanic,82.6
+Texas,Hidalgo,South,Hispanic,76.5
+Texas,Hill,South,Hispanic,77.8
+Texas,Hockley,South,Hispanic,72.6
+Texas,Hood,South,Hispanic,84.3
+Texas,Hopkins,South,Hispanic,82.4
+Texas,Houston,South,Hispanic,83.1
+Texas,Howard,South,Hispanic,72.7
+Texas,Hunt,South,Hispanic,81.9
+Texas,Hutchinson,South,Hispanic,75.4
+Texas,Jackson,South,Hispanic,76.6
+Texas,Jasper,South,Hispanic,82.2
+Texas,Jefferson,South,Hispanic,82.4
+Texas,Jim Wells,South,Hispanic,71.2
+Texas,Johnson,South,Hispanic,79.6
+Texas,Jones,South,Hispanic,71.9
+Texas,Karnes,South,Hispanic,72.6
+Texas,Kaufman,South,Hispanic,79.1
+Texas,Kendall,South,Hispanic,83.2
+Texas,Kerr,South,Hispanic,79.6
+Texas,Kleberg,South,Hispanic,72.8
+Texas,Lamar,South,Hispanic,99.0
+Texas,Lamb,South,Hispanic,71.6
+Texas,Lampasas,South,Hispanic,78.2
+Texas,Lavaca,South,Hispanic,82.4
+Texas,Lee,South,Hispanic,76.0
+Texas,Leon,South,Hispanic,93.9
+Texas,Liberty,South,Hispanic,77.8
+Texas,Limestone,South,Hispanic,86.6
+Texas,Live Oak,South,Hispanic,76.3
+Texas,Llano,South,Hispanic,83.4
+Texas,Lubbock,South,Hispanic,72.7
+Texas,Lynn,South,Hispanic,68.2
+Texas,McCulloch,South,Hispanic,69.8
+Texas,McLennan,South,Hispanic,77.6
+Texas,Madison,South,Hispanic,83.1
+Texas,Martin,South,Hispanic,70.7
+Texas,Matagorda,South,Hispanic,76.1
+Texas,Medina,South,Hispanic,76.7
+Texas,Midland,South,Hispanic,76.2
+Texas,Milam,South,Hispanic,75.7
+Texas,Mitchell,South,Hispanic,74.7
+Texas,Montague,South,Hispanic,80.4
+Texas,Montgomery,South,Hispanic,82.5
+Texas,Moore,South,Hispanic,76.6
+Texas,Nacogdoches,South,Hispanic,85.2
+Texas,Navarro,South,Hispanic,79.8
+Texas,Nolan,South,Hispanic,74.2
+Texas,Nueces,South,Hispanic,76.2
+Texas,Ochiltree,South,Hispanic,78.4
+Texas,Orange,South,Hispanic,96.3
+Texas,Palo Pinto,South,Hispanic,75.5
+Texas,Panola,South,Hispanic,85.9
+Texas,Parker,South,Hispanic,80.5
+Texas,Parmer,South,Hispanic,79.8
+Texas,Pecos,South,Hispanic,73.6
+Texas,Polk,South,Hispanic,81.5
+Texas,Potter,South,Hispanic,73.8
+Texas,Randall,South,Hispanic,77.5
+Texas,Reeves,South,Hispanic,72.7
+Texas,Refugio,South,Hispanic,75.1
+Texas,Robertson,South,Hispanic,76.7
+Texas,Rockwall,South,Hispanic,82.1
+Texas,Runnels,South,Hispanic,72.3
+Texas,Rusk,South,Hispanic,85.4
+Texas,San Jacinto,South,Hispanic,82.0
+Texas,San Patricio,South,Hispanic,73.5
+Texas,San Saba,South,Hispanic,75.7
+Texas,Scurry,South,Hispanic,72.0
+Texas,Shelby,South,Hispanic,102.3
+Texas,Smith,South,Hispanic,83.9
+Texas,Somervell,South,Hispanic,86.6
+Texas,Starr,South,Hispanic,73.3
+Texas,Stephens,South,Hispanic,82.5
+Texas,Swisher,South,Hispanic,70.2
+Texas,Tarrant,South,Hispanic,80.1
+Texas,Taylor,South,Hispanic,73.8
+Texas,Terry,South,Hispanic,69.8
+Texas,Titus,South,Hispanic,100.0
+Texas,Tom Green,South,Hispanic,76.1
+Texas,Travis,South,Hispanic,81.1
+Texas,Uvalde,South,Hispanic,71.7
+Texas,Val Verde,South,Hispanic,74.2
+Texas,Van Zandt,South,Hispanic,84.1
+Texas,Victoria,South,Hispanic,73.9
+Texas,Walker,South,Hispanic,79.0
+Texas,Waller,South,Hispanic,79.1
+Texas,Ward,South,Hispanic,73.8
+Texas,Washington,South,Hispanic,92.5
+Texas,Webb,South,Hispanic,75.3
+Texas,Wharton,South,Hispanic,75.3
+Texas,Wichita,South,Hispanic,75.3
+Texas,Wilbarger,South,Hispanic,72.2
+Texas,Willacy,South,Hispanic,72.0
+Texas,Williamson,South,Hispanic,82.6
+Texas,Wilson,South,Hispanic,77.1
+Texas,Winkler,South,Hispanic,73.5
+Texas,Wise,South,Hispanic,78.0
+Texas,Wood,South,Hispanic,92.3
+Texas,Yoakum,South,Hispanic,71.7
+Texas,Young,South,Hispanic,74.6
+Utah,Box Elder,West,Hispanic,74.9
+Utah,Cache,West,Hispanic,81.0
+Utah,Carbon,West,Hispanic,73.0
+Utah,Davis,West,Hispanic,80.5
+Utah,Iron,West,Hispanic,82.0
+Utah,Millard,West,Hispanic,107.0
+Utah,Salt Lake,West,Hispanic,80.4
+Utah,Summit,West,Hispanic,83.8
+Utah,Tooele,West,Hispanic,77.8
+Utah,Uintah,West,Hispanic,84.2
+Utah,Utah,West,Hispanic,83.3
+Utah,Wasatch,West,Hispanic,79.7
+Utah,Washington,West,Hispanic,84.2
+Utah,Weber,West,Hispanic,77.3
+Vermont,Chittenden,Northeast,Hispanic,85.4
+Virginia,Albemarle,South,Hispanic,88.3
+Virginia,Arlington,South,Hispanic,89.2
+Virginia,Augusta,South,Hispanic,80.4
+Virginia,Bedford,South,Hispanic,95.6
+Virginia,Campbell,South,Hispanic,95.4
+Virginia,Caroline,South,Hispanic,83.8
+Virginia,Chesterfield,South,Hispanic,80.2
+Virginia,Culpeper,South,Hispanic,93.5
+Virginia,Fairfax,South,Hispanic,86.8
+Virginia,Fauquier,South,Hispanic,88.6
+Virginia,Franklin,South,Hispanic,93.4
+Virginia,Frederick,South,Hispanic,85.1
+Virginia,Hanover,South,Hispanic,89.5
+Virginia,Henrico,South,Hispanic,82.6
+Virginia,Henry,South,Hispanic,89.3
+Virginia,James City,South,Hispanic,82.7
+Virginia,King George,South,Hispanic,80.5
+Virginia,Loudoun,South,Hispanic,87.0
+Virginia,Montgomery,South,Hispanic,82.2
+Virginia,Orange,South,Hispanic,94.0
+Virginia,Pittsylvania,South,Hispanic,96.0
+Virginia,Prince George,South,Hispanic,82.3
+Virginia,Prince William,South,Hispanic,82.5
+Virginia,Roanoke,South,Hispanic,92.9
+Virginia,Rockingham,South,Hispanic,83.3
+Virginia,Shenandoah,South,Hispanic,80.4
+Virginia,Spotsylvania,South,Hispanic,81.9
+Virginia,Stafford,South,Hispanic,82.3
+Virginia,York,South,Hispanic,86.7
+Virginia,Alexandria City,South,Hispanic,85.2
+Virginia,Charlottesville City,South,Hispanic,87.9
+Virginia,Chesapeake City,South,Hispanic,84.4
+Virginia,Danville City,South,Hispanic,77.7
+Virginia,Fairfax City,South,Hispanic,80.2
+Virginia,Fredericksburg City,South,Hispanic,80.6
+Virginia,Hampton City,South,Hispanic,86.0
+Virginia,Harrisonburg City,South,Hispanic,84.8
+Virginia,Hopewell City,South,Hispanic,95.1
+Virginia,Lynchburg City,South,Hispanic,78.5
+Virginia,Manassas City,South,Hispanic,79.1
+Virginia,Newport News City,South,Hispanic,83.5
+Virginia,Norfolk City,South,Hispanic,82.1
+Virginia,Petersburg City,South,Hispanic,79.1
+Virginia,Portsmouth City,South,Hispanic,77.3
+Virginia,Richmond City,South,Hispanic,88.3
+Virginia,Roanoke City,South,Hispanic,84.1
+Virginia,Suffolk City,South,Hispanic,83.5
+Virginia,Virginia Beach City,South,Hispanic,82.3
+Virginia,Winchester City,South,Hispanic,80.4
+Washington,Adams,West,Hispanic,76.3
+Washington,Benton,West,Hispanic,79.3
+Washington,Chelan,West,Hispanic,84.2
+Washington,Clallam,West,Hispanic,87.2
+Washington,Clark,West,Hispanic,81.7
+Washington,Cowlitz,West,Hispanic,83.3
+Washington,Douglas,West,Hispanic,82.9
+Washington,Franklin,West,Hispanic,80.0
+Washington,Grant,West,Hispanic,79.9
+Washington,Grays Harbor,West,Hispanic,80.7
+Washington,Island,West,Hispanic,83.0
+Washington,King,West,Hispanic,83.1
+Washington,Kitsap,West,Hispanic,83.5
+Washington,Kittitas,West,Hispanic,91.1
+Washington,Klickitat,West,Hispanic,80.6
+Washington,Lewis,West,Hispanic,82.2
+Washington,Mason,West,Hispanic,85.8
+Washington,Okanogan,West,Hispanic,83.4
+Washington,Pacific,West,Hispanic,115.3
+Washington,Pierce,West,Hispanic,80.4
+Washington,Skagit,West,Hispanic,84.3
+Washington,Snohomish,West,Hispanic,82.6
+Washington,Spokane,West,Hispanic,80.8
+Washington,Stevens,West,Hispanic,88.7
+Washington,Thurston,West,Hispanic,80.6
+Washington,Walla Walla,West,Hispanic,78.1
+Washington,Whatcom,West,Hispanic,85.9
+Washington,Whitman,West,Hispanic,86.9
+Washington,Yakima,West,Hispanic,78.3
+West Virginia,Berkeley,South,Hispanic,93.6
+West Virginia,Jefferson,South,Hispanic,90.3
+West Virginia,Kanawha,South,Hispanic,77.9
+Wisconsin,Brown,Midwest,Hispanic,85.3
+Wisconsin,Calumet,Midwest,Hispanic,78.9
+Wisconsin,Clark,Midwest,Hispanic,83.8
+Wisconsin,Dane,Midwest,Hispanic,85.4
+Wisconsin,Dodge,Midwest,Hispanic,81.5
+Wisconsin,Eau Claire,Midwest,Hispanic,97.0
+Wisconsin,Fond du Lac,Midwest,Hispanic,81.9
+Wisconsin,Jefferson,Midwest,Hispanic,89.3
+Wisconsin,Kenosha,Midwest,Hispanic,79.4
+Wisconsin,La Crosse,Midwest,Hispanic,87.1
+Wisconsin,Manitowoc,Midwest,Hispanic,83.2
+Wisconsin,Marathon,Midwest,Hispanic,100.7
+Wisconsin,Milwaukee,Midwest,Hispanic,78.6
+Wisconsin,Outagamie,Midwest,Hispanic,90.9
+Wisconsin,Ozaukee,Midwest,Hispanic,88.3
+Wisconsin,Portage,Midwest,Hispanic,98.2
+Wisconsin,Racine,Midwest,Hispanic,76.9
+Wisconsin,Rock,Midwest,Hispanic,84.1
+Wisconsin,St. Croix,Midwest,Hispanic,88.1
+Wisconsin,Sauk,Midwest,Hispanic,91.8
+Wisconsin,Sheboygan,Midwest,Hispanic,81.3
+Wisconsin,Walworth,Midwest,Hispanic,80.9
+Wisconsin,Washington,Midwest,Hispanic,94.0
+Wisconsin,Waukesha,Midwest,Hispanic,80.9
+Wisconsin,Winnebago,Midwest,Hispanic,80.2
+Wisconsin,Wood,Midwest,Hispanic,78.8
+Wyoming,Albany,West,Hispanic,80.4
+Wyoming,Campbell,West,Hispanic,81.2
+Wyoming,Carbon,West,Hispanic,75.6
+Wyoming,Fremont,West,Hispanic,74.3
+Wyoming,Laramie,West,Hispanic,74.7
+Wyoming,Natrona,West,Hispanic,76.7
+Wyoming,Park,West,Hispanic,82.8
+Wyoming,Sweetwater,West,Hispanic,78.0
+Wyoming,Uinta,West,Hispanic,81.8
+Alabama,Baldwin,South,Asian,82.7
+Alabama,Jefferson,South,Asian,83.1
+Alabama,Limestone,South,Asian,86.9
+Alabama,Madison,South,Asian,87.1
+Alabama,Mobile,South,Asian,83.3
+Alabama,Montgomery,South,Asian,87.4
+Alabama,Shelby,South,Asian,88.2
+Alabama,Tuscaloosa,South,Asian,84.2
+Alaska,Anchorage,West,Asian,83.8
+Alaska,Fairbanks North Star,West,Asian,86.7
+Alaska,Juneau,West,Asian,94.4
+Alaska,Kodiak Island,West,Asian,105.0
+Alaska,Matanuska-Susitna,West,Asian,79.6
+Arizona,Cochise,West,Asian,88.1
+Arizona,Coconino,West,Asian,88.7
+Arizona,Maricopa,West,Asian,85.2
+Arizona,Mohave,West,Asian,82.3
+Arizona,Pima,West,Asian,86.0
+Arizona,Pinal,West,Asian,85.5
+Arizona,Yavapai,West,Asian,86.2
+Arizona,Yuma,West,Asian,88.8
+Arkansas,Benton,South,Asian,88.5
+Arkansas,Pulaski,South,Asian,85.8
+Arkansas,Saline,South,Asian,88.1
+Arkansas,Sebastian,South,Asian,81.7
+Arkansas,Washington,South,Asian,85.2
+California,Alameda,West,Asian,88.4
+California,Butte,West,Asian,80.8
+California,Contra Costa,West,Asian,87.2
+California,El Dorado,West,Asian,88.2
+California,Fresno,West,Asian,78.3
+California,Humboldt,West,Asian,82.4
+California,Imperial,West,Asian,87.9
+California,Kern,West,Asian,81.7
+California,Kings,West,Asian,84.9
+California,Los Angeles,West,Asian,85.2
+California,Madera,West,Asian,79.7
+California,Marin,West,Asian,90.2
+California,Mendocino,West,Asian,84.7
+California,Merced,West,Asian,79.3
+California,Monterey,West,Asian,84.2
+California,Napa,West,Asian,85.6
+California,Orange,West,Asian,85.7
+California,Placer,West,Asian,86.3
+California,Riverside,West,Asian,84.6
+California,Sacramento,West,Asian,83.2
+California,San Benito,West,Asian,91.2
+California,San Bernardino,West,Asian,84.0
+California,San Diego,West,Asian,85.8
+California,San Francisco,West,Asian,87.0
+California,San Joaquin,West,Asian,81.5
+California,San Luis Obispo,West,Asian,85.4
+California,San Mateo,West,Asian,88.0
+California,Santa Barbara,West,Asian,85.5
+California,Santa Clara,West,Asian,88.9
+California,Santa Cruz,West,Asian,85.9
+California,Shasta,West,Asian,79.9
+California,Solano,West,Asian,85.1
+California,Sonoma,West,Asian,86.5
+California,Stanislaus,West,Asian,79.5
+California,Sutter,West,Asian,83.7
+California,Tulare,West,Asian,80.4
+California,Ventura,West,Asian,87.0
+California,Yolo,West,Asian,86.7
+California,Yuba,West,Asian,77.6
+Colorado,Adams,West,Asian,82.2
+Colorado,Arapahoe,West,Asian,84.6
+Colorado,Boulder,West,Asian,88.0
+Colorado,Broomfield,West,Asian,84.2
+Colorado,Denver,West,Asian,84.7
+Colorado,Douglas,West,Asian,86.5
+Colorado,El Paso,West,Asian,84.6
+Colorado,Jefferson,West,Asian,83.9
+Colorado,Larimer,West,Asian,86.1
+Colorado,Weld,West,Asian,80.5
+Connecticut,Fairfield,Northeast,Asian,91.1
+Connecticut,Hartford,Northeast,Asian,87.6
+Connecticut,Litchfield,Northeast,Asian,90.4
+Connecticut,Middlesex,Northeast,Asian,90.2
+Connecticut,New Haven,Northeast,Asian,89.4
+Connecticut,New London,Northeast,Asian,88.1
+Connecticut,Tolland,Northeast,Asian,85.5
+Delaware,Kent,South,Asian,86.9
+Delaware,New Castle,South,Asian,90.5
+Delaware,Sussex,South,Asian,83.8
+District of Columbia,District of Columbia,South,Asian,92.2
+Florida,Alachua,South,Asian,92.6
+Florida,Bay,South,Asian,87.8
+Florida,Brevard,South,Asian,84.7
+Florida,Broward,South,Asian,87.7
+Florida,Charlotte,South,Asian,95.9
+Florida,Citrus,South,Asian,89.2
+Florida,Clay,South,Asian,83.2
+Florida,Collier,South,Asian,90.4
+Florida,Duval,South,Asian,86.1
+Florida,Escambia,South,Asian,81.1
+Florida,Flagler,South,Asian,85.5
+Florida,Hernando,South,Asian,87.3
+Florida,Hillsborough,South,Asian,87.8
+Florida,Indian River,South,Asian,91.8
+Florida,Lake,South,Asian,91.6
+Florida,Lee,South,Asian,93.5
+Florida,Leon,South,Asian,91.1
+Florida,Manatee,South,Asian,93.0
+Florida,Marion,South,Asian,82.6
+Florida,Martin,South,Asian,93.9
+Florida,Miami-Dade,South,Asian,86.5
+Florida,Okaloosa,South,Asian,86.1
+Florida,Orange,South,Asian,87.4
+Florida,Osceola,South,Asian,86.2
+Florida,Palm Beach,South,Asian,92.9
+Florida,Pasco,South,Asian,87.3
+Florida,Pinellas,South,Asian,87.1
+Florida,Polk,South,Asian,89.3
+Florida,St. Johns,South,Asian,92.1
+Florida,St. Lucie,South,Asian,87.3
+Florida,Santa Rosa,South,Asian,83.9
+Florida,Sarasota,South,Asian,90.0
+Florida,Seminole,South,Asian,86.4
+Florida,Volusia,South,Asian,87.5
+Georgia,Barrow,South,Asian,77.9
+Georgia,Bibb,South,Asian,94.6
+Georgia,Chatham,South,Asian,85.7
+Georgia,Cherokee,South,Asian,84.8
+Georgia,Clarke,South,Asian,93.0
+Georgia,Clayton,South,Asian,83.9
+Georgia,Cobb,South,Asian,87.6
+Georgia,Columbia,South,Asian,88.2
+Georgia,Coweta,South,Asian,88.4
+Georgia,DeKalb,South,Asian,88.2
+Georgia,Douglas,South,Asian,88.0
+Georgia,Fayette,South,Asian,86.3
+Georgia,Forsyth,South,Asian,89.1
+Georgia,Fulton,South,Asian,87.8
+Georgia,Gwinnett,South,Asian,84.4
+Georgia,Hall,South,Asian,82.3
+Georgia,Henry,South,Asian,83.9
+Georgia,Houston,South,Asian,80.7
+Georgia,Jackson,South,Asian,85.0
+Georgia,Lowndes,South,Asian,80.0
+Georgia,Muscogee,South,Asian,85.5
+Georgia,Paulding,South,Asian,81.6
+Georgia,Richmond,South,Asian,82.3
+Georgia,Troup,South,Asian,81.9
+Georgia,Walton,South,Asian,78.9
+Hawaii,Hawaii,West,Asian,84.2
+Hawaii,Honolulu,West,Asian,85.2
+Hawaii,Kauai,West,Asian,85.5
+Hawaii,Maui,West,Asian,85.3
+Idaho,Ada,West,Asian,84.1
+Idaho,Canyon,West,Asian,84.1
+Idaho,Kootenai,West,Asian,83.6
+Illinois,Champaign,Midwest,Asian,87.6
+Illinois,Cook,Midwest,Asian,87.1
+Illinois,DeKalb,Midwest,Asian,85.8
+Illinois,DuPage,Midwest,Asian,88.7
+Illinois,Jackson,Midwest,Asian,97.7
+Illinois,Kane,Midwest,Asian,85.8
+Illinois,Kendall,Midwest,Asian,84.4
+Illinois,Lake,Midwest,Asian,90.4
+Illinois,McHenry,Midwest,Asian,87.9
+Illinois,McLean,Midwest,Asian,118.9
+Illinois,Madison,Midwest,Asian,84.4
+Illinois,Peoria,Midwest,Asian,89.6
+Illinois,Rock Island,Midwest,Asian,85.4
+Illinois,St. Clair,Midwest,Asian,86.6
+Illinois,Sangamon,Midwest,Asian,93.2
+Illinois,Will,Midwest,Asian,89.2
+Illinois,Winnebago,Midwest,Asian,87.0
+Indiana,Allen,Midwest,Asian,77.8
+Indiana,Bartholomew,Midwest,Asian,97.1
+Indiana,Boone,Midwest,Asian,91.0
+Indiana,Elkhart,Midwest,Asian,82.3
+Indiana,Hamilton,Midwest,Asian,84.4
+Indiana,Hendricks,Midwest,Asian,87.0
+Indiana,Johnson,Midwest,Asian,81.1
+Indiana,Lake,Midwest,Asian,86.4
+Indiana,Marion,Midwest,Asian,82.0
+Indiana,Monroe,Midwest,Asian,94.7
+Indiana,Porter,Midwest,Asian,103.3
+Indiana,St. Joseph,Midwest,Asian,91.7
+Indiana,Tippecanoe,Midwest,Asian,89.4
+Indiana,Vanderburgh,Midwest,Asian,85.6
+Indiana,Vigo,Midwest,Asian,101.7
+Indiana,Warrick,Midwest,Asian,86.9
+Iowa,Black Hawk,Midwest,Asian,80.5
+Iowa,Buena Vista,Midwest,Asian,75.4
+Iowa,Dallas,Midwest,Asian,90.5
+Iowa,Johnson,Midwest,Asian,90.1
+Iowa,Linn,Midwest,Asian,86.5
+Iowa,Polk,Midwest,Asian,79.9
+Iowa,Scott,Midwest,Asian,85.9
+Iowa,Story,Midwest,Asian,103.5
+Iowa,Woodbury,Midwest,Asian,77.9
+Kansas,Douglas,Midwest,Asian,95.8
+Kansas,Johnson,Midwest,Asian,86.2
+Kansas,Riley,Midwest,Asian,89.3
+Kansas,Sedgwick,Midwest,Asian,83.4
+Kansas,Shawnee,Midwest,Asian,86.5
+Kansas,Wyandotte,Midwest,Asian,77.6
+Kentucky,Boone,South,Asian,88.3
+Kentucky,Fayette,South,Asian,88.5
+Kentucky,Hardin,South,Asian,88.1
+Kentucky,Jefferson,South,Asian,82.3
+Kentucky,Kenton,South,Asian,84.2
+Kentucky,Warren,South,Asian,81.6
+Louisiana,Ascension,South,Asian,82.0
+Louisiana,Bossier,South,Asian,83.6
+Louisiana,Caddo,South,Asian,84.2
+Louisiana,Calcasieu,South,Asian,89.0
+Louisiana,East Baton Rouge,South,Asian,85.5
+Louisiana,Iberia,South,Asian,74.8
+Louisiana,Jefferson,South,Asian,82.4
+Louisiana,Lafayette,South,Asian,85.6
+Louisiana,Orleans,South,Asian,88.2
+Louisiana,Rapides,South,Asian,89.0
+Louisiana,St. Tammany,South,Asian,83.8
+Maine,Cumberland,Northeast,Asian,90.0
+Maine,Penobscot,Northeast,Asian,88.2
+Maine,York,Northeast,Asian,93.3
+Maryland,Anne Arundel,South,Asian,87.3
+Maryland,Baltimore,South,Asian,86.7
+Maryland,Calvert,South,Asian,95.7
+Maryland,Carroll,South,Asian,85.3
+Maryland,Charles,South,Asian,83.8
+Maryland,Frederick,South,Asian,89.5
+Maryland,Harford,South,Asian,85.2
+Maryland,Howard,South,Asian,89.1
+Maryland,Montgomery,South,Asian,88.4
+Maryland,Prince George's,South,Asian,86.8
+Maryland,St. Mary's,South,Asian,88.0
+Maryland,Washington,South,Asian,83.3
+Maryland,Wicomico,South,Asian,82.1
+Maryland,Baltimore City,South,Asian,88.0
+Massachusetts,Barnstable,Northeast,Asian,89.2
+Massachusetts,Berkshire,Northeast,Asian,92.7
+Massachusetts,Bristol,Northeast,Asian,85.5
+Massachusetts,Essex,Northeast,Asian,86.0
+Massachusetts,Hampden,Northeast,Asian,85.7
+Massachusetts,Hampshire,Northeast,Asian,87.1
+Massachusetts,Middlesex,Northeast,Asian,87.3
+Massachusetts,Norfolk,Northeast,Asian,87.2
+Massachusetts,Plymouth,Northeast,Asian,87.9
+Massachusetts,Suffolk,Northeast,Asian,87.7
+Massachusetts,Worcester,Northeast,Asian,88.0
+Michigan,Berrien,Midwest,Asian,88.7
+Michigan,Calhoun,Midwest,Asian,95.2
+Michigan,Eaton,Midwest,Asian,88.4
+Michigan,Genesee,Midwest,Asian,86.6
+Michigan,Ingham,Midwest,Asian,85.0
+Michigan,Kalamazoo,Midwest,Asian,93.3
+Michigan,Kent,Midwest,Asian,85.2
+Michigan,Livingston,Midwest,Asian,94.5
+Michigan,Macomb,Midwest,Asian,83.4
+Michigan,Midland,Midwest,Asian,99.1
+Michigan,Oakland,Midwest,Asian,87.6
+Michigan,Ottawa,Midwest,Asian,83.1
+Michigan,Saginaw,Midwest,Asian,84.8
+Michigan,Washtenaw,Midwest,Asian,92.5
+Michigan,Wayne,Midwest,Asian,86.5
+Minnesota,Anoka,Midwest,Asian,83.1
+Minnesota,Blue Earth,Midwest,Asian,85.6
+Minnesota,Carver,Midwest,Asian,89.0
+Minnesota,Dakota,Midwest,Asian,85.7
+Minnesota,Hennepin,Midwest,Asian,83.5
+Minnesota,Mower,Midwest,Asian,81.2
+Minnesota,Olmsted,Midwest,Asian,86.4
+Minnesota,Ramsey,Midwest,Asian,76.2
+Minnesota,St. Louis,Midwest,Asian,94.9
+Minnesota,Scott,Midwest,Asian,83.0
+Minnesota,Stearns,Midwest,Asian,88.2
+Minnesota,Washington,Midwest,Asian,81.5
+Minnesota,Wright,Midwest,Asian,101.1
+Mississippi,DeSoto,South,Asian,79.4
+Mississippi,Harrison,South,Asian,79.1
+Mississippi,Jackson,South,Asian,81.2
+Mississippi,Madison,South,Asian,82.8
+Mississippi,Rankin,South,Asian,84.3
+Missouri,Boone,Midwest,Asian,84.2
+Missouri,Clay,Midwest,Asian,88.1
+Missouri,Greene,Midwest,Asian,88.3
+Missouri,Jackson,Midwest,Asian,85.2
+Missouri,Jefferson,Midwest,Asian,84.8
+Missouri,Platte,Midwest,Asian,86.0
+Missouri,St. Charles,Midwest,Asian,87.6
+Missouri,St. Louis,Midwest,Asian,88.0
+Missouri,St. Louis City,Midwest,Asian,95.7
+Montana,Gallatin,West,Asian,81.5
+Montana,Missoula,West,Asian,99.9
+Nebraska,Douglas,Midwest,Asian,86.5
+Nebraska,Lancaster,Midwest,Asian,89.3
+Nebraska,Sarpy,Midwest,Asian,86.4
+Nevada,Clark,West,Asian,83.9
+Nevada,Washoe,West,Asian,82.8
+New Hampshire,Grafton,Northeast,Asian,93.4
+New Hampshire,Hillsborough,Northeast,Asian,92.3
+New Hampshire,Merrimack,Northeast,Asian,83.1
+New Hampshire,Rockingham,Northeast,Asian,91.0
+New Hampshire,Strafford,Northeast,Asian,96.2
+New Jersey,Atlantic,Northeast,Asian,90.3
+New Jersey,Bergen,Northeast,Asian,89.2
+New Jersey,Burlington,Northeast,Asian,86.1
+New Jersey,Camden,Northeast,Asian,86.7
+New Jersey,Cumberland,Northeast,Asian,78.9
+New Jersey,Essex,Northeast,Asian,89.1
+New Jersey,Gloucester,Northeast,Asian,87.1
+New Jersey,Hudson,Northeast,Asian,87.9
+New Jersey,Hunterdon,Northeast,Asian,88.5
+New Jersey,Mercer,Northeast,Asian,86.6
+New Jersey,Middlesex,Northeast,Asian,87.7
+New Jersey,Monmouth,Northeast,Asian,86.3
+New Jersey,Morris,Northeast,Asian,90.4
+New Jersey,Ocean,Northeast,Asian,89.8
+New Jersey,Passaic,Northeast,Asian,84.7
+New Jersey,Somerset,Northeast,Asian,89.0
+New Jersey,Sussex,Northeast,Asian,89.6
+New Jersey,Union,Northeast,Asian,88.2
+New Jersey,Warren,Northeast,Asian,85.4
+New Mexico,Bernalillo,West,Asian,83.8
+New Mexico,Dona Ana,West,Asian,87.1
+New Mexico,Sandoval,West,Asian,87.7
+New Mexico,Santa Fe,West,Asian,88.4
+New York,Albany,Northeast,Asian,86.9
+New York,Bronx,Northeast,Asian,86.5
+New York,Broome,Northeast,Asian,85.8
+New York,Dutchess,Northeast,Asian,91.6
+New York,Erie,Northeast,Asian,84.0
+New York,Jefferson,Northeast,Asian,89.5
+New York,Kings,Northeast,Asian,85.5
+New York,Monroe,Northeast,Asian,85.2
+New York,Nassau,Northeast,Asian,87.1
+New York,New York,Northeast,Asian,86.8
+New York,Niagara,Northeast,Asian,83.1
+New York,Oneida,Northeast,Asian,78.4
+New York,Onondaga,Northeast,Asian,85.1
+New York,Orange,Northeast,Asian,85.4
+New York,Putnam,Northeast,Asian,91.7
+New York,Queens,Northeast,Asian,86.0
+New York,Rensselaer,Northeast,Asian,94.4
+New York,Richmond,Northeast,Asian,85.2
+New York,Rockland,Northeast,Asian,90.5
+New York,Saratoga,Northeast,Asian,94.3
+New York,Schenectady,Northeast,Asian,84.1
+New York,Suffolk,Northeast,Asian,85.1
+New York,Tompkins,Northeast,Asian,89.9
+New York,Ulster,Northeast,Asian,87.9
+New York,Westchester,Northeast,Asian,89.8
+North Carolina,Alamance,South,Asian,85.8
+North Carolina,Buncombe,South,Asian,84.4
+North Carolina,Burke,South,Asian,78.0
+North Carolina,Cabarrus,South,Asian,84.4
+North Carolina,Catawba,South,Asian,78.2
+North Carolina,Chatham,South,Asian,89.6
+North Carolina,Craven,South,Asian,77.6
+North Carolina,Cumberland,South,Asian,81.9
+North Carolina,Davidson,South,Asian,86.5
+North Carolina,Durham,South,Asian,93.1
+North Carolina,Forsyth,South,Asian,89.0
+North Carolina,Gaston,South,Asian,78.9
+North Carolina,Guilford,South,Asian,84.0
+North Carolina,Iredell,South,Asian,86.3
+North Carolina,Johnston,South,Asian,83.9
+North Carolina,Mecklenburg,South,Asian,85.6
+North Carolina,New Hanover,South,Asian,83.5
+North Carolina,Onslow,South,Asian,85.3
+North Carolina,Orange,South,Asian,90.2
+North Carolina,Pitt,South,Asian,84.3
+North Carolina,Randolph,South,Asian,79.8
+North Carolina,Union,South,Asian,86.0
+North Carolina,Wake,South,Asian,88.7
+North Dakota,Cass,Midwest,Asian,82.7
+North Dakota,Grand Forks,Midwest,Asian,86.3
+Ohio,Athens,Midwest,Asian,87.8
+Ohio,Butler,Midwest,Asian,84.2
+Ohio,Clermont,Midwest,Asian,87.4
+Ohio,Cuyahoga,Midwest,Asian,87.9
+Ohio,Delaware,Midwest,Asian,85.4
+Ohio,Fairfield,Midwest,Asian,84.8
+Ohio,Franklin,Midwest,Asian,85.4
+Ohio,Greene,Midwest,Asian,86.1
+Ohio,Hamilton,Midwest,Asian,86.1
+Ohio,Lake,Midwest,Asian,88.6
+Ohio,Licking,Midwest,Asian,80.6
+Ohio,Lorain,Midwest,Asian,91.8
+Ohio,Lucas,Midwest,Asian,91.0
+Ohio,Mahoning,Midwest,Asian,85.3
+Ohio,Medina,Midwest,Asian,87.3
+Ohio,Miami,Midwest,Asian,95.7
+Ohio,Montgomery,Midwest,Asian,84.8
+Ohio,Portage,Midwest,Asian,86.3
+Ohio,Stark,Midwest,Asian,84.1
+Ohio,Summit,Midwest,Asian,83.2
+Ohio,Union,Midwest,Asian,84.6
+Ohio,Warren,Midwest,Asian,92.7
+Ohio,Wood,Midwest,Asian,86.2
+Oklahoma,Canadian,South,Asian,85.7
+Oklahoma,Cleveland,South,Asian,85.4
+Oklahoma,Comanche,South,Asian,82.8
+Oklahoma,Oklahoma,South,Asian,81.7
+Oklahoma,Payne,South,Asian,87.0
+Oklahoma,Tulsa,South,Asian,81.6
+Oregon,Benton,West,Asian,90.3
+Oregon,Clackamas,West,Asian,85.9
+Oregon,Deschutes,West,Asian,85.9
+Oregon,Jackson,West,Asian,85.3
+Oregon,Lane,West,Asian,85.4
+Oregon,Marion,West,Asian,84.9
+Oregon,Multnomah,West,Asian,84.3
+Oregon,Polk,West,Asian,83.7
+Oregon,Washington,West,Asian,87.6
+Oregon,Yamhill,West,Asian,84.5
+Pennsylvania,Allegheny,Northeast,Asian,86.5
+Pennsylvania,Berks,Northeast,Asian,84.6
+Pennsylvania,Bucks,Northeast,Asian,85.4
+Pennsylvania,Butler,Northeast,Asian,87.6
+Pennsylvania,Centre,Northeast,Asian,88.3
+Pennsylvania,Chester,Northeast,Asian,88.4
+Pennsylvania,Cumberland,Northeast,Asian,85.4
+Pennsylvania,Dauphin,Northeast,Asian,81.0
+Pennsylvania,Delaware,Northeast,Asian,88.0
+Pennsylvania,Erie,Northeast,Asian,80.0
+Pennsylvania,Lackawanna,Northeast,Asian,84.5
+Pennsylvania,Lancaster,Northeast,Asian,84.2
+Pennsylvania,Lebanon,Northeast,Asian,87.5
+Pennsylvania,Lehigh,Northeast,Asian,87.9
+Pennsylvania,Luzerne,Northeast,Asian,83.2
+Pennsylvania,Monroe,Northeast,Asian,86.2
+Pennsylvania,Montgomery,Northeast,Asian,86.6
+Pennsylvania,Northampton,Northeast,Asian,85.0
+Pennsylvania,Philadelphia,Northeast,Asian,84.8
+Pennsylvania,Washington,Northeast,Asian,86.0
+Pennsylvania,Westmoreland,Northeast,Asian,86.4
+Pennsylvania,York,Northeast,Asian,91.1
+Rhode Island,Kent,Northeast,Asian,86.9
+Rhode Island,Providence,Northeast,Asian,83.9
+Rhode Island,Washington,Northeast,Asian,86.5
+South Carolina,Aiken,South,Asian,80.7
+South Carolina,Anderson,South,Asian,89.6
+South Carolina,Beaufort,South,Asian,87.2
+South Carolina,Berkeley,South,Asian,88.1
+South Carolina,Charleston,South,Asian,86.6
+South Carolina,Dorchester,South,Asian,94.9
+South Carolina,Florence,South,Asian,85.7
+South Carolina,Greenville,South,Asian,85.7
+South Carolina,Horry,South,Asian,87.5
+South Carolina,Lancaster,South,Asian,85.9
+South Carolina,Lexington,South,Asian,83.8
+South Carolina,Pickens,South,Asian,86.8
+South Carolina,Richland,South,Asian,85.3
+South Carolina,Spartanburg,South,Asian,87.1
+South Carolina,York,South,Asian,89.8
+South Dakota,Beadle,Midwest,Asian,72.5
+South Dakota,Minnehaha,Midwest,Asian,76.9
+Tennessee,Davidson,South,Asian,85.3
+Tennessee,Hamilton,South,Asian,84.4
+Tennessee,Knox,South,Asian,83.9
+Tennessee,Montgomery,South,Asian,85.1
+Tennessee,Rutherford,South,Asian,82.4
+Tennessee,Shelby,South,Asian,84.9
+Tennessee,Sumner,South,Asian,82.6
+Tennessee,Williamson,South,Asian,90.7
+Tennessee,Wilson,South,Asian,87.9
+Texas,Bell,South,Asian,82.1
+Texas,Bexar,South,Asian,87.4
+Texas,Brazoria,South,Asian,91.0
+Texas,Brazos,South,Asian,107.6
+Texas,Cameron,South,Asian,92.2
+Texas,Collin,South,Asian,88.5
+Texas,Comal,South,Asian,85.1
+Texas,Coryell,South,Asian,85.7
+Texas,Dallas,South,Asian,85.5
+Texas,Denton,South,Asian,88.1
+Texas,Ector,South,Asian,83.0
+Texas,Ellis,South,Asian,86.3
+Texas,El Paso,South,Asian,86.6
+Texas,Fort Bend,South,Asian,86.9
+Texas,Galveston,South,Asian,84.2
+Texas,Grayson,South,Asian,83.3
+Texas,Guadalupe,South,Asian,87.4
+Texas,Harris,South,Asian,85.2
+Texas,Hays,South,Asian,83.6
+Texas,Hidalgo,South,Asian,94.3
+Texas,Jefferson,South,Asian,84.7
+Texas,Johnson,South,Asian,83.2
+Texas,Kaufman,South,Asian,99.7
+Texas,Lubbock,South,Asian,82.2
+Texas,McLennan,South,Asian,83.7
+Texas,Midland,South,Asian,83.9
+Texas,Montgomery,South,Asian,86.4
+Texas,Nueces,South,Asian,90.7
+Texas,Potter,South,Asian,76.6
+Texas,Randall,South,Asian,79.6
+Texas,Rockwall,South,Asian,88.5
+Texas,Smith,South,Asian,95.6
+Texas,Tarrant,South,Asian,84.8
+Texas,Taylor,South,Asian,87.0
+Texas,Travis,South,Asian,90.1
+Texas,Wichita,South,Asian,84.8
+Texas,Williamson,South,Asian,89.3
+Utah,Cache,West,Asian,89.4
+Utah,Davis,West,Asian,86.4
+Utah,Salt Lake,West,Asian,84.7
+Utah,Utah,West,Asian,86.7
+Utah,Washington,West,Asian,82.4
+Utah,Weber,West,Asian,83.3
+Vermont,Chittenden,Northeast,Asian,82.3
+Virginia,Albemarle,South,Asian,85.3
+Virginia,Arlington,South,Asian,86.2
+Virginia,Chesterfield,South,Asian,84.0
+Virginia,Fairfax,South,Asian,88.9
+Virginia,Frederick,South,Asian,91.2
+Virginia,Hanover,South,Asian,82.4
+Virginia,Henrico,South,Asian,86.9
+Virginia,James City,South,Asian,89.7
+Virginia,Loudoun,South,Asian,88.2
+Virginia,Montgomery,South,Asian,97.0
+Virginia,Prince William,South,Asian,85.3
+Virginia,Roanoke,South,Asian,83.5
+Virginia,Spotsylvania,South,Asian,86.3
+Virginia,Stafford,South,Asian,86.0
+Virginia,York,South,Asian,87.7
+Virginia,Alexandria City,South,Asian,85.5
+Virginia,Charlottesville City,South,Asian,84.5
+Virginia,Chesapeake City,South,Asian,83.7
+Virginia,Fairfax City,South,Asian,77.1
+Virginia,Hampton City,South,Asian,80.7
+Virginia,Harrisonburg City,South,Asian,86.9
+Virginia,Lynchburg City,South,Asian,90.7
+Virginia,Manassas City,South,Asian,81.7
+Virginia,Manassas Park City,South,Asian,100.7
+Virginia,Newport News City,South,Asian,84.6
+Virginia,Norfolk City,South,Asian,86.0
+Virginia,Richmond City,South,Asian,105.5
+Virginia,Roanoke City,South,Asian,88.6
+Virginia,Virginia Beach City,South,Asian,88.3
+Washington,Benton,West,Asian,84.4
+Washington,Clark,West,Asian,86.6
+Washington,Cowlitz,West,Asian,81.0
+Washington,Franklin,West,Asian,85.7
+Washington,Island,West,Asian,91.8
+Washington,King,West,Asian,86.6
+Washington,Kitsap,West,Asian,86.8
+Washington,Pierce,West,Asian,83.2
+Washington,Skagit,West,Asian,83.8
+Washington,Snohomish,West,Asian,86.5
+Washington,Spokane,West,Asian,82.6
+Washington,Thurston,West,Asian,85.7
+Washington,Whatcom,West,Asian,86.2
+Washington,Whitman,West,Asian,86.0
+Washington,Yakima,West,Asian,80.6
+West Virginia,Kanawha,South,Asian,86.2
+West Virginia,Monongalia,South,Asian,98.4
+Wisconsin,Brown,Midwest,Asian,77.6
+Wisconsin,Dane,Midwest,Asian,86.0
+Wisconsin,Eau Claire,Midwest,Asian,78.5
+Wisconsin,Fond du Lac,Midwest,Asian,87.2
+Wisconsin,Kenosha,Midwest,Asian,87.6
+Wisconsin,La Crosse,Midwest,Asian,80.1
+Wisconsin,Manitowoc,Midwest,Asian,77.6
+Wisconsin,Marathon,Midwest,Asian,77.8
+Wisconsin,Milwaukee,Midwest,Asian,79.8
+Wisconsin,Outagamie,Midwest,Asian,79.1
+Wisconsin,Ozaukee,Midwest,Asian,82.1
+Wisconsin,Portage,Midwest,Asian,79.9
+Wisconsin,Racine,Midwest,Asian,100.5
+Wisconsin,Rock,Midwest,Asian,86.8
+Wisconsin,Sheboygan,Midwest,Asian,75.3
+Wisconsin,Waukesha,Midwest,Asian,85.3
+Wisconsin,Winnebago,Midwest,Asian,79.2
+Alabama,Autauga,South,Black,71.1
+Alabama,Baldwin,South,Black,70.7
+Alabama,Barbour,South,Black,70.5
+Alabama,Bibb,South,Black,72.0
+Alabama,Bullock,South,Black,67.9
+Alabama,Butler,South,Black,69.2
+Alabama,Calhoun,South,Black,70.4
+Alabama,Chambers,South,Black,70.7
+Alabama,Chilton,South,Black,70.4
+Alabama,Choctaw,South,Black,70.4
+Alabama,Clarke,South,Black,66.9
+Alabama,Clay,South,Black,70.9
+Alabama,Coffee,South,Black,69.1
+Alabama,Colbert,South,Black,68.7
+Alabama,Conecuh,South,Black,67.0
+Alabama,Coosa,South,Black,68.8
+Alabama,Covington,South,Black,64.8
+Alabama,Crenshaw,South,Black,67.7
+Alabama,Dale,South,Black,70.3
+Alabama,Dallas,South,Black,66.1
+Alabama,Elmore,South,Black,71.7
+Alabama,Escambia,South,Black,69.1
+Alabama,Etowah,South,Black,66.9
+Alabama,Fayette,South,Black,68.8
+Alabama,Geneva,South,Black,64.0
+Alabama,Hale,South,Black,67.5
+Alabama,Henry,South,Black,69.6
+Alabama,Houston,South,Black,69.7
+Alabama,Jackson,South,Black,68.5
+Alabama,Jefferson,South,Black,69.3
+Alabama,Lauderdale,South,Black,70.0
+Alabama,Lawrence,South,Black,66.7
+Alabama,Lee,South,Black,72.5
+Alabama,Limestone,South,Black,77.7
+Alabama,Lowndes,South,Black,66.0
+Alabama,Macon,South,Black,69.8
+Alabama,Madison,South,Black,73.6
+Alabama,Marengo,South,Black,67.5
+Alabama,Marshall,South,Black,70.5
+Alabama,Mobile,South,Black,69.9
+Alabama,Monroe,South,Black,68.6
+Alabama,Montgomery,South,Black,70.8
+Alabama,Morgan,South,Black,68.8
+Alabama,Perry,South,Black,66.8
+Alabama,Pickens,South,Black,68.4
+Alabama,Pike,South,Black,68.3
+Alabama,Randolph,South,Black,71.4
+Alabama,Russell,South,Black,71.4
+Alabama,St. Clair,South,Black,70.7
+Alabama,Shelby,South,Black,75.4
+Alabama,Sumter,South,Black,68.6
+Alabama,Talladega,South,Black,68.7
+Alabama,Tallapoosa,South,Black,71.1
+Alabama,Tuscaloosa,South,Black,71.7
+Alabama,Walker,South,Black,66.0
+Alabama,Washington,South,Black,70.4
+Alabama,Wilcox,South,Black,66.2
+Alaska,Anchorage,West,Black,73.7
+Alaska,Fairbanks North Star,West,Black,80.7
+Arizona,Cochise,West,Black,75.7
+Arizona,Coconino,West,Black,78.9
+Arizona,Maricopa,West,Black,72.1
+Arizona,Mohave,West,Black,73.2
+Arizona,Pima,West,Black,72.4
+Arizona,Pinal,West,Black,73.9
+Arizona,Yavapai,West,Black,77.2
+Arizona,Yuma,West,Black,74.7
+Arkansas,Arkansas,South,Black,65.9
+Arkansas,Ashley,South,Black,67.0
+Arkansas,Benton,South,Black,90.0
+Arkansas,Bradley,South,Black,68.8
+Arkansas,Chicot,South,Black,66.4
+Arkansas,Clark,South,Black,68.5
+Arkansas,Columbia,South,Black,66.7
+Arkansas,Conway,South,Black,72.8
+Arkansas,Craighead,South,Black,69.3
+Arkansas,Crittenden,South,Black,66.5
+Arkansas,Cross,South,Black,69.6
+Arkansas,Dallas,South,Black,66.2
+Arkansas,Desha,South,Black,69.2
+Arkansas,Drew,South,Black,68.8
+Arkansas,Faulkner,South,Black,72.2
+Arkansas,Garland,South,Black,65.8
+Arkansas,Hempstead,South,Black,71.9
+Arkansas,Hot Spring,South,Black,70.0
+Arkansas,Howard,South,Black,68.5
+Arkansas,Jackson,South,Black,68.3
+Arkansas,Jefferson,South,Black,69.2
+Arkansas,Lafayette,South,Black,69.4
+Arkansas,Lee,South,Black,67.3
+Arkansas,Lincoln,South,Black,73.9
+Arkansas,Little River,South,Black,67.3
+Arkansas,Lonoke,South,Black,70.7
+Arkansas,Miller,South,Black,68.0
+Arkansas,Mississippi,South,Black,65.0
+Arkansas,Monroe,South,Black,65.7
+Arkansas,Nevada,South,Black,74.3
+Arkansas,Ouachita,South,Black,68.2
+Arkansas,Phillips,South,Black,66.0
+Arkansas,Poinsett,South,Black,64.4
+Arkansas,Pope,South,Black,71.4
+Arkansas,Pulaski,South,Black,70.7
+Arkansas,St. Francis,South,Black,67.6
+Arkansas,Saline,South,Black,73.5
+Arkansas,Sebastian,South,Black,69.3
+Arkansas,Union,South,Black,66.1
+Arkansas,Washington,South,Black,71.4
+Arkansas,White,South,Black,70.6
+California,Alameda,West,Black,72.2
+California,Butte,West,Black,69.9
+California,Contra Costa,West,Black,73.3
+California,El Dorado,West,Black,78.2
+California,Fresno,West,Black,68.2
+California,Humboldt,West,Black,74.3
+California,Imperial,West,Black,70.3
+California,Kern,West,Black,67.3
+California,Kings,West,Black,74.8
+California,Lassen,West,Black,90.0
+California,Los Angeles,West,Black,72.2
+California,Madera,West,Black,73.5
+California,Marin,West,Black,78.1
+California,Merced,West,Black,67.6
+California,Monterey,West,Black,78.2
+California,Napa,West,Black,77.1
+California,Orange,West,Black,77.5
+California,Placer,West,Black,77.8
+California,Riverside,West,Black,73.5
+California,Sacramento,West,Black,72.0
+California,San Bernardino,West,Black,70.0
+California,San Diego,West,Black,75.1
+California,San Francisco,West,Black,67.0
+California,San Joaquin,West,Black,69.3
+California,San Luis Obispo,West,Black,81.8
+California,San Mateo,West,Black,75.1
+California,Santa Barbara,West,Black,75.3
+California,Santa Clara,West,Black,78.2
+California,Santa Cruz,West,Black,75.7
+California,Shasta,West,Black,72.3
+California,Solano,West,Black,74.0
+California,Sonoma,West,Black,77.3
+California,Stanislaus,West,Black,70.0
+California,Sutter,West,Black,74.8
+California,Tulare,West,Black,69.6
+California,Ventura,West,Black,77.7
+California,Yolo,West,Black,75.1
+California,Yuba,West,Black,74.9
+Colorado,Adams,West,Black,71.4
+Colorado,Arapahoe,West,Black,75.1
+Colorado,Boulder,West,Black,77.2
+Colorado,Denver,West,Black,71.1
+Colorado,Douglas,West,Black,79.6
+Colorado,El Paso,West,Black,71.3
+Colorado,Jefferson,West,Black,70.6
+Colorado,Larimer,West,Black,75.0
+Colorado,Pueblo,West,Black,69.8
+Colorado,Weld,West,Black,78.1
+Connecticut,Fairfield,Northeast,Black,76.7
+Connecticut,Hartford,Northeast,Black,74.9
+Connecticut,Litchfield,Northeast,Black,78.3
+Connecticut,Middlesex,Northeast,Black,74.5
+Connecticut,New Haven,Northeast,Black,72.9
+Connecticut,New London,Northeast,Black,72.7
+Connecticut,Tolland,Northeast,Black,76.7
+Connecticut,Windham,Northeast,Black,79.1
+Delaware,Kent,South,Black,73.8
+Delaware,New Castle,South,Black,74.1
+Delaware,Sussex,South,Black,72.1
+District of Columbia,District of Columbia,South,Black,69.3
+Florida,Alachua,South,Black,72.3
+Florida,Baker,South,Black,75.7
+Florida,Bay,South,Black,71.4
+Florida,Bradford,South,Black,75.2
+Florida,Brevard,South,Black,72.0
+Florida,Broward,South,Black,76.6
+Florida,Calhoun,South,Black,74.3
+Florida,Charlotte,South,Black,80.4
+Florida,Citrus,South,Black,68.3
+Florida,Clay,South,Black,75.3
+Florida,Collier,South,Black,82.9
+Florida,Columbia,South,Black,70.4
+Florida,DeSoto,South,Black,70.6
+Florida,Duval,South,Black,71.5
+Florida,Escambia,South,Black,69.5
+Florida,Flagler,South,Black,76.1
+Florida,Gadsden,South,Black,70.4
+Florida,Glades,South,Black,72.1
+Florida,Gulf,South,Black,69.1
+Florida,Hamilton,South,Black,69.2
+Florida,Hardee,South,Black,71.5
+Florida,Hendry,South,Black,68.4
+Florida,Hernando,South,Black,73.4
+Florida,Highlands,South,Black,70.3
+Florida,Hillsborough,South,Black,73.2
+Florida,Indian River,South,Black,71.5
+Florida,Jackson,South,Black,71.1
+Florida,Jefferson,South,Black,73.0
+Florida,Lake,South,Black,74.9
+Florida,Lee,South,Black,77.7
+Florida,Leon,South,Black,74.0
+Florida,Levy,South,Black,72.5
+Florida,Madison,South,Black,70.8
+Florida,Manatee,South,Black,73.1
+Florida,Marion,South,Black,72.1
+Florida,Martin,South,Black,77.1
+Florida,Miami-Dade,South,Black,72.6
+Florida,Monroe,South,Black,76.6
+Florida,Nassau,South,Black,74.1
+Florida,Okaloosa,South,Black,72.6
+Florida,Okeechobee,South,Black,71.3
+Florida,Orange,South,Black,75.4
+Florida,Osceola,South,Black,75.8
+Florida,Palm Beach,South,Black,77.1
+Florida,Pasco,South,Black,77.3
+Florida,Pinellas,South,Black,72.0
+Florida,Polk,South,Black,72.7
+Florida,Putnam,South,Black,67.5
+Florida,St. Johns,South,Black,75.5
+Florida,St. Lucie,South,Black,76.0
+Florida,Santa Rosa,South,Black,75.6
+Florida,Sarasota,South,Black,72.8
+Florida,Seminole,South,Black,75.0
+Florida,Sumter,South,Black,73.8
+Florida,Suwannee,South,Black,72.7
+Florida,Taylor,South,Black,73.0
+Florida,Union,South,Black,66.7
+Florida,Volusia,South,Black,72.0
+Florida,Wakulla,South,Black,74.4
+Florida,Walton,South,Black,75.1
+Florida,Washington,South,Black,69.5
+Georgia,Appling,South,Black,68.2
+Georgia,Bacon,South,Black,67.6
+Georgia,Baldwin,South,Black,71.7
+Georgia,Barrow,South,Black,73.3
+Georgia,Bartow,South,Black,70.5
+Georgia,Ben Hill,South,Black,67.9
+Georgia,Berrien,South,Black,67.8
+Georgia,Bibb,South,Black,68.6
+Georgia,Bleckley,South,Black,67.1
+Georgia,Brooks,South,Black,69.8
+Georgia,Bryan,South,Black,73.8
+Georgia,Bulloch,South,Black,72.4
+Georgia,Burke,South,Black,71.0
+Georgia,Butts,South,Black,72.4
+Georgia,Calhoun,South,Black,72.6
+Georgia,Camden,South,Black,74.7
+Georgia,Candler,South,Black,67.2
+Georgia,Carroll,South,Black,70.2
+Georgia,Catoosa,South,Black,80.6
+Georgia,Charlton,South,Black,75.1
+Georgia,Chatham,South,Black,72.5
+Georgia,Chattooga,South,Black,70.0
+Georgia,Cherokee,South,Black,78.9
+Georgia,Clarke,South,Black,72.7
+Georgia,Clayton,South,Black,73.5
+Georgia,Clinch,South,Black,64.3
+Georgia,Cobb,South,Black,76.9
+Georgia,Coffee,South,Black,70.0
+Georgia,Colquitt,South,Black,67.9
+Georgia,Columbia,South,Black,78.9
+Georgia,Cook,South,Black,69.0
+Georgia,Coweta,South,Black,72.4
+Georgia,Crawford,South,Black,75.3
+Georgia,Crisp,South,Black,65.7
+Georgia,Decatur,South,Black,69.2
+Georgia,DeKalb,South,Black,75.6
+Georgia,Dodge,South,Black,68.4
+Georgia,Dooly,South,Black,70.6
+Georgia,Dougherty,South,Black,69.8
+Georgia,Douglas,South,Black,75.4
+Georgia,Early,South,Black,67.1
+Georgia,Effingham,South,Black,73.7
+Georgia,Elbert,South,Black,68.0
+Georgia,Emanuel,South,Black,67.7
+Georgia,Evans,South,Black,67.8
+Georgia,Fayette,South,Black,77.0
+Georgia,Floyd,South,Black,68.9
+Georgia,Forsyth,South,Black,81.9
+Georgia,Franklin,South,Black,69.1
+Georgia,Fulton,South,Black,72.6
+Georgia,Glynn,South,Black,71.3
+Georgia,Gordon,South,Black,71.1
+Georgia,Grady,South,Black,70.3
+Georgia,Greene,South,Black,70.8
+Georgia,Gwinnett,South,Black,77.3
+Georgia,Habersham,South,Black,71.9
+Georgia,Hall,South,Black,71.7
+Georgia,Hancock,South,Black,69.0
+Georgia,Harris,South,Black,75.0
+Georgia,Hart,South,Black,72.3
+Georgia,Henry,South,Black,75.1
+Georgia,Houston,South,Black,73.2
+Georgia,Irwin,South,Black,68.4
+Georgia,Jackson,South,Black,73.3
+Georgia,Jasper,South,Black,70.3
+Georgia,Jeff Davis,South,Black,70.1
+Georgia,Jefferson,South,Black,66.5
+Georgia,Jenkins,South,Black,71.4
+Georgia,Johnson,South,Black,69.9
+Georgia,Jones,South,Black,77.5
+Georgia,Lamar,South,Black,72.5
+Georgia,Lanier,South,Black,72.3
+Georgia,Laurens,South,Black,68.3
+Georgia,Lee,South,Black,75.2
+Georgia,Liberty,South,Black,72.6
+Georgia,Lincoln,South,Black,70.4
+Georgia,Long,South,Black,73.8
+Georgia,Lowndes,South,Black,70.4
+Georgia,McDuffie,South,Black,69.8
+Georgia,McIntosh,South,Black,73.7
+Georgia,Macon,South,Black,70.3
+Georgia,Madison,South,Black,72.2
+Georgia,Marion,South,Black,73.1
+Georgia,Meriwether,South,Black,67.9
+Georgia,Mitchell,South,Black,70.8
+Georgia,Monroe,South,Black,70.2
+Georgia,Montgomery,South,Black,73.3
+Georgia,Morgan,South,Black,72.9
+Georgia,Muscogee,South,Black,70.0
+Georgia,Newton,South,Black,73.7
+Georgia,Oconee,South,Black,77.5
+Georgia,Oglethorpe,South,Black,76.6
+Georgia,Paulding,South,Black,78.1
+Georgia,Peach,South,Black,70.6
+Georgia,Pierce,South,Black,66.5
+Georgia,Pike,South,Black,72.5
+Georgia,Polk,South,Black,65.8
+Georgia,Pulaski,South,Black,71.2
+Georgia,Putnam,South,Black,71.0
+Georgia,Randolph,South,Black,69.4
+Georgia,Richmond,South,Black,70.4
+Georgia,Rockdale,South,Black,76.1
+Georgia,Screven,South,Black,69.1
+Georgia,Seminole,South,Black,69.0
+Georgia,Spalding,South,Black,69.6
+Georgia,Stephens,South,Black,69.4
+Georgia,Sumter,South,Black,68.8
+Georgia,Talbot,South,Black,73.2
+Georgia,Tattnall,South,Black,71.5
+Georgia,Taylor,South,Black,71.8
+Georgia,Telfair,South,Black,69.3
+Georgia,Terrell,South,Black,66.3
+Georgia,Thomas,South,Black,68.3
+Georgia,Tift,South,Black,69.6
+Georgia,Toombs,South,Black,67.9
+Georgia,Treutlen,South,Black,69.8
+Georgia,Troup,South,Black,70.5
+Georgia,Turner,South,Black,69.0
+Georgia,Twiggs,South,Black,71.0
+Georgia,Upson,South,Black,67.9
+Georgia,Walker,South,Black,70.4
+Georgia,Walton,South,Black,70.7
+Georgia,Ware,South,Black,68.2
+Georgia,Warren,South,Black,69.6
+Georgia,Washington,South,Black,70.2
+Georgia,Wayne,South,Black,66.9
+Georgia,Wheeler,South,Black,76.2
+Georgia,Whitfield,South,Black,69.9
+Georgia,Wilcox,South,Black,70.1
+Georgia,Wilkes,South,Black,67.3
+Georgia,Wilkinson,South,Black,71.2
+Georgia,Worth,South,Black,71.1
+Hawaii,Honolulu,West,Black,83.1
+Idaho,Ada,West,Black,72.2
+Illinois,Adams,Midwest,Black,70.3
+Illinois,Champaign,Midwest,Black,69.9
+Illinois,Coles,Midwest,Black,67.8
+Illinois,Cook,Midwest,Black,69.3
+Illinois,DeKalb,Midwest,Black,70.8
+Illinois,DuPage,Midwest,Black,75.6
+Illinois,Jackson,Midwest,Black,68.3
+Illinois,Jefferson,Midwest,Black,70.3
+Illinois,Kane,Midwest,Black,72.6
+Illinois,Kankakee,Midwest,Black,66.5
+Illinois,Kendall,Midwest,Black,75.5
+Illinois,Knox,Midwest,Black,68.9
+Illinois,Lake,Midwest,Black,72.5
+Illinois,LaSalle,Midwest,Black,71.4
+Illinois,Lee,Midwest,Black,74.4
+Illinois,Logan,Midwest,Black,82.4
+Illinois,McHenry,Midwest,Black,79.0
+Illinois,McLean,Midwest,Black,70.5
+Illinois,Macon,Midwest,Black,68.3
+Illinois,Madison,Midwest,Black,68.4
+Illinois,Morgan,Midwest,Black,72.2
+Illinois,Peoria,Midwest,Black,67.7
+Illinois,Perry,Midwest,Black,79.4
+Illinois,Randolph,Midwest,Black,69.9
+Illinois,Rock Island,Midwest,Black,70.3
+Illinois,St. Clair,Midwest,Black,68.3
+Illinois,Sangamon,Midwest,Black,70.1
+Illinois,Stephenson,Midwest,Black,68.3
+Illinois,Tazewell,Midwest,Black,68.2
+Illinois,Vermilion,Midwest,Black,66.2
+Illinois,Will,Midwest,Black,74.5
+Illinois,Williamson,Midwest,Black,73.5
+Illinois,Winnebago,Midwest,Black,66.7
+Indiana,Allen,Midwest,Black,68.4
+Indiana,Bartholomew,Midwest,Black,69.7
+Indiana,Boone,Midwest,Black,75.2
+Indiana,Clark,Midwest,Black,68.1
+Indiana,Delaware,Midwest,Black,68.9
+Indiana,Elkhart,Midwest,Black,68.8
+Indiana,Floyd,Midwest,Black,68.2
+Indiana,Grant,Midwest,Black,65.8
+Indiana,Hamilton,Midwest,Black,75.8
+Indiana,Hancock,Midwest,Black,75.4
+Indiana,Hendricks,Midwest,Black,78.6
+Indiana,Howard,Midwest,Black,68.9
+Indiana,Johnson,Midwest,Black,70.1
+Indiana,Lake,Midwest,Black,68.8
+Indiana,LaPorte,Midwest,Black,68.5
+Indiana,Madison,Midwest,Black,69.3
+Indiana,Marion,Midwest,Black,69.8
+Indiana,Miami,Midwest,Black,71.4
+Indiana,Monroe,Midwest,Black,76.3
+Indiana,Porter,Midwest,Black,74.4
+Indiana,St. Joseph,Midwest,Black,68.3
+Indiana,Tippecanoe,Midwest,Black,71.1
+Indiana,Vanderburgh,Midwest,Black,68.0
+Indiana,Vigo,Midwest,Black,71.5
+Indiana,Wayne,Midwest,Black,64.3
+Iowa,Black Hawk,Midwest,Black,69.1
+Iowa,Dallas,Midwest,Black,90.4
+Iowa,Des Moines,Midwest,Black,70.6
+Iowa,Dubuque,Midwest,Black,69.5
+Iowa,Johnson,Midwest,Black,75.7
+Iowa,Linn,Midwest,Black,68.8
+Iowa,Polk,Midwest,Black,69.1
+Iowa,Scott,Midwest,Black,68.2
+Iowa,Webster,Midwest,Black,67.3
+Iowa,Woodbury,Midwest,Black,74.4
+Kansas,Douglas,Midwest,Black,73.5
+Kansas,Geary,Midwest,Black,69.2
+Kansas,Johnson,Midwest,Black,75.4
+Kansas,Leavenworth,Midwest,Black,72.7
+Kansas,Reno,Midwest,Black,70.9
+Kansas,Riley,Midwest,Black,70.7
+Kansas,Sedgwick,Midwest,Black,68.7
+Kansas,Shawnee,Midwest,Black,64.9
+Kansas,Wyandotte,Midwest,Black,69.1
+Kentucky,Barren,South,Black,69.5
+Kentucky,Boone,South,Black,77.5
+Kentucky,Boyle,South,Black,71.4
+Kentucky,Campbell,South,Black,71.7
+Kentucky,Christian,South,Black,66.9
+Kentucky,Clark,South,Black,71.1
+Kentucky,Daviess,South,Black,74.2
+Kentucky,Fayette,South,Black,71.9
+Kentucky,Franklin,South,Black,73.1
+Kentucky,Hardin,South,Black,72.7
+Kentucky,Henderson,South,Black,71.9
+Kentucky,Hopkins,South,Black,69.0
+Kentucky,Jefferson,South,Black,68.0
+Kentucky,Jessamine,South,Black,69.0
+Kentucky,Kenton,South,Black,70.9
+Kentucky,McCracken,South,Black,66.2
+Kentucky,Madison,South,Black,72.1
+Kentucky,Nelson,South,Black,71.9
+Kentucky,Oldham,South,Black,73.9
+Kentucky,Scott,South,Black,76.3
+Kentucky,Shelby,South,Black,71.9
+Kentucky,Simpson,South,Black,69.8
+Kentucky,Warren,South,Black,69.8
+Louisiana,Acadia,South,Black,64.6
+Louisiana,Allen,South,Black,70.1
+Louisiana,Ascension,South,Black,72.2
+Louisiana,Assumption,South,Black,67.6
+Louisiana,Avoyelles,South,Black,68.0
+Louisiana,Beauregard,South,Black,70.4
+Louisiana,Bienville,South,Black,64.8
+Louisiana,Bossier,South,Black,72.7
+Louisiana,Caddo,South,Black,68.1
+Louisiana,Calcasieu,South,Black,69.5
+Louisiana,Catahoula,South,Black,72.0
+Louisiana,Claiborne,South,Black,71.8
+Louisiana,Concordia,South,Black,67.7
+Louisiana,De Soto,South,Black,68.4
+Louisiana,East Baton Rouge,South,Black,69.7
+Louisiana,East Carroll,South,Black,68.9
+Louisiana,East Feliciana,South,Black,69.1
+Louisiana,Evangeline,South,Black,66.8
+Louisiana,Franklin,South,Black,67.3
+Louisiana,Grant,South,Black,72.6
+Louisiana,Iberia,South,Black,67.6
+Louisiana,Iberville,South,Black,69.1
+Louisiana,Jackson,South,Black,69.3
+Louisiana,Jefferson,South,Black,71.0
+Louisiana,Jefferson Davis,South,Black,67.7
+Louisiana,Lafayette,South,Black,70.9
+Louisiana,Lafourche,South,Black,68.9
+Louisiana,LaSalle,South,Black,70.7
+Louisiana,Lincoln,South,Black,71.8
+Louisiana,Livingston,South,Black,72.7
+Louisiana,Madison,South,Black,68.7
+Louisiana,Morehouse,South,Black,65.4
+Louisiana,Natchitoches,South,Black,66.3
+Louisiana,Orleans,South,Black,70.0
+Louisiana,Ouachita,South,Black,68.6
+Louisiana,Plaquemines,South,Black,71.9
+Louisiana,Pointe Coupee,South,Black,68.1
+Louisiana,Rapides,South,Black,65.5
+Louisiana,Red River,South,Black,70.3
+Louisiana,Richland,South,Black,68.5
+Louisiana,Sabine,South,Black,66.5
+Louisiana,St. Bernard,South,Black,68.4
+Louisiana,St. Charles,South,Black,70.6
+Louisiana,St. Helena,South,Black,67.3
+Louisiana,St. James,South,Black,71.1
+Louisiana,St. John the Baptist,South,Black,73.0
+Louisiana,St. Landry,South,Black,66.4
+Louisiana,St. Martin,South,Black,69.6
+Louisiana,St. Mary,South,Black,67.9
+Louisiana,St. Tammany,South,Black,72.0
+Louisiana,Tangipahoa,South,Black,68.5
+Louisiana,Tensas,South,Black,72.3
+Louisiana,Terrebonne,South,Black,68.7
+Louisiana,Union,South,Black,65.6
+Louisiana,Vermilion,South,Black,69.7
+Louisiana,Vernon,South,Black,72.0
+Louisiana,Washington,South,Black,66.5
+Louisiana,Webster,South,Black,67.4
+Louisiana,West Baton Rouge,South,Black,71.7
+Louisiana,West Feliciana,South,Black,71.8
+Louisiana,Winn,South,Black,68.8
+Maine,Androscoggin,Northeast,Black,76.8
+Maine,Cumberland,Northeast,Black,79.8
+Maine,York,Northeast,Black,78.7
+Maryland,Allegany,South,Black,69.3
+Maryland,Anne Arundel,South,Black,75.4
+Maryland,Baltimore,South,Black,74.2
+Maryland,Calvert,South,Black,74.6
+Maryland,Caroline,South,Black,72.2
+Maryland,Carroll,South,Black,75.5
+Maryland,Cecil,South,Black,71.3
+Maryland,Charles,South,Black,75.8
+Maryland,Dorchester,South,Black,68.5
+Maryland,Frederick,South,Black,76.5
+Maryland,Harford,South,Black,74.5
+Maryland,Howard,South,Black,78.3
+Maryland,Kent,South,Black,71.8
+Maryland,Montgomery,South,Black,79.3
+Maryland,Prince George's,South,Black,76.4
+Maryland,Queen Anne's,South,Black,74.7
+Maryland,St. Mary's,South,Black,71.6
+Maryland,Somerset,South,Black,73.3
+Maryland,Talbot,South,Black,72.5
+Maryland,Washington,South,Black,71.8
+Maryland,Wicomico,South,Black,71.5
+Maryland,Worcester,South,Black,72.7
+Maryland,Baltimore City,South,Black,67.9
+Massachusetts,Barnstable,Northeast,Black,76.5
+Massachusetts,Berkshire,Northeast,Black,69.4
+Massachusetts,Bristol,Northeast,Black,78.5
+Massachusetts,Essex,Northeast,Black,77.3
+Massachusetts,Hampden,Northeast,Black,71.8
+Massachusetts,Hampshire,Northeast,Black,75.7
+Massachusetts,Middlesex,Northeast,Black,79.8
+Massachusetts,Norfolk,Northeast,Black,78.9
+Massachusetts,Plymouth,Northeast,Black,78.7
+Massachusetts,Suffolk,Northeast,Black,76.2
+Massachusetts,Worcester,Northeast,Black,77.0
+Michigan,Bay,Midwest,Black,72.5
+Michigan,Berrien,Midwest,Black,68.2
+Michigan,Calhoun,Midwest,Black,69.0
+Michigan,Cass,Midwest,Black,71.9
+Michigan,Eaton,Midwest,Black,75.3
+Michigan,Genesee,Midwest,Black,66.5
+Michigan,Gratiot,Midwest,Black,77.9
+Michigan,Ingham,Midwest,Black,68.4
+Michigan,Ionia,Midwest,Black,76.5
+Michigan,Isabella,Midwest,Black,70.6
+Michigan,Jackson,Midwest,Black,66.9
+Michigan,Kalamazoo,Midwest,Black,69.9
+Michigan,Kent,Midwest,Black,70.8
+Michigan,Lenawee,Midwest,Black,72.7
+Michigan,Macomb,Midwest,Black,71.3
+Michigan,Monroe,Midwest,Black,71.1
+Michigan,Montcalm,Midwest,Black,75.5
+Michigan,Muskegon,Midwest,Black,68.8
+Michigan,Oakland,Midwest,Black,74.1
+Michigan,Ottawa,Midwest,Black,72.5
+Michigan,Saginaw,Midwest,Black,68.0
+Michigan,St. Clair,Midwest,Black,67.5
+Michigan,Van Buren,Midwest,Black,70.1
+Michigan,Washtenaw,Midwest,Black,73.8
+Michigan,Wayne,Midwest,Black,68.0
+Minnesota,Anoka,Midwest,Black,76.7
+Minnesota,Benton,Midwest,Black,76.4
+Minnesota,Carver,Midwest,Black,81.6
+Minnesota,Dakota,Midwest,Black,80.1
+Minnesota,Hennepin,Midwest,Black,72.9
+Minnesota,Kandiyohi,Midwest,Black,90.8
+Minnesota,Olmsted,Midwest,Black,75.2
+Minnesota,Ramsey,Midwest,Black,71.6
+Minnesota,Rice,Midwest,Black,89.8
+Minnesota,St. Louis,Midwest,Black,71.2
+Minnesota,Scott,Midwest,Black,85.6
+Minnesota,Sherburne,Midwest,Black,90.2
+Minnesota,Stearns,Midwest,Black,77.3
+Minnesota,Washington,Midwest,Black,78.9
+Minnesota,Wright,Midwest,Black,75.3
+Mississippi,Adams,South,Black,67.2
+Mississippi,Alcorn,South,Black,68.9
+Mississippi,Amite,South,Black,69.1
+Mississippi,Attala,South,Black,69.5
+Mississippi,Benton,South,Black,71.1
+Mississippi,Bolivar,South,Black,64.3
+Mississippi,Calhoun,South,Black,69.4
+Mississippi,Carroll,South,Black,68.1
+Mississippi,Chickasaw,South,Black,68.4
+Mississippi,Choctaw,South,Black,69.3
+Mississippi,Clarke,South,Black,67.7
+Mississippi,Clay,South,Black,71.0
+Mississippi,Coahoma,South,Black,63.3
+Mississippi,Copiah,South,Black,68.1
+Mississippi,Covington,South,Black,66.5
+Mississippi,DeSoto,South,Black,73.5
+Mississippi,Forrest,South,Black,68.8
+Mississippi,Franklin,South,Black,67.2
+Mississippi,George,South,Black,67.7
+Mississippi,Greene,South,Black,78.0
+Mississippi,Grenada,South,Black,66.7
+Mississippi,Hancock,South,Black,69.0
+Mississippi,Harrison,South,Black,70.9
+Mississippi,Hinds,South,Black,69.8
+Mississippi,Holmes,South,Black,64.3
+Mississippi,Jackson,South,Black,70.0
+Mississippi,Jasper,South,Black,67.0
+Mississippi,Jefferson Davis,South,Black,70.2
+Mississippi,Jones,South,Black,69.8
+Mississippi,Kemper,South,Black,74.9
+Mississippi,Lafayette,South,Black,72.5
+Mississippi,Lamar,South,Black,75.5
+Mississippi,Lauderdale,South,Black,69.0
+Mississippi,Lawrence,South,Black,69.8
+Mississippi,Leake,South,Black,69.9
+Mississippi,Lee,South,Black,69.4
+Mississippi,Leflore,South,Black,63.9
+Mississippi,Lincoln,South,Black,68.3
+Mississippi,Lowndes,South,Black,70.0
+Mississippi,Madison,South,Black,71.8
+Mississippi,Marion,South,Black,67.3
+Mississippi,Marshall,South,Black,68.5
+Mississippi,Monroe,South,Black,69.8
+Mississippi,Montgomery,South,Black,65.8
+Mississippi,Neshoba,South,Black,67.1
+Mississippi,Newton,South,Black,67.3
+Mississippi,Noxubee,South,Black,69.0
+Mississippi,Oktibbeha,South,Black,70.9
+Mississippi,Panola,South,Black,68.5
+Mississippi,Pearl River,South,Black,67.3
+Mississippi,Perry,South,Black,67.9
+Mississippi,Pike,South,Black,67.9
+Mississippi,Pontotoc,South,Black,73.5
+Mississippi,Prentiss,South,Black,67.2
+Mississippi,Rankin,South,Black,74.5
+Mississippi,Scott,South,Black,69.3
+Mississippi,Simpson,South,Black,69.0
+Mississippi,Smith,South,Black,70.9
+Mississippi,Stone,South,Black,70.4
+Mississippi,Sunflower,South,Black,66.4
+Mississippi,Tallahatchie,South,Black,68.7
+Mississippi,Tate,South,Black,67.7
+Mississippi,Tippah,South,Black,69.7
+Mississippi,Tunica,South,Black,65.6
+Mississippi,Union,South,Black,70.9
+Mississippi,Walthall,South,Black,66.7
+Mississippi,Warren,South,Black,69.7
+Mississippi,Washington,South,Black,65.4
+Mississippi,Wayne,South,Black,67.2
+Mississippi,Webster,South,Black,64.9
+Mississippi,Wilkinson,South,Black,68.0
+Mississippi,Winston,South,Black,70.7
+Mississippi,Yalobusha,South,Black,71.1
+Mississippi,Yazoo,South,Black,68.0
+Missouri,Boone,Midwest,Black,71.6
+Missouri,Buchanan,Midwest,Black,68.1
+Missouri,Butler,Midwest,Black,60.7
+Missouri,Callaway,Midwest,Black,72.0
+Missouri,Cape Girardeau,Midwest,Black,68.5
+Missouri,Cass,Midwest,Black,74.8
+Missouri,Clay,Midwest,Black,75.0
+Missouri,Cole,Midwest,Black,72.0
+Missouri,Dunklin,Midwest,Black,61.8
+Missouri,Greene,Midwest,Black,66.1
+Missouri,Jackson,Midwest,Black,69.2
+Missouri,Jasper,Midwest,Black,69.0
+Missouri,Jefferson,Midwest,Black,71.8
+Missouri,Johnson,Midwest,Black,74.0
+Missouri,Mississippi,Midwest,Black,68.1
+Missouri,New Madrid,Midwest,Black,66.7
+Missouri,Pemiscot,Midwest,Black,61.9
+Missouri,Platte,Midwest,Black,82.3
+Missouri,Pulaski,Midwest,Black,75.4
+Missouri,St. Charles,Midwest,Black,74.9
+Missouri,St. Francois,Midwest,Black,73.6
+Missouri,St. Louis,Midwest,Black,68.5
+Missouri,Scott,Midwest,Black,69.4
+Missouri,St. Louis City,Midwest,Black,64.7
+Nebraska,Douglas,Midwest,Black,70.8
+Nebraska,Hall,Midwest,Black,82.2
+Nebraska,Lancaster,Midwest,Black,73.3
+Nebraska,Sarpy,Midwest,Black,78.3
+Nevada,Clark,West,Black,71.0
+Nevada,Nye,West,Black,72.3
+Nevada,Washoe,West,Black,69.7
+New Hampshire,Hillsborough,Northeast,Black,77.3
+New Hampshire,Merrimack,Northeast,Black,79.6
+New Hampshire,Rockingham,Northeast,Black,80.7
+New Hampshire,Strafford,Northeast,Black,78.8
+New Jersey,Atlantic,Northeast,Black,68.1
+New Jersey,Bergen,Northeast,Black,78.1
+New Jersey,Burlington,Northeast,Black,75.7
+New Jersey,Camden,Northeast,Black,70.6
+New Jersey,Cape May,Northeast,Black,69.9
+New Jersey,Cumberland,Northeast,Black,69.5
+New Jersey,Essex,Northeast,Black,72.5
+New Jersey,Gloucester,Northeast,Black,72.6
+New Jersey,Hudson,Northeast,Black,72.4
+New Jersey,Hunterdon,Northeast,Black,83.8
+New Jersey,Mercer,Northeast,Black,70.8
+New Jersey,Middlesex,Northeast,Black,77.3
+New Jersey,Monmouth,Northeast,Black,73.3
+New Jersey,Morris,Northeast,Black,76.0
+New Jersey,Ocean,Northeast,Black,73.3
+New Jersey,Passaic,Northeast,Black,70.2
+New Jersey,Salem,Northeast,Black,65.7
+New Jersey,Somerset,Northeast,Black,76.9
+New Jersey,Sussex,Northeast,Black,73.0
+New Jersey,Union,Northeast,Black,74.6
+New Jersey,Warren,Northeast,Black,74.3
+New Mexico,Bernalillo,West,Black,69.3
+New Mexico,Curry,West,Black,71.0
+New Mexico,Dona Ana,West,Black,73.9
+New Mexico,Lea,West,Black,65.4
+New Mexico,Otero,West,Black,71.5
+New Mexico,Sandoval,West,Black,76.0
+New York,Albany,Northeast,Black,71.1
+New York,Bronx,Northeast,Black,74.0
+New York,Broome,Northeast,Black,70.4
+New York,Cayuga,Northeast,Black,73.8
+New York,Chautauqua,Northeast,Black,68.7
+New York,Chemung,Northeast,Black,70.5
+New York,Clinton,Northeast,Black,79.5
+New York,Columbia,Northeast,Black,71.1
+New York,Dutchess,Northeast,Black,75.2
+New York,Erie,Northeast,Black,69.4
+New York,Franklin,Northeast,Black,76.8
+New York,Greene,Northeast,Black,74.6
+New York,Jefferson,Northeast,Black,82.6
+New York,Kings,Northeast,Black,77.4
+New York,Monroe,Northeast,Black,70.1
+New York,Nassau,Northeast,Black,78.2
+New York,New York,Northeast,Black,73.9
+New York,Niagara,Northeast,Black,66.2
+New York,Oneida,Northeast,Black,68.6
+New York,Onondaga,Northeast,Black,70.5
+New York,Ontario,Northeast,Black,75.3
+New York,Orange,Northeast,Black,76.3
+New York,Orleans,Northeast,Black,76.5
+New York,Putnam,Northeast,Black,79.7
+New York,Queens,Northeast,Black,77.3
+New York,Rensselaer,Northeast,Black,70.0
+New York,Richmond,Northeast,Black,74.4
+New York,Rockland,Northeast,Black,78.0
+New York,St. Lawrence,Northeast,Black,69.3
+New York,Saratoga,Northeast,Black,78.0
+New York,Schenectady,Northeast,Black,70.6
+New York,Suffolk,Northeast,Black,74.7
+New York,Sullivan,Northeast,Black,71.7
+New York,Tompkins,Northeast,Black,75.0
+New York,Ulster,Northeast,Black,73.8
+New York,Wayne,Northeast,Black,68.5
+New York,Westchester,Northeast,Black,77.6
+North Carolina,Alamance,South,Black,70.9
+North Carolina,Alexander,South,Black,73.7
+North Carolina,Anson,South,Black,68.3
+North Carolina,Beaufort,South,Black,69.3
+North Carolina,Bertie,South,Black,70.7
+North Carolina,Bladen,South,Black,66.7
+North Carolina,Brunswick,South,Black,72.3
+North Carolina,Buncombe,South,Black,69.8
+North Carolina,Burke,South,Black,70.9
+North Carolina,Cabarrus,South,Black,74.4
+North Carolina,Caldwell,South,Black,66.2
+North Carolina,Carteret,South,Black,69.8
+North Carolina,Caswell,South,Black,73.6
+North Carolina,Catawba,South,Black,67.8
+North Carolina,Chatham,South,Black,74.4
+North Carolina,Chowan,South,Black,71.5
+North Carolina,Cleveland,South,Black,69.8
+North Carolina,Columbus,South,Black,67.2
+North Carolina,Craven,South,Black,69.2
+North Carolina,Cumberland,South,Black,71.0
+North Carolina,Davidson,South,Black,71.2
+North Carolina,Davie,South,Black,68.7
+North Carolina,Duplin,South,Black,70.8
+North Carolina,Durham,South,Black,74.8
+North Carolina,Edgecombe,South,Black,69.2
+North Carolina,Forsyth,South,Black,71.9
+North Carolina,Franklin,South,Black,73.6
+North Carolina,Gaston,South,Black,71.1
+North Carolina,Gates,South,Black,71.2
+North Carolina,Granville,South,Black,74.7
+North Carolina,Greene,South,Black,73.5
+North Carolina,Guilford,South,Black,73.1
+North Carolina,Halifax,South,Black,68.1
+North Carolina,Harnett,South,Black,71.4
+North Carolina,Henderson,South,Black,69.7
+North Carolina,Hertford,South,Black,70.9
+North Carolina,Hoke,South,Black,71.5
+North Carolina,Iredell,South,Black,71.4
+North Carolina,Johnston,South,Black,74.2
+North Carolina,Jones,South,Black,69.3
+North Carolina,Lee,South,Black,67.7
+North Carolina,Lenoir,South,Black,68.5
+North Carolina,Lincoln,South,Black,74.2
+North Carolina,McDowell,South,Black,69.7
+North Carolina,Martin,South,Black,69.1
+North Carolina,Mecklenburg,South,Black,74.4
+North Carolina,Montgomery,South,Black,65.0
+North Carolina,Moore,South,Black,69.8
+North Carolina,Nash,South,Black,71.2
+North Carolina,New Hanover,South,Black,70.9
+North Carolina,Northampton,South,Black,69.9
+North Carolina,Onslow,South,Black,72.0
+North Carolina,Orange,South,Black,72.5
+North Carolina,Pamlico,South,Black,71.3
+North Carolina,Pasquotank,South,Black,71.4
+North Carolina,Pender,South,Black,69.6
+North Carolina,Perquimans,South,Black,68.4
+North Carolina,Person,South,Black,71.4
+North Carolina,Pitt,South,Black,71.2
+North Carolina,Randolph,South,Black,69.9
+North Carolina,Richmond,South,Black,67.2
+North Carolina,Robeson,South,Black,66.7
+North Carolina,Rockingham,South,Black,69.4
+North Carolina,Rowan,South,Black,70.4
+North Carolina,Rutherford,South,Black,65.8
+North Carolina,Sampson,South,Black,69.8
+North Carolina,Scotland,South,Black,66.8
+North Carolina,Stanly,South,Black,70.5
+North Carolina,Stokes,South,Black,72.2
+North Carolina,Surry,South,Black,68.6
+North Carolina,Union,South,Black,73.4
+North Carolina,Vance,South,Black,67.9
+North Carolina,Wake,South,Black,76.4
+North Carolina,Warren,South,Black,70.2
+North Carolina,Washington,South,Black,68.5
+North Carolina,Wayne,South,Black,70.5
+North Carolina,Wilkes,South,Black,74.0
+North Carolina,Wilson,South,Black,69.8
+North Dakota,Burleigh,Midwest,Black,75.3
+North Dakota,Cass,Midwest,Black,79.1
+Ohio,Allen,Midwest,Black,68.1
+Ohio,Ashtabula,Midwest,Black,68.0
+Ohio,Athens,Midwest,Black,77.0
+Ohio,Belmont,Midwest,Black,70.4
+Ohio,Butler,Midwest,Black,73.4
+Ohio,Clark,Midwest,Black,65.4
+Ohio,Clermont,Midwest,Black,71.5
+Ohio,Columbiana,Midwest,Black,71.9
+Ohio,Cuyahoga,Midwest,Black,70.3
+Ohio,Delaware,Midwest,Black,79.0
+Ohio,Erie,Midwest,Black,65.9
+Ohio,Fairfield,Midwest,Black,78.0
+Ohio,Franklin,Midwest,Black,71.3
+Ohio,Greene,Midwest,Black,74.6
+Ohio,Hamilton,Midwest,Black,70.8
+Ohio,Jefferson,Midwest,Black,59.0
+Ohio,Lake,Midwest,Black,70.0
+Ohio,Licking,Midwest,Black,73.9
+Ohio,Lorain,Midwest,Black,69.4
+Ohio,Lucas,Midwest,Black,67.4
+Ohio,Madison,Midwest,Black,69.9
+Ohio,Mahoning,Midwest,Black,65.1
+Ohio,Marion,Midwest,Black,73.1
+Ohio,Medina,Midwest,Black,73.0
+Ohio,Miami,Midwest,Black,73.2
+Ohio,Montgomery,Midwest,Black,68.6
+Ohio,Muskingum,Midwest,Black,69.9
+Ohio,Pickaway,Midwest,Black,65.7
+Ohio,Portage,Midwest,Black,73.3
+Ohio,Richland,Midwest,Black,70.5
+Ohio,Ross,Midwest,Black,70.5
+Ohio,Sandusky,Midwest,Black,67.4
+Ohio,Scioto,Midwest,Black,63.9
+Ohio,Stark,Midwest,Black,67.0
+Ohio,Summit,Midwest,Black,68.6
+Ohio,Trumbull,Midwest,Black,67.4
+Ohio,Union,Midwest,Black,76.2
+Ohio,Warren,Midwest,Black,75.9
+Ohio,Wayne,Midwest,Black,67.1
+Ohio,Wood,Midwest,Black,71.5
+Oklahoma,Canadian,South,Black,75.6
+Oklahoma,Carter,South,Black,68.5
+Oklahoma,Cleveland,South,Black,76.8
+Oklahoma,Comanche,South,Black,70.4
+Oklahoma,Garfield,South,Black,65.6
+Oklahoma,Logan,South,Black,74.3
+Oklahoma,McCurtain,South,Black,63.4
+Oklahoma,Muskogee,South,Black,65.3
+Oklahoma,Oklahoma,South,Black,69.3
+Oklahoma,Okmulgee,South,Black,66.6
+Oklahoma,Osage,South,Black,87.3
+Oklahoma,Payne,South,Black,73.4
+Oklahoma,Pottawatomie,South,Black,67.8
+Oklahoma,Tulsa,South,Black,67.7
+Oklahoma,Wagoner,South,Black,77.7
+Oregon,Clackamas,West,Black,76.5
+Oregon,Jackson,West,Black,75.4
+Oregon,Lane,West,Black,74.6
+Oregon,Marion,West,Black,76.8
+Oregon,Multnomah,West,Black,69.9
+Oregon,Washington,West,Black,79.1
+Pennsylvania,Adams,Northeast,Black,71.0
+Pennsylvania,Allegheny,Northeast,Black,68.9
+Pennsylvania,Beaver,Northeast,Black,66.0
+Pennsylvania,Berks,Northeast,Black,73.3
+Pennsylvania,Blair,Northeast,Black,63.4
+Pennsylvania,Bucks,Northeast,Black,74.1
+Pennsylvania,Butler,Northeast,Black,71.6
+Pennsylvania,Cambria,Northeast,Black,62.8
+Pennsylvania,Centre,Northeast,Black,82.6
+Pennsylvania,Chester,Northeast,Black,74.3
+Pennsylvania,Clearfield,Northeast,Black,72.6
+Pennsylvania,Cumberland,Northeast,Black,73.4
+Pennsylvania,Dauphin,Northeast,Black,71.3
+Pennsylvania,Delaware,Northeast,Black,72.9
+Pennsylvania,Erie,Northeast,Black,67.5
+Pennsylvania,Fayette,Northeast,Black,70.0
+Pennsylvania,Franklin,Northeast,Black,71.5
+Pennsylvania,Huntingdon,Northeast,Black,73.2
+Pennsylvania,Indiana,Northeast,Black,74.2
+Pennsylvania,Lackawanna,Northeast,Black,67.7
+Pennsylvania,Lancaster,Northeast,Black,72.4
+Pennsylvania,Lawrence,Northeast,Black,60.0
+Pennsylvania,Lebanon,Northeast,Black,74.3
+Pennsylvania,Lehigh,Northeast,Black,73.8
+Pennsylvania,Luzerne,Northeast,Black,68.2
+Pennsylvania,Lycoming,Northeast,Black,67.1
+Pennsylvania,Mercer,Northeast,Black,66.6
+Pennsylvania,Monroe,Northeast,Black,77.1
+Pennsylvania,Montgomery,Northeast,Black,74.2
+Pennsylvania,Northampton,Northeast,Black,74.8
+Pennsylvania,Northumberland,Northeast,Black,67.5
+Pennsylvania,Philadelphia,Northeast,Black,69.8
+Pennsylvania,Pike,Northeast,Black,80.2
+Pennsylvania,Schuylkill,Northeast,Black,71.8
+Pennsylvania,Somerset,Northeast,Black,67.5
+Pennsylvania,Union,Northeast,Black,83.3
+Pennsylvania,Washington,Northeast,Black,65.1
+Pennsylvania,Westmoreland,Northeast,Black,68.0
+Pennsylvania,York,Northeast,Black,71.0
+Rhode Island,Kent,Northeast,Black,79.6
+Rhode Island,Newport,Northeast,Black,84.2
+Rhode Island,Providence,Northeast,Black,80.1
+Rhode Island,Washington,Northeast,Black,77.0
+South Carolina,Abbeville,South,Black,70.2
+South Carolina,Aiken,South,Black,70.7
+South Carolina,Allendale,South,Black,67.1
+South Carolina,Anderson,South,Black,70.2
+South Carolina,Bamberg,South,Black,68.6
+South Carolina,Barnwell,South,Black,67.5
+South Carolina,Beaufort,South,Black,73.4
+South Carolina,Berkeley,South,Black,73.9
+South Carolina,Calhoun,South,Black,68.9
+South Carolina,Charleston,South,Black,71.8
+South Carolina,Cherokee,South,Black,69.0
+South Carolina,Chester,South,Black,67.5
+South Carolina,Chesterfield,South,Black,70.1
+South Carolina,Clarendon,South,Black,68.0
+South Carolina,Colleton,South,Black,66.5
+South Carolina,Darlington,South,Black,68.3
+South Carolina,Dillon,South,Black,66.4
+South Carolina,Dorchester,South,Black,74.6
+South Carolina,Edgefield,South,Black,70.2
+South Carolina,Fairfield,South,Black,67.5
+South Carolina,Florence,South,Black,68.7
+South Carolina,Georgetown,South,Black,70.7
+South Carolina,Greenville,South,Black,72.3
+South Carolina,Greenwood,South,Black,69.8
+South Carolina,Hampton,South,Black,68.6
+South Carolina,Horry,South,Black,71.0
+South Carolina,Jasper,South,Black,71.0
+South Carolina,Kershaw,South,Black,70.6
+South Carolina,Lancaster,South,Black,69.7
+South Carolina,Laurens,South,Black,69.5
+South Carolina,Lee,South,Black,67.3
+South Carolina,Lexington,South,Black,73.5
+South Carolina,McCormick,South,Black,68.7
+South Carolina,Marion,South,Black,67.3
+South Carolina,Marlboro,South,Black,69.1
+South Carolina,Newberry,South,Black,66.9
+South Carolina,Oconee,South,Black,72.2
+South Carolina,Orangeburg,South,Black,68.6
+South Carolina,Pickens,South,Black,71.8
+South Carolina,Richland,South,Black,72.8
+South Carolina,Saluda,South,Black,68.8
+South Carolina,Spartanburg,South,Black,70.9
+South Carolina,Sumter,South,Black,70.6
+South Carolina,Union,South,Black,66.4
+South Carolina,Williamsburg,South,Black,69.0
+South Carolina,York,South,Black,72.8
+South Dakota,Minnehaha,Midwest,Black,73.7
+Tennessee,Anderson,South,Black,69.4
+Tennessee,Bedford,South,Black,69.8
+Tennessee,Blount,South,Black,74.6
+Tennessee,Bradley,South,Black,71.7
+Tennessee,Carroll,South,Black,64.9
+Tennessee,Coffee,South,Black,67.1
+Tennessee,Crockett,South,Black,70.8
+Tennessee,Davidson,South,Black,70.7
+Tennessee,Dickson,South,Black,70.0
+Tennessee,Dyer,South,Black,64.6
+Tennessee,Fayette,South,Black,71.3
+Tennessee,Franklin,South,Black,75.7
+Tennessee,Gibson,South,Black,66.3
+Tennessee,Giles,South,Black,67.6
+Tennessee,Hamblen,South,Black,69.4
+Tennessee,Hamilton,South,Black,70.8
+Tennessee,Hardeman,South,Black,69.5
+Tennessee,Haywood,South,Black,68.4
+Tennessee,Henderson,South,Black,71.3
+Tennessee,Henry,South,Black,67.1
+Tennessee,Knox,South,Black,68.1
+Tennessee,Lake,South,Black,75.0
+Tennessee,Lauderdale,South,Black,69.2
+Tennessee,Lincoln,South,Black,69.2
+Tennessee,McMinn,South,Black,67.8
+Tennessee,Madison,South,Black,69.8
+Tennessee,Marshall,South,Black,69.3
+Tennessee,Maury,South,Black,71.4
+Tennessee,Montgomery,South,Black,70.6
+Tennessee,Obion,South,Black,68.5
+Tennessee,Putnam,South,Black,70.0
+Tennessee,Robertson,South,Black,66.5
+Tennessee,Rutherford,South,Black,73.0
+Tennessee,Shelby,South,Black,68.3
+Tennessee,Sullivan,South,Black,65.3
+Tennessee,Sumner,South,Black,73.2
+Tennessee,Tipton,South,Black,69.7
+Tennessee,Washington,South,Black,70.6
+Tennessee,Weakley,South,Black,68.5
+Tennessee,Williamson,South,Black,76.0
+Tennessee,Wilson,South,Black,72.0
+Texas,Anderson,South,Black,70.8
+Texas,Angelina,South,Black,67.6
+Texas,Austin,South,Black,66.2
+Texas,Bastrop,South,Black,73.5
+Texas,Bee,South,Black,76.8
+Texas,Bell,South,Black,72.6
+Texas,Bexar,South,Black,73.4
+Texas,Bowie,South,Black,68.6
+Texas,Brazoria,South,Black,76.1
+Texas,Brazos,South,Black,72.7
+Texas,Burleson,South,Black,69.1
+Texas,Caldwell,South,Black,72.0
+Texas,Cameron,South,Black,78.4
+Texas,Camp,South,Black,66.7
+Texas,Cass,South,Black,65.8
+Texas,Chambers,South,Black,73.8
+Texas,Cherokee,South,Black,69.7
+Texas,Collin,South,Black,79.1
+Texas,Colorado,South,Black,67.3
+Texas,Comal,South,Black,80.4
+Texas,Coryell,South,Black,76.3
+Texas,Dallas,South,Black,72.1
+Texas,Denton,South,Black,78.6
+Texas,Ector,South,Black,67.1
+Texas,Ellis,South,Black,73.8
+Texas,El Paso,South,Black,75.5
+Texas,Falls,South,Black,71.2
+Texas,Fannin,South,Black,73.8
+Texas,Fort Bend,South,Black,77.6
+Texas,Freestone,South,Black,67.9
+Texas,Galveston,South,Black,70.8
+Texas,Grayson,South,Black,70.9
+Texas,Gregg,South,Black,66.9
+Texas,Grimes,South,Black,69.8
+Texas,Guadalupe,South,Black,76.5
+Texas,Hardin,South,Black,72.6
+Texas,Harris,South,Black,72.1
+Texas,Harrison,South,Black,71.1
+Texas,Hays,South,Black,76.7
+Texas,Henderson,South,Black,69.0
+Texas,Hidalgo,South,Black,81.7
+Texas,Hill,South,Black,67.8
+Texas,Hopkins,South,Black,70.5
+Texas,Houston,South,Black,69.3
+Texas,Howard,South,Black,70.4
+Texas,Hunt,South,Black,69.9
+Texas,Jasper,South,Black,66.9
+Texas,Jefferson,South,Black,69.5
+Texas,Johnson,South,Black,76.2
+Texas,Jones,South,Black,76.7
+Texas,Kaufman,South,Black,72.5
+Texas,Lamar,South,Black,67.5
+Texas,Lee,South,Black,69.2
+Texas,Liberty,South,Black,69.8
+Texas,Limestone,South,Black,67.8
+Texas,Lubbock,South,Black,67.1
+Texas,McLennan,South,Black,70.1
+Texas,Madison,South,Black,68.3
+Texas,Marion,South,Black,68.1
+Texas,Matagorda,South,Black,67.5
+Texas,Midland,South,Black,70.1
+Texas,Milam,South,Black,65.9
+Texas,Montgomery,South,Black,74.7
+Texas,Morris,South,Black,71.0
+Texas,Nacogdoches,South,Black,67.9
+Texas,Navarro,South,Black,68.6
+Texas,Newton,South,Black,68.1
+Texas,Nueces,South,Black,70.6
+Texas,Orange,South,Black,66.6
+Texas,Panola,South,Black,65.7
+Texas,Parker,South,Black,77.4
+Texas,Polk,South,Black,67.0
+Texas,Potter,South,Black,65.9
+Texas,Randall,South,Black,77.0
+Texas,Red River,South,Black,63.5
+Texas,Robertson,South,Black,69.9
+Texas,Rockwall,South,Black,74.7
+Texas,Rusk,South,Black,71.3
+Texas,San Augustine,South,Black,67.1
+Texas,San Jacinto,South,Black,71.8
+Texas,Shelby,South,Black,66.3
+Texas,Smith,South,Black,71.7
+Texas,Tarrant,South,Black,73.5
+Texas,Taylor,South,Black,69.9
+Texas,Titus,South,Black,66.3
+Texas,Tom Green,South,Black,67.2
+Texas,Travis,South,Black,75.3
+Texas,Tyler,South,Black,66.3
+Texas,Upshur,South,Black,72.8
+Texas,Van Zandt,South,Black,74.9
+Texas,Victoria,South,Black,68.1
+Texas,Walker,South,Black,73.5
+Texas,Waller,South,Black,71.8
+Texas,Washington,South,Black,69.2
+Texas,Wharton,South,Black,67.8
+Texas,Wichita,South,Black,70.3
+Texas,Williamson,South,Black,77.7
+Texas,Wood,South,Black,70.4
+Utah,Davis,West,Black,77.6
+Utah,Salt Lake,West,Black,75.0
+Utah,Utah,West,Black,76.5
+Utah,Weber,West,Black,66.9
+Vermont,Chittenden,Northeast,Black,75.0
+Virginia,Accomack,South,Black,68.9
+Virginia,Albemarle,South,Black,75.9
+Virginia,Amelia,South,Black,71.5
+Virginia,Amherst,South,Black,75.6
+Virginia,Appomattox,South,Black,76.6
+Virginia,Arlington,South,Black,77.2
+Virginia,Augusta,South,Black,79.4
+Virginia,Bedford,South,Black,75.1
+Virginia,Brunswick,South,Black,69.9
+Virginia,Buckingham,South,Black,74.9
+Virginia,Campbell,South,Black,73.6
+Virginia,Caroline,South,Black,75.2
+Virginia,Charles City,South,Black,74.0
+Virginia,Charlotte,South,Black,66.6
+Virginia,Chesterfield,South,Black,75.2
+Virginia,Culpeper,South,Black,73.2
+Virginia,Cumberland,South,Black,75.9
+Virginia,Dinwiddie,South,Black,73.4
+Virginia,Essex,South,Black,69.9
+Virginia,Fairfax,South,Black,82.4
+Virginia,Fauquier,South,Black,74.0
+Virginia,Fluvanna,South,Black,77.0
+Virginia,Franklin,South,Black,73.2
+Virginia,Frederick,South,Black,80.5
+Virginia,Gloucester,South,Black,69.3
+Virginia,Goochland,South,Black,73.9
+Virginia,Greensville,South,Black,70.0
+Virginia,Halifax,South,Black,69.8
+Virginia,Hanover,South,Black,74.4
+Virginia,Henrico,South,Black,74.2
+Virginia,Henry,South,Black,70.4
+Virginia,Isle of Wight,South,Black,71.3
+Virginia,James City,South,Black,77.0
+Virginia,King George,South,Black,74.7
+Virginia,King William,South,Black,70.6
+Virginia,Lancaster,South,Black,70.3
+Virginia,Loudoun,South,Black,80.8
+Virginia,Louisa,South,Black,73.0
+Virginia,Lunenburg,South,Black,71.8
+Virginia,Mecklenburg,South,Black,68.8
+Virginia,Montgomery,South,Black,74.1
+Virginia,New Kent,South,Black,76.6
+Virginia,Northampton,South,Black,68.6
+Virginia,Northumberland,South,Black,72.4
+Virginia,Nottoway,South,Black,70.6
+Virginia,Orange,South,Black,71.1
+Virginia,Pittsylvania,South,Black,74.3
+Virginia,Powhatan,South,Black,74.2
+Virginia,Prince Edward,South,Black,71.2
+Virginia,Prince George,South,Black,79.3
+Virginia,Prince William,South,Black,78.2
+Virginia,Pulaski,South,Black,70.4
+Virginia,Richmond,South,Black,75.5
+Virginia,Roanoke,South,Black,75.0
+Virginia,Rockingham,South,Black,75.0
+Virginia,Southampton,South,Black,74.8
+Virginia,Spotsylvania,South,Black,77.5
+Virginia,Stafford,South,Black,77.7
+Virginia,Surry,South,Black,73.5
+Virginia,Sussex,South,Black,71.8
+Virginia,Warren,South,Black,75.0
+Virginia,Westmoreland,South,Black,73.5
+Virginia,Wise,South,Black,70.3
+Virginia,York,South,Black,77.6
+Virginia,Alexandria City,South,Black,77.2
+Virginia,Charlottesville City,South,Black,71.4
+Virginia,Chesapeake City,South,Black,75.2
+Virginia,Colonial Heights City,South,Black,68.8
+Virginia,Danville City,South,Black,67.5
+Virginia,Franklin City,South,Black,62.9
+Virginia,Fredericksburg City,South,Black,71.4
+Virginia,Hampton City,South,Black,73.6
+Virginia,Harrisonburg City,South,Black,74.2
+Virginia,Hopewell City,South,Black,66.6
+Virginia,Lynchburg City,South,Black,69.0
+Virginia,Manassas City,South,Black,72.5
+Virginia,Manassas Park City,South,Black,114.4
+Virginia,Martinsville City,South,Black,64.9
+Virginia,Newport News City,South,Black,71.0
+Virginia,Norfolk City,South,Black,69.0
+Virginia,Petersburg City,South,Black,64.6
+Virginia,Portsmouth City,South,Black,68.2
+Virginia,Richmond City,South,Black,68.0
+Virginia,Roanoke City,South,Black,68.0
+Virginia,Salem City,South,Black,66.2
+Virginia,Staunton City,South,Black,74.0
+Virginia,Suffolk City,South,Black,72.8
+Virginia,Virginia Beach City,South,Black,75.5
+Virginia,Waynesboro City,South,Black,70.6
+Virginia,Williamsburg City,South,Black,68.3
+Virginia,Winchester City,South,Black,70.1
+Washington,Benton,West,Black,75.1
+Washington,Clark,West,Black,75.6
+Washington,Franklin,West,Black,77.5
+Washington,Island,West,Black,75.6
+Washington,King,West,Black,74.8
+Washington,Kitsap,West,Black,76.8
+Washington,Pierce,West,Black,72.8
+Washington,Snohomish,West,Black,78.9
+Washington,Spokane,West,Black,71.6
+Washington,Thurston,West,Black,77.4
+Washington,Whatcom,West,Black,75.2
+Washington,Yakima,West,Black,67.7
+West Virginia,Berkeley,South,Black,70.9
+West Virginia,Cabell,South,Black,62.6
+West Virginia,Jefferson,South,Black,72.5
+West Virginia,Kanawha,South,Black,65.6
+West Virginia,Marion,South,Black,65.1
+West Virginia,Mercer,South,Black,65.6
+West Virginia,Monongalia,South,Black,75.2
+West Virginia,Raleigh,South,Black,67.5
+Wisconsin,Brown,Midwest,Black,68.9
+Wisconsin,Dane,Midwest,Black,69.8
+Wisconsin,Dodge,Midwest,Black,76.3
+Wisconsin,Kenosha,Midwest,Black,69.4
+Wisconsin,La Crosse,Midwest,Black,70.9
+Wisconsin,Milwaukee,Midwest,Black,67.2
+Wisconsin,Outagamie,Midwest,Black,69.7
+Wisconsin,Ozaukee,Midwest,Black,78.8
+Wisconsin,Racine,Midwest,Black,67.2
+Wisconsin,Rock,Midwest,Black,67.4
+Wisconsin,Sheboygan,Midwest,Black,66.7
+Wisconsin,Washington,Midwest,Black,75.0
+Wisconsin,Waukesha,Midwest,Black,74.5
+Wisconsin,Winnebago,Midwest,Black,71.3
+Wyoming,Laramie,West,Black,66.5
+Alabama,Autauga,South,White,75.3
+Alabama,Baldwin,South,White,76.7
+Alabama,Barbour,South,White,74.2
+Alabama,Bibb,South,White,72.8
+Alabama,Blount,South,White,72.2
+Alabama,Bullock,South,White,77.3
+Alabama,Butler,South,White,73.2
+Alabama,Calhoun,South,White,70.4
+Alabama,Chambers,South,White,72.2
+Alabama,Chilton,South,White,72.4
+Alabama,Choctaw,South,White,74.7
+Alabama,Clarke,South,White,72.1
+Alabama,Clay,South,White,71.8
+Alabama,Coffee,South,White,74.7
+Alabama,Colbert,South,White,73.6
+Alabama,Conecuh,South,White,69.4
+Alabama,Coosa,South,White,73.1
+Alabama,Covington,South,White,71.1
+Alabama,Crenshaw,South,White,70.9
+Alabama,Dale,South,White,72.7
+Alabama,Dallas,South,White,71.7
+Alabama,DeKalb,South,White,71.4
+Alabama,Elmore,South,White,75.0
+Alabama,Escambia,South,White,70.2
+Alabama,Etowah,South,White,70.4
+Alabama,Fayette,South,White,70.5
+Alabama,Franklin,South,White,70.9
+Alabama,Geneva,South,White,70.7
+Alabama,Hale,South,White,73.1
+Alabama,Henry,South,White,75.9
+Alabama,Houston,South,White,74.7
+Alabama,Jackson,South,White,70.4
+Alabama,Jefferson,South,White,74.7
+Alabama,Lauderdale,South,White,75.1
+Alabama,Lawrence,South,White,70.2
+Alabama,Lee,South,White,78.0
+Alabama,Limestone,South,White,75.4
+Alabama,Lowndes,South,White,70.7
+Alabama,Macon,South,White,75.1
+Alabama,Madison,South,White,76.7
+Alabama,Marengo,South,White,73.9
+Alabama,Marshall,South,White,71.3
+Alabama,Mobile,South,White,73.6
+Alabama,Monroe,South,White,72.2
+Alabama,Montgomery,South,White,75.5
+Alabama,Morgan,South,White,72.9
+Alabama,Perry,South,White,74.6
+Alabama,Pickens,South,White,72.9
+Alabama,Pike,South,White,73.0
+Alabama,Randolph,South,White,73.2
+Alabama,Russell,South,White,69.6
+Alabama,St. Clair,South,White,72.6
+Alabama,Shelby,South,White,79.3
+Alabama,Sumter,South,White,77.5
+Alabama,Talladega,South,White,70.8
+Alabama,Tallapoosa,South,White,73.1
+Alabama,Tuscaloosa,South,White,75.8
+Alabama,Walker,South,White,67.5
+Alabama,Washington,South,White,73.2
+Alabama,Wilcox,South,White,73.1
+Alaska,Anchorage,West,White,78.8
+Alaska,Fairbanks North Star,West,White,78.9
+Alaska,Juneau,West,White,82.0
+Alaska,Kenai Peninsula,West,White,78.7
+Alaska,Ketchikan Gateway,West,White,78.0
+Alaska,Kodiak Island,West,White,79.1
+Alaska,Matanuska-Susitna,West,White,76.6
+Alaska,Prince of Wales-Hyder,West,White,75.0
+Arizona,Apache,West,White,71.2
+Arizona,Cochise,West,White,75.8
+Arizona,Coconino,West,White,81.0
+Arizona,Gila,West,White,71.5
+Arizona,Graham,West,White,75.2
+Arizona,Greenlee,West,White,74.7
+Arizona,La Paz,West,White,66.4
+Arizona,Maricopa,West,White,78.4
+Arizona,Mohave,West,White,72.5
+Arizona,Navajo,West,White,73.6
+Arizona,Pima,West,White,77.2
+Arizona,Pinal,West,White,79.3
+Arizona,Santa Cruz,West,White,80.5
+Arizona,Yavapai,West,White,76.1
+Arizona,Yuma,West,White,77.1
+Arkansas,Arkansas,South,White,69.6
+Arkansas,Ashley,South,White,71.4
+Arkansas,Benton,South,White,77.3
+Arkansas,Bradley,South,White,72.7
+Arkansas,Carroll,South,White,74.2
+Arkansas,Chicot,South,White,73.0
+Arkansas,Clark,South,White,72.9
+Arkansas,Columbia,South,White,73.8
+Arkansas,Conway,South,White,72.5
+Arkansas,Craighead,South,White,74.9
+Arkansas,Crawford,South,White,72.3
+Arkansas,Crittenden,South,White,71.8
+Arkansas,Cross,South,White,70.7
+Arkansas,Dallas,South,White,73.0
+Arkansas,Desha,South,White,70.8
+Arkansas,Drew,South,White,73.3
+Arkansas,Faulkner,South,White,75.9
+Arkansas,Garland,South,White,72.3
+Arkansas,Hempstead,South,White,73.0
+Arkansas,Hot Spring,South,White,71.9
+Arkansas,Howard,South,White,71.9
+Arkansas,Independence,South,White,73.3
+Arkansas,Jackson,South,White,70.5
+Arkansas,Jefferson,South,White,71.3
+Arkansas,Johnson,South,White,72.0
+Arkansas,Lafayette,South,White,71.7
+Arkansas,Lee,South,White,68.9
+Arkansas,Lincoln,South,White,71.7
+Arkansas,Little River,South,White,72.3
+Arkansas,Lonoke,South,White,73.8
+Arkansas,Miller,South,White,71.9
+Arkansas,Mississippi,South,White,69.2
+Arkansas,Monroe,South,White,70.5
+Arkansas,Nevada,South,White,72.2
+Arkansas,Ouachita,South,White,72.0
+Arkansas,Phillips,South,White,69.6
+Arkansas,Poinsett,South,White,68.7
+Arkansas,Pope,South,White,74.5
+Arkansas,Pulaski,South,White,75.3
+Arkansas,St. Francis,South,White,72.6
+Arkansas,Saline,South,White,75.2
+Arkansas,Sebastian,South,White,72.0
+Arkansas,Sevier,South,White,70.3
+Arkansas,Union,South,White,72.0
+Arkansas,Washington,South,White,76.6
+Arkansas,White,South,White,72.4
+Arkansas,Yell,South,White,73.1
+California,Alameda,West,White,81.3
+California,Amador,West,White,77.8
+California,Butte,West,White,75.2
+California,Calaveras,West,White,78.1
+California,Colusa,West,White,76.7
+California,Contra Costa,West,White,81.0
+California,Del Norte,West,White,73.2
+California,El Dorado,West,White,80.1
+California,Fresno,West,White,76.0
+California,Glenn,West,White,73.3
+California,Humboldt,West,White,76.1
+California,Imperial,West,White,72.9
+California,Inyo,West,White,77.7
+California,Kern,West,White,72.4
+California,Kings,West,White,75.8
+California,Lake,West,White,73.7
+California,Lassen,West,White,73.0
+California,Los Angeles,West,White,79.4
+California,Madera,West,White,75.6
+California,Marin,West,White,84.4
+California,Mariposa,West,White,77.5
+California,Mendocino,West,White,76.4
+California,Merced,West,White,74.1
+California,Mono,West,White,93.5
+California,Monterey,West,White,80.8
+California,Napa,West,White,80.4
+California,Nevada,West,White,79.5
+California,Orange,West,White,80.4
+California,Placer,West,White,80.7
+California,Plumas,West,White,77.1
+California,Riverside,West,White,76.9
+California,Sacramento,West,White,77.5
+California,San Benito,West,White,79.6
+California,San Bernardino,West,White,74.0
+California,San Diego,West,White,80.1
+California,San Francisco,West,White,82.6
+California,San Joaquin,West,White,75.3
+California,San Luis Obispo,West,White,80.2
+California,San Mateo,West,White,83.1
+California,Santa Barbara,West,White,80.8
+California,Santa Clara,West,White,82.0
+California,Santa Cruz,West,White,81.8
+California,Shasta,West,White,74.3
+California,Siskiyou,West,White,73.0
+California,Solano,West,White,77.9
+California,Sonoma,West,White,80.3
+California,Stanislaus,West,White,73.7
+California,Sutter,West,White,74.4
+California,Tehama,West,White,73.3
+California,Tulare,West,White,73.9
+California,Tuolumne,West,White,76.0
+California,Ventura,West,White,80.1
+California,Yolo,West,White,79.1
+California,Yuba,West,White,73.8
+Colorado,Adams,West,White,76.9
+Colorado,Alamosa,West,White,75.2
+Colorado,Arapahoe,West,White,79.7
+Colorado,Archuleta,West,White,80.4
+Colorado,Bent,West,White,74.1
+Colorado,Boulder,West,White,82.3
+Colorado,Broomfield,West,White,82.1
+Colorado,Chaffee,West,White,80.7
+Colorado,Conejos,West,White,74.1
+Colorado,Crowley,West,White,68.0
+Colorado,Delta,West,White,75.3
+Colorado,Denver,West,White,79.3
+Colorado,Douglas,West,White,82.3
+Colorado,Eagle,West,White,90.6
+Colorado,Elbert,West,White,80.3
+Colorado,El Paso,West,White,76.8
+Colorado,Fremont,West,White,74.7
+Colorado,Garfield,West,White,79.8
+Colorado,Gunnison,West,White,83.0
+Colorado,Huerfano,West,White,73.5
+Colorado,Jefferson,West,White,79.5
+Colorado,Lake,West,White,81.0
+Colorado,La Plata,West,White,81.5
+Colorado,Larimer,West,White,80.6
+Colorado,Las Animas,West,White,75.3
+Colorado,Logan,West,White,73.5
+Colorado,Mesa,West,White,76.7
+Colorado,Moffat,West,White,73.8
+Colorado,Montezuma,West,White,77.6
+Colorado,Montrose,West,White,77.5
+Colorado,Morgan,West,White,74.9
+Colorado,Otero,West,White,73.2
+Colorado,Prowers,West,White,73.7
+Colorado,Pueblo,West,White,73.8
+Colorado,Rio Grande,West,White,73.7
+Colorado,Routt,West,White,83.2
+Colorado,Saguache,West,White,77.8
+Colorado,Summit,West,White,92.5
+Colorado,Teller,West,White,78.2
+Colorado,Weld,West,White,79.1
+Colorado,Yuma,West,White,78.1
+Connecticut,Fairfield,Northeast,White,81.6
+Connecticut,Hartford,Northeast,White,79.0
+Connecticut,Litchfield,Northeast,White,78.8
+Connecticut,Middlesex,Northeast,White,80.4
+Connecticut,New Haven,Northeast,White,78.7
+Connecticut,New London,Northeast,White,77.9
+Connecticut,Tolland,Northeast,White,79.8
+Connecticut,Windham,Northeast,White,77.2
+Delaware,Kent,South,White,74.7
+Delaware,New Castle,South,White,77.2
+Delaware,Sussex,South,White,77.3
+District of Columbia,District of Columbia,South,White,87.6
+Florida,Alachua,South,White,78.4
+Florida,Baker,South,White,73.0
+Florida,Bay,South,White,74.0
+Florida,Bradford,South,White,73.3
+Florida,Brevard,South,White,75.6
+Florida,Broward,South,White,77.8
+Florida,Calhoun,South,White,71.7
+Florida,Charlotte,South,White,77.9
+Florida,Citrus,South,White,72.1
+Florida,Clay,South,White,74.6
+Florida,Collier,South,White,83.4
+Florida,Columbia,South,White,72.4
+Florida,DeSoto,South,White,75.0
+Florida,Duval,South,White,74.2
+Florida,Escambia,South,White,73.1
+Florida,Flagler,South,White,77.3
+Florida,Gadsden,South,White,75.0
+Florida,Glades,South,White,79.9
+Florida,Gulf,South,White,74.0
+Florida,Hamilton,South,White,71.7
+Florida,Hardee,South,White,73.2
+Florida,Hendry,South,White,73.2
+Florida,Hernando,South,White,73.3
+Florida,Highlands,South,White,74.1
+Florida,Hillsborough,South,White,77.2
+Florida,Indian River,South,White,78.2
+Florida,Jackson,South,White,71.3
+Florida,Jefferson,South,White,76.3
+Florida,Lake,South,White,76.7
+Florida,Lee,South,White,80.0
+Florida,Leon,South,White,77.7
+Florida,Levy,South,White,73.6
+Florida,Madison,South,White,72.4
+Florida,Manatee,South,White,80.1
+Florida,Marion,South,White,73.2
+Florida,Martin,South,White,80.4
+Florida,Miami-Dade,South,White,78.2
+Florida,Monroe,South,White,79.4
+Florida,Nassau,South,White,76.3
+Florida,Okaloosa,South,White,75.7
+Florida,Okeechobee,South,White,71.8
+Florida,Orange,South,White,78.4
+Florida,Osceola,South,White,75.6
+Florida,Palm Beach,South,White,80.6
+Florida,Pasco,South,White,75.0
+Florida,Pinellas,South,White,77.5
+Florida,Polk,South,White,75.5
+Florida,Putnam,South,White,70.5
+Florida,St. Johns,South,White,80.8
+Florida,St. Lucie,South,White,77.5
+Florida,Santa Rosa,South,White,75.7
+Florida,Sarasota,South,White,80.0
+Florida,Seminole,South,White,78.5
+Florida,Sumter,South,White,77.2
+Florida,Suwannee,South,White,72.0
+Florida,Taylor,South,White,72.1
+Florida,Union,South,White,68.2
+Florida,Volusia,South,White,74.1
+Florida,Wakulla,South,White,73.8
+Florida,Walton,South,White,76.5
+Florida,Washington,South,White,72.3
+Georgia,Appling,South,White,71.4
+Georgia,Atkinson,South,White,67.4
+Georgia,Bacon,South,White,69.2
+Georgia,Baldwin,South,White,72.8
+Georgia,Barrow,South,White,74.2
+Georgia,Bartow,South,White,73.5
+Georgia,Ben Hill,South,White,70.2
+Georgia,Berrien,South,White,70.8
+Georgia,Bibb,South,White,72.5
+Georgia,Bleckley,South,White,73.0
+Georgia,Brooks,South,White,75.3
+Georgia,Bryan,South,White,74.2
+Georgia,Bulloch,South,White,76.0
+Georgia,Burke,South,White,73.9
+Georgia,Butts,South,White,71.4
+Georgia,Calhoun,South,White,73.4
+Georgia,Camden,South,White,76.2
+Georgia,Candler,South,White,67.1
+Georgia,Carroll,South,White,72.9
+Georgia,Catoosa,South,White,74.8
+Georgia,Charlton,South,White,71.3
+Georgia,Chatham,South,White,76.8
+Georgia,Chattooga,South,White,70.1
+Georgia,Cherokee,South,White,79.2
+Georgia,Clarke,South,White,78.3
+Georgia,Clayton,South,White,67.9
+Georgia,Clinch,South,White,72.0
+Georgia,Cobb,South,White,79.3
+Georgia,Coffee,South,White,71.4
+Georgia,Colquitt,South,White,71.6
+Georgia,Columbia,South,White,77.7
+Georgia,Cook,South,White,72.1
+Georgia,Coweta,South,White,76.6
+Georgia,Crawford,South,White,69.7
+Georgia,Crisp,South,White,72.5
+Georgia,Decatur,South,White,71.9
+Georgia,DeKalb,South,White,81.3
+Georgia,Dodge,South,White,72.0
+Georgia,Dooly,South,White,74.4
+Georgia,Dougherty,South,White,70.2
+Georgia,Douglas,South,White,73.9
+Georgia,Early,South,White,71.3
+Georgia,Effingham,South,White,74.5
+Georgia,Elbert,South,White,71.3
+Georgia,Emanuel,South,White,70.5
+Georgia,Evans,South,White,71.6
+Georgia,Fayette,South,White,79.9
+Georgia,Floyd,South,White,72.5
+Georgia,Forsyth,South,White,80.1
+Georgia,Franklin,South,White,71.9
+Georgia,Fulton,South,White,81.3
+Georgia,Glynn,South,White,75.1
+Georgia,Gordon,South,White,72.0
+Georgia,Grady,South,White,75.2
+Georgia,Greene,South,White,78.4
+Georgia,Gwinnett,South,White,78.2
+Georgia,Habersham,South,White,73.9
+Georgia,Hall,South,White,76.7
+Georgia,Hancock,South,White,73.0
+Georgia,Harris,South,White,78.9
+Georgia,Hart,South,White,74.5
+Georgia,Henry,South,White,74.2
+Georgia,Houston,South,White,75.1
+Georgia,Irwin,South,White,72.5
+Georgia,Jackson,South,White,74.4
+Georgia,Jasper,South,White,73.8
+Georgia,Jeff Davis,South,White,70.1
+Georgia,Jefferson,South,White,70.4
+Georgia,Jenkins,South,White,71.0
+Georgia,Johnson,South,White,72.0
+Georgia,Jones,South,White,74.7
+Georgia,Lamar,South,White,71.3
+Georgia,Lanier,South,White,74.2
+Georgia,Laurens,South,White,71.7
+Georgia,Lee,South,White,74.5
+Georgia,Liberty,South,White,71.2
+Georgia,Lincoln,South,White,75.7
+Georgia,Long,South,White,75.5
+Georgia,Lowndes,South,White,74.8
+Georgia,Lumpkin,South,White,74.7
+Georgia,McDuffie,South,White,72.5
+Georgia,McIntosh,South,White,74.2
+Georgia,Macon,South,White,73.2
+Georgia,Madison,South,White,73.8
+Georgia,Marion,South,White,72.3
+Georgia,Meriwether,South,White,71.6
+Georgia,Mitchell,South,White,73.1
+Georgia,Monroe,South,White,75.3
+Georgia,Montgomery,South,White,70.1
+Georgia,Morgan,South,White,76.2
+Georgia,Murray,South,White,70.8
+Georgia,Muscogee,South,White,72.2
+Georgia,Newton,South,White,73.6
+Georgia,Oconee,South,White,79.2
+Georgia,Oglethorpe,South,White,75.6
+Georgia,Paulding,South,White,76.0
+Georgia,Peach,South,White,70.8
+Georgia,Pierce,South,White,71.1
+Georgia,Pike,South,White,72.8
+Georgia,Polk,South,White,70.7
+Georgia,Pulaski,South,White,76.3
+Georgia,Putnam,South,White,74.2
+Georgia,Randolph,South,White,73.6
+Georgia,Richmond,South,White,71.3
+Georgia,Rockdale,South,White,72.1
+Georgia,Screven,South,White,71.8
+Georgia,Seminole,South,White,74.0
+Georgia,Spalding,South,White,71.4
+Georgia,Stephens,South,White,71.2
+Georgia,Sumter,South,White,74.9
+Georgia,Talbot,South,White,72.1
+Georgia,Tattnall,South,White,71.7
+Georgia,Taylor,South,White,73.3
+Georgia,Telfair,South,White,71.9
+Georgia,Terrell,South,White,76.3
+Georgia,Thomas,South,White,74.9
+Georgia,Tift,South,White,73.0
+Georgia,Toombs,South,White,70.8
+Georgia,Treutlen,South,White,69.6
+Georgia,Troup,South,White,72.5
+Georgia,Turner,South,White,73.4
+Georgia,Twiggs,South,White,69.0
+Georgia,Upson,South,White,71.1
+Georgia,Walker,South,White,73.0
+Georgia,Walton,South,White,75.3
+Georgia,Ware,South,White,69.5
+Georgia,Warren,South,White,73.0
+Georgia,Washington,South,White,72.9
+Georgia,Wayne,South,White,70.9
+Georgia,Wheeler,South,White,75.7
+Georgia,Whitfield,South,White,72.7
+Georgia,Wilcox,South,White,70.8
+Georgia,Wilkes,South,White,74.3
+Georgia,Wilkinson,South,White,69.1
+Georgia,Worth,South,White,72.8
+Hawaii,Hawaii,West,White,80.4
+Hawaii,Honolulu,West,White,81.8
+Hawaii,Kauai,West,White,82.9
+Hawaii,Maui,West,White,82.1
+Idaho,Ada,West,White,79.5
+Idaho,Bannock,West,White,75.7
+Idaho,Bingham,West,White,75.9
+Idaho,Blaine,West,White,84.3
+Idaho,Bonner,West,White,78.3
+Idaho,Bonneville,West,White,76.6
+Idaho,Canyon,West,White,77.1
+Idaho,Cassia,West,White,75.8
+Idaho,Elmore,West,White,76.1
+Idaho,Gem,West,White,75.6
+Idaho,Gooding,West,White,75.4
+Idaho,Jefferson,West,White,77.1
+Idaho,Jerome,West,White,75.6
+Idaho,Kootenai,West,White,78.3
+Idaho,Latah,West,White,80.5
+Idaho,Madison,West,White,78.9
+Idaho,Minidoka,West,White,76.3
+Idaho,Nez Perce,West,White,75.6
+Idaho,Owyhee,West,White,73.7
+Idaho,Payette,West,White,76.3
+Idaho,Power,West,White,77.0
+Idaho,Twin Falls,West,White,75.6
+Idaho,Washington,West,White,75.5
+Illinois,Adams,Midwest,White,76.5
+Illinois,Boone,Midwest,White,77.3
+Illinois,Bureau,Midwest,White,76.4
+Illinois,Cass,Midwest,White,75.6
+Illinois,Champaign,Midwest,White,79.9
+Illinois,Coles,Midwest,White,75.4
+Illinois,Cook,Midwest,White,79.9
+Illinois,DeKalb,Midwest,White,77.2
+Illinois,DuPage,Midwest,White,80.9
+Illinois,Grundy,Midwest,White,76.1
+Illinois,Henry,Midwest,White,77.2
+Illinois,Iroquois,Midwest,White,74.1
+Illinois,Jackson,Midwest,White,75.2
+Illinois,Jefferson,Midwest,White,74.0
+Illinois,Kane,Midwest,White,80.0
+Illinois,Kankakee,Midwest,White,75.9
+Illinois,Kendall,Midwest,White,80.4
+Illinois,Knox,Midwest,White,74.8
+Illinois,Lake,Midwest,White,80.5
+Illinois,LaSalle,Midwest,White,75.4
+Illinois,Lee,Midwest,White,76.9
+Illinois,Logan,Midwest,White,76.0
+Illinois,McHenry,Midwest,White,79.0
+Illinois,McLean,Midwest,White,78.7
+Illinois,Macon,Midwest,White,75.8
+Illinois,Madison,Midwest,White,75.7
+Illinois,Morgan,Midwest,White,75.9
+Illinois,Ogle,Midwest,White,77.7
+Illinois,Peoria,Midwest,White,76.7
+Illinois,Perry,Midwest,White,74.7
+Illinois,Randolph,Midwest,White,75.3
+Illinois,Rock Island,Midwest,White,76.8
+Illinois,St. Clair,Midwest,White,76.4
+Illinois,Sangamon,Midwest,White,77.7
+Illinois,Stephenson,Midwest,White,77.1
+Illinois,Tazewell,Midwest,White,76.4
+Illinois,Vermilion,Midwest,White,73.3
+Illinois,Warren,Midwest,White,75.9
+Illinois,Whiteside,Midwest,White,75.1
+Illinois,Will,Midwest,White,78.3
+Illinois,Williamson,Midwest,White,75.3
+Illinois,Winnebago,Midwest,White,75.4
+Indiana,Allen,Midwest,White,76.3
+Indiana,Bartholomew,Midwest,White,75.4
+Indiana,Boone,Midwest,White,78.0
+Indiana,Cass,Midwest,White,74.4
+Indiana,Clark,Midwest,White,73.1
+Indiana,Clinton,Midwest,White,73.5
+Indiana,Delaware,Midwest,White,72.5
+Indiana,Dubois,Midwest,White,77.6
+Indiana,Elkhart,Midwest,White,76.3
+Indiana,Floyd,Midwest,White,74.7
+Indiana,Grant,Midwest,White,70.8
+Indiana,Hamilton,Midwest,White,80.5
+Indiana,Hancock,Midwest,White,77.0
+Indiana,Hendricks,Midwest,White,78.3
+Indiana,Howard,Midwest,White,72.9
+Indiana,Jasper,Midwest,White,75.0
+Indiana,Johnson,Midwest,White,75.9
+Indiana,Kosciusko,Midwest,White,75.8
+Indiana,LaGrange,Midwest,White,78.3
+Indiana,Lake,Midwest,White,75.6
+Indiana,LaPorte,Midwest,White,74.5
+Indiana,Madison,Midwest,White,73.3
+Indiana,Marion,Midwest,White,73.6
+Indiana,Miami,Midwest,White,73.7
+Indiana,Monroe,Midwest,White,77.1
+Indiana,Noble,Midwest,White,75.4
+Indiana,Porter,Midwest,White,76.7
+Indiana,St. Joseph,Midwest,White,75.7
+Indiana,Tippecanoe,Midwest,White,77.4
+Indiana,Vanderburgh,Midwest,White,74.6
+Indiana,Vigo,Midwest,White,73.3
+Indiana,Warrick,Midwest,White,76.5
+Indiana,Wayne,Midwest,White,72.4
+Indiana,White,Midwest,White,74.6
+Iowa,Black Hawk,Midwest,White,77.4
+Iowa,Buena Vista,Midwest,White,79.7
+Iowa,Cerro Gordo,Midwest,White,76.7
+Iowa,Crawford,Midwest,White,76.8
+Iowa,Dallas,Midwest,White,81.7
+Iowa,Des Moines,Midwest,White,76.0
+Iowa,Dubuque,Midwest,White,78.9
+Iowa,Johnson,Midwest,White,82.1
+Iowa,Linn,Midwest,White,79.0
+Iowa,Louisa,Midwest,White,78.5
+Iowa,Marshall,Midwest,White,74.5
+Iowa,Muscatine,Midwest,White,76.0
+Iowa,Polk,Midwest,White,77.6
+Iowa,Pottawattamie,Midwest,White,75.1
+Iowa,Scott,Midwest,White,78.0
+Iowa,Story,Midwest,White,81.2
+Iowa,Tama,Midwest,White,77.3
+Iowa,Wapello,Midwest,White,74.2
+Iowa,Warren,Midwest,White,78.1
+Iowa,Webster,Midwest,White,74.8
+Iowa,Woodbury,Midwest,White,75.3
+Iowa,Wright,Midwest,White,78.1
+Kansas,Barton,Midwest,White,75.3
+Kansas,Butler,Midwest,White,75.5
+Kansas,Cowley,Midwest,White,74.5
+Kansas,Crawford,Midwest,White,72.5
+Kansas,Douglas,Midwest,White,79.3
+Kansas,Finney,Midwest,White,74.3
+Kansas,Ford,Midwest,White,74.4
+Kansas,Geary,Midwest,White,72.3
+Kansas,Grant,Midwest,White,80.1
+Kansas,Harvey,Midwest,White,75.9
+Kansas,Johnson,Midwest,White,80.8
+Kansas,Leavenworth,Midwest,White,77.1
+Kansas,Lyon,Midwest,White,76.4
+Kansas,Montgomery,Midwest,White,72.4
+Kansas,Reno,Midwest,White,75.6
+Kansas,Riley,Midwest,White,80.2
+Kansas,Saline,Midwest,White,75.9
+Kansas,Sedgwick,Midwest,White,75.6
+Kansas,Seward,Midwest,White,74.2
+Kansas,Shawnee,Midwest,White,76.3
+Kansas,Stevens,Midwest,White,75.2
+Kansas,Wyandotte,Midwest,White,74.2
+Kentucky,Barren,South,White,73.6
+Kentucky,Boone,South,White,77.7
+Kentucky,Boyle,South,White,74.6
+Kentucky,Bullitt,South,White,75.4
+Kentucky,Campbell,South,White,77.0
+Kentucky,Christian,South,White,72.1
+Kentucky,Clark,South,White,72.7
+Kentucky,Daviess,South,White,74.8
+Kentucky,Fayette,South,White,77.1
+Kentucky,Franklin,South,White,72.4
+Kentucky,Graves,South,White,72.7
+Kentucky,Hardin,South,White,73.3
+Kentucky,Henderson,South,White,73.3
+Kentucky,Hopkins,South,White,72.4
+Kentucky,Jefferson,South,White,74.3
+Kentucky,Jessamine,South,White,75.5
+Kentucky,Kenton,South,White,76.3
+Kentucky,McCracken,South,White,74.5
+Kentucky,Madison,South,White,73.5
+Kentucky,Nelson,South,White,74.0
+Kentucky,Oldham,South,White,79.7
+Kentucky,Pulaski,South,White,71.9
+Kentucky,Scott,South,White,75.2
+Kentucky,Shelby,South,White,75.9
+Kentucky,Simpson,South,White,73.1
+Kentucky,Warren,South,White,75.7
+Kentucky,Woodford,South,White,77.0
+Louisiana,Acadia,South,White,71.8
+Louisiana,Allen,South,White,70.2
+Louisiana,Ascension,South,White,77.4
+Louisiana,Assumption,South,White,76.9
+Louisiana,Avoyelles,South,White,71.8
+Louisiana,Beauregard,South,White,73.5
+Louisiana,Bienville,South,White,71.0
+Louisiana,Bossier,South,White,76.4
+Louisiana,Caddo,South,White,74.5
+Louisiana,Calcasieu,South,White,74.3
+Louisiana,Catahoula,South,White,70.2
+Louisiana,Claiborne,South,White,74.2
+Louisiana,Concordia,South,White,71.9
+Louisiana,De Soto,South,White,76.5
+Louisiana,East Baton Rouge,South,White,76.0
+Louisiana,East Carroll,South,White,75.5
+Louisiana,East Feliciana,South,White,72.2
+Louisiana,Evangeline,South,White,72.0
+Louisiana,Franklin,South,White,72.0
+Louisiana,Grant,South,White,72.1
+Louisiana,Iberia,South,White,73.2
+Louisiana,Iberville,South,White,73.6
+Louisiana,Jackson,South,White,74.5
+Louisiana,Jefferson,South,White,75.6
+Louisiana,Jefferson Davis,South,White,71.7
+Louisiana,Lafayette,South,White,77.2
+Louisiana,Lafourche,South,White,75.2
+Louisiana,LaSalle,South,White,72.7
+Louisiana,Lincoln,South,White,76.5
+Louisiana,Livingston,South,White,73.5
+Louisiana,Madison,South,White,71.1
+Louisiana,Morehouse,South,White,70.4
+Louisiana,Natchitoches,South,White,72.9
+Louisiana,Orleans,South,White,78.9
+Louisiana,Ouachita,South,White,73.7
+Louisiana,Plaquemines,South,White,75.6
+Louisiana,Pointe Coupee,South,White,73.9
+Louisiana,Rapides,South,White,72.3
+Louisiana,Red River,South,White,71.5
+Louisiana,Richland,South,White,72.8
+Louisiana,Sabine,South,White,71.7
+Louisiana,St. Bernard,South,White,72.8
+Louisiana,St. Charles,South,White,76.6
+Louisiana,St. Helena,South,White,72.1
+Louisiana,St. James,South,White,78.4
+Louisiana,St. John the Baptist,South,White,73.1
+Louisiana,St. Landry,South,White,71.7
+Louisiana,St. Martin,South,White,74.5
+Louisiana,St. Mary,South,White,72.8
+Louisiana,St. Tammany,South,White,76.9
+Louisiana,Tangipahoa,South,White,73.1
+Louisiana,Tensas,South,White,70.7
+Louisiana,Terrebonne,South,White,74.1
+Louisiana,Union,South,White,72.3
+Louisiana,Vermilion,South,White,74.4
+Louisiana,Vernon,South,White,71.9
+Louisiana,Washington,South,White,69.3
+Louisiana,Webster,South,White,70.0
+Louisiana,West Baton Rouge,South,White,75.4
+Louisiana,West Feliciana,South,White,74.0
+Louisiana,Winn,South,White,69.9
+Maine,Androscoggin,Northeast,White,75.1
+Maine,Cumberland,Northeast,White,79.6
+Maine,Kennebec,Northeast,White,76.0
+Maine,Penobscot,Northeast,White,75.3
+Maine,York,Northeast,White,78.5
+Maryland,Allegany,South,White,73.2
+Maryland,Anne Arundel,South,White,79.0
+Maryland,Baltimore,South,White,77.4
+Maryland,Calvert,South,White,78.7
+Maryland,Caroline,South,White,74.2
+Maryland,Carroll,South,White,78.0
+Maryland,Cecil,South,White,73.5
+Maryland,Charles,South,White,76.2
+Maryland,Dorchester,South,White,75.7
+Maryland,Frederick,South,White,79.7
+Maryland,Harford,South,White,78.0
+Maryland,Howard,South,White,82.4
+Maryland,Kent,South,White,77.5
+Maryland,Montgomery,South,White,83.0
+Maryland,Prince George's,South,White,78.0
+Maryland,Queen Anne's,South,White,79.9
+Maryland,St. Mary's,South,White,77.4
+Maryland,Somerset,South,White,72.8
+Maryland,Talbot,South,White,79.8
+Maryland,Washington,South,White,74.3
+Maryland,Wicomico,South,White,75.7
+Maryland,Worcester,South,White,78.9
+Maryland,Baltimore City,South,White,74.7
+Massachusetts,Barnstable,Northeast,White,79.6
+Massachusetts,Berkshire,Northeast,White,77.7
+Massachusetts,Bristol,Northeast,White,77.6
+Massachusetts,Essex,Northeast,White,79.4
+Massachusetts,Hampden,Northeast,White,77.2
+Massachusetts,Hampshire,Northeast,White,80.0
+Massachusetts,Middlesex,Northeast,White,81.1
+Massachusetts,Norfolk,Northeast,White,80.8
+Massachusetts,Plymouth,Northeast,White,78.7
+Massachusetts,Suffolk,Northeast,White,80.0
+Massachusetts,Worcester,Northeast,White,79.0
+Michigan,Allegan,Midwest,White,77.8
+Michigan,Barry,Midwest,White,77.7
+Michigan,Bay,Midwest,White,75.2
+Michigan,Berrien,Midwest,White,77.1
+Michigan,Branch,Midwest,White,76.0
+Michigan,Calhoun,Midwest,White,74.0
+Michigan,Cass,Midwest,White,76.2
+Michigan,Chippewa,Midwest,White,77.7
+Michigan,Clinton,Midwest,White,79.9
+Michigan,Eaton,Midwest,White,77.1
+Michigan,Genesee,Midwest,White,74.8
+Michigan,Grand Traverse,Midwest,White,78.8
+Michigan,Gratiot,Midwest,White,75.2
+Michigan,Ingham,Midwest,White,76.4
+Michigan,Ionia,Midwest,White,77.2
+Michigan,Isabella,Midwest,White,75.8
+Michigan,Jackson,Midwest,White,75.7
+Michigan,Kalamazoo,Midwest,White,78.0
+Michigan,Kent,Midwest,White,79.3
+Michigan,Lapeer,Midwest,White,75.8
+Michigan,Lenawee,Midwest,White,76.2
+Michigan,Livingston,Midwest,White,79.7
+Michigan,Mackinac,Midwest,White,77.2
+Michigan,Macomb,Midwest,White,76.7
+Michigan,Midland,Midwest,White,78.8
+Michigan,Monroe,Midwest,White,76.5
+Michigan,Montcalm,Midwest,White,75.8
+Michigan,Muskegon,Midwest,White,76.3
+Michigan,Newaygo,Midwest,White,76.4
+Michigan,Oakland,Midwest,White,79.5
+Michigan,Oceana,Midwest,White,77.5
+Michigan,Ottawa,Midwest,White,80.4
+Michigan,Saginaw,Midwest,White,76.7
+Michigan,St. Clair,Midwest,White,75.1
+Michigan,St. Joseph,Midwest,White,74.9
+Michigan,Sanilac,Midwest,White,75.4
+Michigan,Shiawassee,Midwest,White,75.9
+Michigan,Tuscola,Midwest,White,75.3
+Michigan,Van Buren,Midwest,White,75.8
+Michigan,Washtenaw,Midwest,White,80.9
+Michigan,Wayne,Midwest,White,76.2
+Minnesota,Anoka,Midwest,White,80.0
+Minnesota,Becker,Midwest,White,79.9
+Minnesota,Beltrami,Midwest,White,78.9
+Minnesota,Benton,Midwest,White,77.5
+Minnesota,Blue Earth,Midwest,White,79.7
+Minnesota,Carlton,Midwest,White,77.0
+Minnesota,Carver,Midwest,White,82.3
+Minnesota,Cass,Midwest,White,78.4
+Minnesota,Clay,Midwest,White,79.0
+Minnesota,Dakota,Midwest,White,81.0
+Minnesota,Freeborn,Midwest,White,78.1
+Minnesota,Goodhue,Midwest,White,79.0
+Minnesota,Hennepin,Midwest,White,80.9
+Minnesota,Kandiyohi,Midwest,White,79.7
+Minnesota,Le Sueur,Midwest,White,79.8
+Minnesota,Lyon,Midwest,White,79.4
+Minnesota,McLeod,Midwest,White,79.1
+Minnesota,Mahnomen,Midwest,White,78.1
+Minnesota,Mower,Midwest,White,78.6
+Minnesota,Nicollet,Midwest,White,80.9
+Minnesota,Olmsted,Midwest,White,81.5
+Minnesota,Otter Tail,Midwest,White,78.9
+Minnesota,Polk,Midwest,White,77.2
+Minnesota,Ramsey,Midwest,White,79.1
+Minnesota,Rice,Midwest,White,79.7
+Minnesota,St. Louis,Midwest,White,77.3
+Minnesota,Scott,Midwest,White,81.1
+Minnesota,Sherburne,Midwest,White,79.3
+Minnesota,Stearns,Midwest,White,80.3
+Minnesota,Steele,Midwest,White,80.0
+Minnesota,Washington,Midwest,White,81.3
+Minnesota,Watonwan,Midwest,White,78.9
+Minnesota,Wright,Midwest,White,80.0
+Mississippi,Adams,South,White,74.0
+Mississippi,Alcorn,South,White,72.3
+Mississippi,Amite,South,White,73.7
+Mississippi,Attala,South,White,71.5
+Mississippi,Benton,South,White,69.7
+Mississippi,Bolivar,South,White,71.7
+Mississippi,Calhoun,South,White,71.0
+Mississippi,Carroll,South,White,73.5
+Mississippi,Chickasaw,South,White,72.4
+Mississippi,Choctaw,South,White,75.2
+Mississippi,Clarke,South,White,73.4
+Mississippi,Clay,South,White,73.7
+Mississippi,Coahoma,South,White,72.9
+Mississippi,Copiah,South,White,72.7
+Mississippi,Covington,South,White,70.0
+Mississippi,DeSoto,South,White,73.5
+Mississippi,Forrest,South,White,72.7
+Mississippi,Franklin,South,White,73.5
+Mississippi,George,South,White,70.4
+Mississippi,Greene,South,White,73.7
+Mississippi,Grenada,South,White,71.3
+Mississippi,Hancock,South,White,74.3
+Mississippi,Harrison,South,White,73.0
+Mississippi,Hinds,South,White,73.6
+Mississippi,Holmes,South,White,72.5
+Mississippi,Jackson,South,White,73.6
+Mississippi,Jasper,South,White,73.2
+Mississippi,Jefferson Davis,South,White,71.8
+Mississippi,Jones,South,White,71.9
+Mississippi,Kemper,South,White,75.8
+Mississippi,Lafayette,South,White,77.0
+Mississippi,Lamar,South,White,77.2
+Mississippi,Lauderdale,South,White,73.2
+Mississippi,Lawrence,South,White,70.0
+Mississippi,Leake,South,White,73.2
+Mississippi,Lee,South,White,73.3
+Mississippi,Leflore,South,White,70.1
+Mississippi,Lincoln,South,White,72.9
+Mississippi,Lowndes,South,White,74.0
+Mississippi,Madison,South,White,77.8
+Mississippi,Marion,South,White,69.3
+Mississippi,Marshall,South,White,70.2
+Mississippi,Monroe,South,White,72.7
+Mississippi,Montgomery,South,White,70.9
+Mississippi,Neshoba,South,White,72.0
+Mississippi,Newton,South,White,72.6
+Mississippi,Noxubee,South,White,76.8
+Mississippi,Oktibbeha,South,White,78.3
+Mississippi,Panola,South,White,71.9
+Mississippi,Pearl River,South,White,70.6
+Mississippi,Perry,South,White,71.2
+Mississippi,Pike,South,White,71.1
+Mississippi,Pontotoc,South,White,72.3
+Mississippi,Prentiss,South,White,72.7
+Mississippi,Rankin,South,White,77.1
+Mississippi,Scott,South,White,71.2
+Mississippi,Simpson,South,White,71.3
+Mississippi,Smith,South,White,73.0
+Mississippi,Stone,South,White,71.4
+Mississippi,Sunflower,South,White,68.7
+Mississippi,Tallahatchie,South,White,72.5
+Mississippi,Tate,South,White,71.9
+Mississippi,Tippah,South,White,71.6
+Mississippi,Tunica,South,White,65.7
+Mississippi,Union,South,White,73.5
+Mississippi,Walthall,South,White,72.6
+Mississippi,Warren,South,White,71.5
+Mississippi,Washington,South,White,71.1
+Mississippi,Wayne,South,White,73.2
+Mississippi,Webster,South,White,69.5
+Mississippi,Wilkinson,South,White,68.9
+Mississippi,Winston,South,White,74.0
+Mississippi,Yalobusha,South,White,67.9
+Mississippi,Yazoo,South,White,71.3
+Missouri,Barry,Midwest,White,73.6
+Missouri,Boone,Midwest,White,78.6
+Missouri,Buchanan,Midwest,White,73.0
+Missouri,Butler,Midwest,White,70.3
+Missouri,Callaway,Midwest,White,75.6
+Missouri,Cape Girardeau,Midwest,White,76.5
+Missouri,Cass,Midwest,White,76.9
+Missouri,Christian,Midwest,White,76.9
+Missouri,Clay,Midwest,White,78.0
+Missouri,Cole,Midwest,White,77.4
+Missouri,Dunklin,Midwest,White,69.2
+Missouri,Franklin,Midwest,White,74.8
+Missouri,Greene,Midwest,White,75.0
+Missouri,Jackson,Midwest,White,76.4
+Missouri,Jasper,Midwest,White,73.3
+Missouri,Jefferson,Midwest,White,74.7
+Missouri,Johnson,Midwest,White,75.2
+Missouri,McDonald,Midwest,White,71.6
+Missouri,Mississippi,Midwest,White,70.3
+Missouri,New Madrid,Midwest,White,69.1
+Missouri,Newton,Midwest,White,73.8
+Missouri,Pemiscot,Midwest,White,66.5
+Missouri,Pettis,Midwest,White,74.1
+Missouri,Platte,Midwest,White,78.7
+Missouri,Pulaski,Midwest,White,72.4
+Missouri,St. Charles,Midwest,White,79.1
+Missouri,St. Francois,Midwest,White,71.5
+Missouri,St. Louis,Midwest,White,78.9
+Missouri,Saline,Midwest,White,74.4
+Missouri,Scott,Midwest,White,72.6
+Missouri,Taney,Midwest,White,74.2
+Missouri,St. Louis City,Midwest,White,76.9
+Montana,Big Horn,West,White,77.7
+Montana,Blaine,West,White,77.5
+Montana,Cascade,West,White,76.7
+Montana,Flathead,West,White,77.1
+Montana,Gallatin,West,White,82.0
+Montana,Glacier,West,White,79.5
+Montana,Hill,West,White,75.9
+Montana,Lake,West,White,78.6
+Montana,Lewis and Clark,West,White,78.5
+Montana,Missoula,West,White,78.8
+Montana,Ravalli,West,White,78.7
+Montana,Roosevelt,West,White,76.2
+Montana,Rosebud,West,White,77.8
+Montana,Yellowstone,West,White,76.7
+Nebraska,Adams,Midwest,White,76.4
+Nebraska,Buffalo,Midwest,White,79.5
+Nebraska,Colfax,Midwest,White,80.3
+Nebraska,Dawson,Midwest,White,77.2
+Nebraska,Dodge,Midwest,White,75.8
+Nebraska,Douglas,Midwest,White,78.3
+Nebraska,Hall,Midwest,White,77.0
+Nebraska,Lancaster,Midwest,White,79.0
+Nebraska,Lincoln,Midwest,White,74.9
+Nebraska,Platte,Midwest,White,79.8
+Nebraska,Sarpy,Midwest,White,79.5
+Nebraska,Scotts Bluff,Midwest,White,75.1
+Nebraska,Thurston,Midwest,White,78.8
+Nevada,Churchill,West,White,72.5
+Nevada,Clark,West,White,75.6
+Nevada,Douglas,West,White,78.7
+Nevada,Elko,West,White,75.0
+Nevada,Humboldt,West,White,73.0
+Nevada,Lyon,West,White,73.5
+Nevada,Nye,West,White,72.4
+Nevada,Washoe,West,White,76.0
+Nevada,Carson City,West,White,72.1
+New Hampshire,Cheshire,Northeast,White,78.4
+New Hampshire,Grafton,Northeast,White,79.6
+New Hampshire,Hillsborough,Northeast,White,78.2
+New Hampshire,Merrimack,Northeast,White,78.7
+New Hampshire,Rockingham,Northeast,White,80.2
+New Hampshire,Strafford,Northeast,White,77.2
+New Jersey,Atlantic,Northeast,White,75.7
+New Jersey,Bergen,Northeast,White,80.9
+New Jersey,Burlington,Northeast,White,79.0
+New Jersey,Camden,Northeast,White,77.2
+New Jersey,Cape May,Northeast,White,76.6
+New Jersey,Cumberland,Northeast,White,74.3
+New Jersey,Essex,Northeast,White,81.6
+New Jersey,Gloucester,Northeast,White,77.3
+New Jersey,Hudson,Northeast,White,78.3
+New Jersey,Hunterdon,Northeast,White,82.4
+New Jersey,Mercer,Northeast,White,80.0
+New Jersey,Middlesex,Northeast,White,78.3
+New Jersey,Monmouth,Northeast,White,79.9
+New Jersey,Morris,Northeast,White,81.2
+New Jersey,Ocean,Northeast,White,78.0
+New Jersey,Passaic,Northeast,White,78.7
+New Jersey,Salem,Northeast,White,75.0
+New Jersey,Somerset,Northeast,White,81.2
+New Jersey,Sussex,Northeast,White,78.1
+New Jersey,Union,Northeast,White,80.4
+New Jersey,Warren,Northeast,White,77.9
+New Mexico,Bernalillo,West,White,77.2
+New Mexico,Chaves,West,White,72.1
+New Mexico,Cibola,West,White,74.8
+New Mexico,Colfax,West,White,78.8
+New Mexico,Curry,West,White,73.0
+New Mexico,Dona Ana,West,White,75.8
+New Mexico,Eddy,West,White,72.8
+New Mexico,Grant,West,White,75.1
+New Mexico,Lea,West,White,71.7
+New Mexico,Lincoln,West,White,76.4
+New Mexico,Los Alamos,West,White,83.2
+New Mexico,Luna,West,White,66.4
+New Mexico,McKinley,West,White,76.7
+New Mexico,Otero,West,White,76.0
+New Mexico,Quay,West,White,68.0
+New Mexico,Rio Arriba,West,White,77.2
+New Mexico,Roosevelt,West,White,75.3
+New Mexico,Sandoval,West,White,78.8
+New Mexico,San Juan,West,White,74.9
+New Mexico,San Miguel,West,White,79.4
+New Mexico,Santa Fe,West,White,82.1
+New Mexico,Sierra,West,White,67.5
+New Mexico,Socorro,West,White,76.1
+New Mexico,Taos,West,White,79.6
+New Mexico,Torrance,West,White,72.9
+New Mexico,Union,West,White,73.9
+New Mexico,Valencia,West,White,75.0
+New York,Albany,Northeast,White,79.3
+New York,Bronx,Northeast,White,75.5
+New York,Broome,Northeast,White,76.7
+New York,Cattaraugus,Northeast,White,74.7
+New York,Cayuga,Northeast,White,77.4
+New York,Chautauqua,Northeast,White,76.1
+New York,Chemung,Northeast,White,75.0
+New York,Clinton,Northeast,White,77.5
+New York,Columbia,Northeast,White,79.4
+New York,Delaware,Northeast,White,76.4
+New York,Dutchess,Northeast,White,79.2
+New York,Erie,Northeast,White,78.4
+New York,Franklin,Northeast,White,77.1
+New York,Fulton,Northeast,White,75.0
+New York,Genesee,Northeast,White,77.5
+New York,Greene,Northeast,White,77.3
+New York,Jefferson,Northeast,White,76.9
+New York,Kings,Northeast,White,81.8
+New York,Livingston,Northeast,White,79.1
+New York,Madison,Northeast,White,78.1
+New York,Monroe,Northeast,White,80.0
+New York,Montgomery,Northeast,White,75.2
+New York,Nassau,Northeast,White,81.4
+New York,New York,Northeast,White,86.7
+New York,Niagara,Northeast,White,76.3
+New York,Oneida,Northeast,White,76.7
+New York,Onondaga,Northeast,White,78.6
+New York,Ontario,Northeast,White,79.8
+New York,Orange,Northeast,White,78.6
+New York,Orleans,Northeast,White,76.9
+New York,Otsego,Northeast,White,77.5
+New York,Putnam,Northeast,White,81.1
+New York,Queens,Northeast,White,80.0
+New York,Rensselaer,Northeast,White,78.3
+New York,Richmond,Northeast,White,79.2
+New York,Rockland,Northeast,White,81.2
+New York,St. Lawrence,Northeast,White,76.6
+New York,Saratoga,Northeast,White,79.9
+New York,Schenectady,Northeast,White,78.0
+New York,Steuben,Northeast,White,76.1
+New York,Suffolk,Northeast,White,79.7
+New York,Sullivan,Northeast,White,75.9
+New York,Tompkins,Northeast,White,80.5
+New York,Ulster,Northeast,White,78.9
+New York,Wayne,Northeast,White,77.3
+New York,Westchester,Northeast,White,82.7
+North Carolina,Alamance,South,White,75.8
+North Carolina,Alexander,South,White,73.8
+North Carolina,Anson,South,White,71.6
+North Carolina,Beaufort,South,White,74.4
+North Carolina,Bertie,South,White,73.1
+North Carolina,Bladen,South,White,71.3
+North Carolina,Brunswick,South,White,77.0
+North Carolina,Buncombe,South,White,77.5
+North Carolina,Burke,South,White,74.0
+North Carolina,Cabarrus,South,White,77.1
+North Carolina,Caldwell,South,White,72.3
+North Carolina,Carteret,South,White,75.7
+North Carolina,Caswell,South,White,73.9
+North Carolina,Catawba,South,White,73.7
+North Carolina,Chatham,South,White,80.4
+North Carolina,Chowan,South,White,75.4
+North Carolina,Cleveland,South,White,72.1
+North Carolina,Columbus,South,White,70.1
+North Carolina,Craven,South,White,74.3
+North Carolina,Cumberland,South,White,72.7
+North Carolina,Davidson,South,White,72.9
+North Carolina,Davie,South,White,76.8
+North Carolina,Duplin,South,White,73.7
+North Carolina,Durham,South,White,81.3
+North Carolina,Edgecombe,South,White,71.1
+North Carolina,Forsyth,South,White,77.0
+North Carolina,Franklin,South,White,76.8
+North Carolina,Gaston,South,White,72.8
+North Carolina,Gates,South,White,75.4
+North Carolina,Granville,South,White,75.3
+North Carolina,Greene,South,White,75.4
+North Carolina,Guilford,South,White,77.1
+North Carolina,Halifax,South,White,73.1
+North Carolina,Harnett,South,White,74.8
+North Carolina,Haywood,South,White,74.3
+North Carolina,Henderson,South,White,77.3
+North Carolina,Hertford,South,White,72.0
+North Carolina,Hoke,South,White,73.0
+North Carolina,Iredell,South,White,76.8
+North Carolina,Jackson,South,White,77.4
+North Carolina,Johnston,South,White,76.5
+North Carolina,Jones,South,White,72.8
+North Carolina,Lee,South,White,74.3
+North Carolina,Lenoir,South,White,71.9
+North Carolina,Lincoln,South,White,75.7
+North Carolina,McDowell,South,White,74.1
+North Carolina,Macon,South,White,74.8
+North Carolina,Martin,South,White,72.8
+North Carolina,Mecklenburg,South,White,80.6
+North Carolina,Montgomery,South,White,73.9
+North Carolina,Moore,South,White,77.6
+North Carolina,Nash,South,White,74.7
+North Carolina,New Hanover,South,White,78.5
+North Carolina,Northampton,South,White,74.5
+North Carolina,Onslow,South,White,73.5
+North Carolina,Orange,South,White,82.7
+North Carolina,Pamlico,South,White,73.7
+North Carolina,Pasquotank,South,White,74.7
+North Carolina,Pender,South,White,76.0
+North Carolina,Perquimans,South,White,74.9
+North Carolina,Person,South,White,76.0
+North Carolina,Pitt,South,White,76.8
+North Carolina,Randolph,South,White,72.7
+North Carolina,Richmond,South,White,68.7
+North Carolina,Robeson,South,White,68.5
+North Carolina,Rockingham,South,White,71.9
+North Carolina,Rowan,South,White,72.3
+North Carolina,Rutherford,South,White,72.0
+North Carolina,Sampson,South,White,72.6
+North Carolina,Scotland,South,White,70.8
+North Carolina,Stanly,South,White,74.4
+North Carolina,Stokes,South,White,73.3
+North Carolina,Surry,South,White,73.2
+North Carolina,Swain,South,White,68.2
+North Carolina,Union,South,White,78.7
+North Carolina,Vance,South,White,71.6
+North Carolina,Wake,South,White,81.7
+North Carolina,Warren,South,White,75.1
+North Carolina,Washington,South,White,72.4
+North Carolina,Watauga,South,White,79.2
+North Carolina,Wayne,South,White,73.9
+North Carolina,Wilkes,South,White,73.5
+North Carolina,Wilson,South,White,74.1
+North Carolina,Yadkin,South,White,73.4
+North Dakota,Benson,Midwest,White,75.5
+North Dakota,Burleigh,Midwest,White,80.5
+North Dakota,Cass,Midwest,White,79.6
+North Dakota,Grand Forks,Midwest,White,79.3
+North Dakota,Mountrail,Midwest,White,76.2
+North Dakota,Rolette,Midwest,White,76.4
+North Dakota,Stark,Midwest,White,78.4
+North Dakota,Ward,Midwest,White,78.1
+Ohio,Allen,Midwest,White,75.0
+Ohio,Ashtabula,Midwest,White,73.6
+Ohio,Athens,Midwest,White,74.2
+Ohio,Belmont,Midwest,White,74.0
+Ohio,Butler,Midwest,White,75.0
+Ohio,Clark,Midwest,White,72.7
+Ohio,Clermont,Midwest,White,76.0
+Ohio,Columbiana,Midwest,White,73.8
+Ohio,Cuyahoga,Midwest,White,77.3
+Ohio,Defiance,Midwest,White,76.7
+Ohio,Delaware,Midwest,White,80.9
+Ohio,Erie,Midwest,White,76.0
+Ohio,Fairfield,Midwest,White,76.0
+Ohio,Franklin,Midwest,White,76.3
+Ohio,Fulton,Midwest,White,76.6
+Ohio,Greene,Midwest,White,77.0
+Ohio,Hamilton,Midwest,White,76.9
+Ohio,Hancock,Midwest,White,76.0
+Ohio,Henry,Midwest,White,75.7
+Ohio,Huron,Midwest,White,73.9
+Ohio,Jefferson,Midwest,White,72.4
+Ohio,Lake,Midwest,White,77.2
+Ohio,Licking,Midwest,White,75.6
+Ohio,Lorain,Midwest,White,76.4
+Ohio,Lucas,Midwest,White,74.7
+Ohio,Madison,Midwest,White,76.0
+Ohio,Mahoning,Midwest,White,74.7
+Ohio,Marion,Midwest,White,73.4
+Ohio,Medina,Midwest,White,78.9
+Ohio,Miami,Midwest,White,75.8
+Ohio,Montgomery,Midwest,White,74.2
+Ohio,Muskingum,Midwest,White,74.5
+Ohio,Ottawa,Midwest,White,76.6
+Ohio,Pickaway,Midwest,White,74.3
+Ohio,Portage,Midwest,White,76.3
+Ohio,Putnam,Midwest,White,78.3
+Ohio,Richland,Midwest,White,74.0
+Ohio,Ross,Midwest,White,71.7
+Ohio,Sandusky,Midwest,White,75.1
+Ohio,Scioto,Midwest,White,68.9
+Ohio,Seneca,Midwest,White,74.7
+Ohio,Stark,Midwest,White,75.6
+Ohio,Summit,Midwest,White,76.2
+Ohio,Trumbull,Midwest,White,73.9
+Ohio,Union,Midwest,White,78.3
+Ohio,Warren,Midwest,White,77.7
+Ohio,Wayne,Midwest,White,75.8
+Ohio,Williams,Midwest,White,76.1
+Ohio,Wood,Midwest,White,77.4
+Oklahoma,Adair,South,White,70.5
+Oklahoma,Atoka,South,White,72.5
+Oklahoma,Beckham,South,White,71.7
+Oklahoma,Bryan,South,White,72.3
+Oklahoma,Caddo,South,White,71.7
+Oklahoma,Canadian,South,White,77.7
+Oklahoma,Carter,South,White,71.9
+Oklahoma,Cherokee,South,White,75.3
+Oklahoma,Choctaw,South,White,68.9
+Oklahoma,Cleveland,South,White,77.2
+Oklahoma,Comanche,South,White,73.9
+Oklahoma,Craig,South,White,71.7
+Oklahoma,Creek,South,White,73.1
+Oklahoma,Custer,South,White,73.5
+Oklahoma,Delaware,South,White,73.6
+Oklahoma,Garfield,South,White,72.3
+Oklahoma,Garvin,South,White,70.0
+Oklahoma,Grady,South,White,74.1
+Oklahoma,Haskell,South,White,69.3
+Oklahoma,Hughes,South,White,69.8
+Oklahoma,Jackson,South,White,72.7
+Oklahoma,Kay,South,White,72.0
+Oklahoma,Kingfisher,South,White,76.7
+Oklahoma,Latimer,South,White,71.4
+Oklahoma,Le Flore,South,White,70.7
+Oklahoma,Lincoln,South,White,74.5
+Oklahoma,Logan,South,White,77.6
+Oklahoma,Love,South,White,70.3
+Oklahoma,McClain,South,White,75.4
+Oklahoma,McCurtain,South,White,69.2
+Oklahoma,McIntosh,South,White,70.7
+Oklahoma,Marshall,South,White,71.5
+Oklahoma,Mayes,South,White,73.6
+Oklahoma,Murray,South,White,72.5
+Oklahoma,Muskogee,South,White,71.1
+Oklahoma,Nowata,South,White,71.6
+Oklahoma,Okfuskee,South,White,69.7
+Oklahoma,Oklahoma,South,White,74.4
+Oklahoma,Okmulgee,South,White,70.9
+Oklahoma,Osage,South,White,75.7
+Oklahoma,Ottawa,South,White,69.0
+Oklahoma,Pawnee,South,White,71.3
+Oklahoma,Payne,South,White,75.5
+Oklahoma,Pittsburg,South,White,71.7
+Oklahoma,Pontotoc,South,White,72.7
+Oklahoma,Pottawatomie,South,White,72.5
+Oklahoma,Pushmataha,South,White,67.9
+Oklahoma,Rogers,South,White,76.7
+Oklahoma,Seminole,South,White,70.6
+Oklahoma,Sequoyah,South,White,70.3
+Oklahoma,Stephens,South,White,73.4
+Oklahoma,Texas,South,White,74.3
+Oklahoma,Tillman,South,White,71.6
+Oklahoma,Tulsa,South,White,75.4
+Oklahoma,Wagoner,South,White,76.5
+Oklahoma,Washington,South,White,74.5
+Oregon,Benton,West,White,82.0
+Oregon,Clackamas,West,White,79.6
+Oregon,Clatsop,West,White,76.6
+Oregon,Columbia,West,White,77.2
+Oregon,Coos,West,White,74.2
+Oregon,Crook,West,White,77.5
+Oregon,Curry,West,White,72.8
+Oregon,Deschutes,West,White,80.8
+Oregon,Douglas,West,White,74.0
+Oregon,Hood River,West,White,79.8
+Oregon,Jackson,West,White,76.7
+Oregon,Jefferson,West,White,75.4
+Oregon,Josephine,West,White,74.2
+Oregon,Klamath,West,White,73.3
+Oregon,Lane,West,White,76.6
+Oregon,Lincoln,West,White,75.9
+Oregon,Linn,West,White,75.4
+Oregon,Malheur,West,White,74.8
+Oregon,Marion,West,White,77.1
+Oregon,Morrow,West,White,74.2
+Oregon,Multnomah,West,White,78.0
+Oregon,Polk,West,White,78.7
+Oregon,Tillamook,West,White,74.1
+Oregon,Umatilla,West,White,75.4
+Oregon,Wasco,West,White,74.6
+Oregon,Washington,West,White,80.7
+Oregon,Yamhill,West,White,77.5
+Pennsylvania,Adams,Northeast,White,78.8
+Pennsylvania,Allegheny,Northeast,White,78.1
+Pennsylvania,Beaver,Northeast,White,76.3
+Pennsylvania,Berks,Northeast,White,78.2
+Pennsylvania,Blair,Northeast,White,74.9
+Pennsylvania,Bucks,Northeast,White,78.9
+Pennsylvania,Butler,Northeast,White,77.7
+Pennsylvania,Cambria,Northeast,White,75.1
+Pennsylvania,Carbon,Northeast,White,74.1
+Pennsylvania,Centre,Northeast,White,81.1
+Pennsylvania,Chester,Northeast,White,81.1
+Pennsylvania,Clearfield,Northeast,White,75.5
+Pennsylvania,Columbia,Northeast,White,76.4
+Pennsylvania,Cumberland,Northeast,White,79.2
+Pennsylvania,Dauphin,Northeast,White,78.0
+Pennsylvania,Delaware,Northeast,White,78.6
+Pennsylvania,Erie,Northeast,White,76.5
+Pennsylvania,Fayette,Northeast,White,72.5
+Pennsylvania,Franklin,Northeast,White,77.2
+Pennsylvania,Huntingdon,Northeast,White,76.8
+Pennsylvania,Indiana,Northeast,White,75.0
+Pennsylvania,Lackawanna,Northeast,White,75.8
+Pennsylvania,Lancaster,Northeast,White,79.0
+Pennsylvania,Lawrence,Northeast,White,74.4
+Pennsylvania,Lebanon,Northeast,White,77.7
+Pennsylvania,Lehigh,Northeast,White,78.1
+Pennsylvania,Luzerne,Northeast,White,74.3
+Pennsylvania,Lycoming,Northeast,White,76.5
+Pennsylvania,Mercer,Northeast,White,75.1
+Pennsylvania,Monroe,Northeast,White,75.9
+Pennsylvania,Montgomery,Northeast,White,80.3
+Pennsylvania,Northampton,Northeast,White,78.9
+Pennsylvania,Northumberland,Northeast,White,75.5
+Pennsylvania,Philadelphia,Northeast,White,76.2
+Pennsylvania,Pike,Northeast,White,78.3
+Pennsylvania,Schuylkill,Northeast,White,74.4
+Pennsylvania,Somerset,Northeast,White,75.5
+Pennsylvania,Union,Northeast,White,79.8
+Pennsylvania,Washington,Northeast,White,76.3
+Pennsylvania,Wayne,Northeast,White,76.1
+Pennsylvania,Westmoreland,Northeast,White,76.7
+Pennsylvania,York,Northeast,White,78.0
+Rhode Island,Bristol,Northeast,White,80.5
+Rhode Island,Kent,Northeast,White,77.8
+Rhode Island,Newport,Northeast,White,81.9
+Rhode Island,Providence,Northeast,White,77.6
+Rhode Island,Washington,Northeast,White,80.2
+South Carolina,Abbeville,South,White,73.7
+South Carolina,Aiken,South,White,73.8
+South Carolina,Allendale,South,White,75.3
+South Carolina,Anderson,South,White,73.5
+South Carolina,Bamberg,South,White,72.8
+South Carolina,Barnwell,South,White,70.4
+South Carolina,Beaufort,South,White,81.6
+South Carolina,Berkeley,South,White,77.0
+South Carolina,Calhoun,South,White,74.2
+South Carolina,Charleston,South,White,79.9
+South Carolina,Cherokee,South,White,70.4
+South Carolina,Chester,South,White,68.7
+South Carolina,Chesterfield,South,White,70.8
+South Carolina,Clarendon,South,White,73.6
+South Carolina,Colleton,South,White,69.7
+South Carolina,Darlington,South,White,70.7
+South Carolina,Dillon,South,White,66.9
+South Carolina,Dorchester,South,White,76.7
+South Carolina,Edgefield,South,White,75.8
+South Carolina,Fairfield,South,White,68.6
+South Carolina,Florence,South,White,71.8
+South Carolina,Georgetown,South,White,73.9
+South Carolina,Greenville,South,White,76.2
+South Carolina,Greenwood,South,White,73.6
+South Carolina,Hampton,South,White,71.6
+South Carolina,Horry,South,White,74.6
+South Carolina,Jasper,South,White,75.2
+South Carolina,Kershaw,South,White,73.6
+South Carolina,Lancaster,South,White,76.4
+South Carolina,Laurens,South,White,71.5
+South Carolina,Lee,South,White,70.8
+South Carolina,Lexington,South,White,76.2
+South Carolina,McCormick,South,White,76.0
+South Carolina,Marion,South,White,68.6
+South Carolina,Marlboro,South,White,67.4
+South Carolina,Newberry,South,White,74.7
+South Carolina,Oconee,South,White,74.7
+South Carolina,Orangeburg,South,White,71.7
+South Carolina,Pickens,South,White,74.4
+South Carolina,Richland,South,White,77.7
+South Carolina,Saluda,South,White,74.7
+South Carolina,Spartanburg,South,White,73.8
+South Carolina,Sumter,South,White,72.6
+South Carolina,Union,South,White,69.7
+South Carolina,Williamsburg,South,White,71.9
+South Carolina,York,South,White,76.5
+South Dakota,Beadle,Midwest,White,78.5
+South Dakota,Charles Mix,Midwest,White,80.0
+South Dakota,Hughes,Midwest,White,77.6
+South Dakota,Minnehaha,Midwest,White,77.7
+South Dakota,Pennington,Midwest,White,78.5
+South Dakota,Roberts,Midwest,White,82.0
+Tennessee,Anderson,South,White,72.4
+Tennessee,Bedford,South,White,72.4
+Tennessee,Blount,South,White,74.3
+Tennessee,Bradley,South,White,73.4
+Tennessee,Carroll,South,White,70.8
+Tennessee,Cheatham,South,White,71.9
+Tennessee,Coffee,South,White,71.5
+Tennessee,Crockett,South,White,71.4
+Tennessee,Cumberland,South,White,73.1
+Tennessee,Davidson,South,White,76.5
+Tennessee,DeKalb,South,White,70.6
+Tennessee,Dickson,South,White,73.0
+Tennessee,Dyer,South,White,70.7
+Tennessee,Fayette,South,White,76.3
+Tennessee,Franklin,South,White,73.3
+Tennessee,Gibson,South,White,70.9
+Tennessee,Giles,South,White,71.7
+Tennessee,Hamblen,South,White,70.4
+Tennessee,Hamilton,South,White,76.3
+Tennessee,Hardeman,South,White,70.6
+Tennessee,Haywood,South,White,71.7
+Tennessee,Henderson,South,White,71.5
+Tennessee,Henry,South,White,72.5
+Tennessee,Knox,South,White,74.3
+Tennessee,Lake,South,White,68.4
+Tennessee,Lauderdale,South,White,71.2
+Tennessee,Lincoln,South,White,71.8
+Tennessee,Loudon,South,White,74.8
+Tennessee,McMinn,South,White,71.0
+Tennessee,Madison,South,White,75.2
+Tennessee,Marshall,South,White,73.7
+Tennessee,Maury,South,White,75.3
+Tennessee,Monroe,South,White,70.2
+Tennessee,Montgomery,South,White,74.2
+Tennessee,Obion,South,White,71.9
+Tennessee,Putnam,South,White,73.1
+Tennessee,Robertson,South,White,72.9
+Tennessee,Rutherford,South,White,76.2
+Tennessee,Sevier,South,White,73.2
+Tennessee,Shelby,South,White,75.9
+Tennessee,Sullivan,South,White,72.6
+Tennessee,Sumner,South,White,75.4
+Tennessee,Tipton,South,White,72.4
+Tennessee,Warren,South,White,72.1
+Tennessee,Washington,South,White,73.6
+Tennessee,Weakley,South,White,73.1
+Tennessee,Williamson,South,White,81.4
+Tennessee,Wilson,South,White,76.0
+Texas,Anderson,South,White,71.9
+Texas,Andrews,South,White,73.7
+Texas,Angelina,South,White,72.4
+Texas,Aransas,South,White,72.2
+Texas,Atascosa,South,White,73.7
+Texas,Austin,South,White,77.4
+Texas,Bailey,South,White,72.2
+Texas,Bandera,South,White,75.6
+Texas,Bastrop,South,White,76.2
+Texas,Bee,South,White,73.8
+Texas,Bell,South,White,75.2
+Texas,Bexar,South,White,75.8
+Texas,Blanco,South,White,76.9
+Texas,Bosque,South,White,72.4
+Texas,Bowie,South,White,72.6
+Texas,Brazoria,South,White,75.2
+Texas,Brazos,South,White,79.2
+Texas,Brewster,South,White,75.4
+Texas,Brown,South,White,71.0
+Texas,Burleson,South,White,74.6
+Texas,Burnet,South,White,76.1
+Texas,Caldwell,South,White,75.0
+Texas,Calhoun,South,White,75.0
+Texas,Cameron,South,White,74.2
+Texas,Camp,South,White,69.5
+Texas,Cass,South,White,71.2
+Texas,Castro,South,White,78.5
+Texas,Chambers,South,White,75.4
+Texas,Cherokee,South,White,72.9
+Texas,Childress,South,White,73.8
+Texas,Collin,South,White,80.3
+Texas,Colorado,South,White,74.3
+Texas,Comal,South,White,77.6
+Texas,Comanche,South,White,74.5
+Texas,Cooke,South,White,76.0
+Texas,Coryell,South,White,74.0
+Texas,Crosby,South,White,70.9
+Texas,Dallam,South,White,70.7
+Texas,Dallas,South,White,76.9
+Texas,Dawson,South,White,72.1
+Texas,Deaf Smith,South,White,76.1
+Texas,Denton,South,White,79.8
+Texas,DeWitt,South,White,75.0
+Texas,Eastland,South,White,71.0
+Texas,Ector,South,White,68.6
+Texas,Ellis,South,White,76.4
+Texas,El Paso,South,White,74.5
+Texas,Erath,South,White,75.9
+Texas,Falls,South,White,73.5
+Texas,Fannin,South,White,72.6
+Texas,Fayette,South,White,76.5
+Texas,Floyd,South,White,73.4
+Texas,Fort Bend,South,White,80.0
+Texas,Franklin,South,White,74.0
+Texas,Freestone,South,White,74.9
+Texas,Frio,South,White,74.1
+Texas,Gaines,South,White,73.1
+Texas,Galveston,South,White,75.7
+Texas,Garza,South,White,74.1
+Texas,Gillespie,South,White,77.9
+Texas,Goliad,South,White,80.2
+Texas,Gonzales,South,White,73.7
+Texas,Gray,South,White,70.8
+Texas,Grayson,South,White,73.7
+Texas,Gregg,South,White,72.5
+Texas,Grimes,South,White,75.1
+Texas,Guadalupe,South,White,77.4
+Texas,Hale,South,White,73.3
+Texas,Hansford,South,White,75.5
+Texas,Hardin,South,White,73.2
+Texas,Harris,South,White,77.0
+Texas,Harrison,South,White,74.1
+Texas,Hays,South,White,79.4
+Texas,Henderson,South,White,70.8
+Texas,Hidalgo,South,White,78.7
+Texas,Hill,South,White,71.8
+Texas,Hockley,South,White,70.5
+Texas,Hood,South,White,75.1
+Texas,Hopkins,South,White,73.8
+Texas,Houston,South,White,73.3
+Texas,Howard,South,White,70.4
+Texas,Hunt,South,White,73.3
+Texas,Hutchinson,South,White,69.3
+Texas,Jackson,South,White,78.0
+Texas,Jasper,South,White,71.2
+Texas,Jefferson,South,White,73.4
+Texas,Jim Wells,South,White,69.6
+Texas,Johnson,South,White,74.5
+Texas,Jones,South,White,73.1
+Texas,Karnes,South,White,74.2
+Texas,Kaufman,South,White,74.1
+Texas,Kendall,South,White,78.6
+Texas,Kerr,South,White,75.0
+Texas,Kleberg,South,White,74.3
+Texas,Lamar,South,White,72.4
+Texas,Lamb,South,White,73.2
+Texas,Lampasas,South,White,74.0
+Texas,Lavaca,South,White,77.3
+Texas,Lee,South,White,77.3
+Texas,Leon,South,White,72.0
+Texas,Liberty,South,White,71.9
+Texas,Limestone,South,White,71.8
+Texas,Live Oak,South,White,75.3
+Texas,Llano,South,White,75.9
+Texas,Lubbock,South,White,74.3
+Texas,Lynn,South,White,74.1
+Texas,McCulloch,South,White,71.5
+Texas,McLennan,South,White,76.0
+Texas,Madison,South,White,71.9
+Texas,Marion,South,White,70.8
+Texas,Martin,South,White,71.8
+Texas,Matagorda,South,White,73.3
+Texas,Medina,South,White,75.8
+Texas,Midland,South,White,75.0
+Texas,Milam,South,White,75.8
+Texas,Mitchell,South,White,70.7
+Texas,Montague,South,White,71.0
+Texas,Montgomery,South,White,77.3
+Texas,Moore,South,White,73.9
+Texas,Morris,South,White,70.0
+Texas,Nacogdoches,South,White,73.3
+Texas,Navarro,South,White,73.7
+Texas,Newton,South,White,71.9
+Texas,Nolan,South,White,72.1
+Texas,Nueces,South,White,71.5
+Texas,Ochiltree,South,White,71.7
+Texas,Orange,South,White,71.6
+Texas,Palo Pinto,South,White,72.3
+Texas,Panola,South,White,71.6
+Texas,Parker,South,White,76.4
+Texas,Parmer,South,White,74.3
+Texas,Pecos,South,White,68.7
+Texas,Polk,South,White,69.3
+Texas,Potter,South,White,70.0
+Texas,Randall,South,White,75.8
+Texas,Red River,South,White,67.5
+Texas,Reeves,South,White,75.6
+Texas,Refugio,South,White,72.5
+Texas,Robertson,South,White,74.3
+Texas,Rockwall,South,White,78.7
+Texas,Runnels,South,White,72.2
+Texas,Rusk,South,White,73.3
+Texas,San Augustine,South,White,70.7
+Texas,San Jacinto,South,White,72.3
+Texas,San Patricio,South,White,72.3
+Texas,San Saba,South,White,72.8
+Texas,Scurry,South,White,73.3
+Texas,Shelby,South,White,70.7
+Texas,Smith,South,White,75.1
+Texas,Somervell,South,White,75.6
+Texas,Starr,South,White,125.1
+Texas,Stephens,South,White,72.3
+Texas,Swisher,South,White,70.6
+Texas,Tarrant,South,White,76.6
+Texas,Taylor,South,White,73.4
+Texas,Terry,South,White,72.5
+Texas,Titus,South,White,72.6
+Texas,Tom Green,South,White,74.4
+Texas,Travis,South,White,80.4
+Texas,Tyler,South,White,71.4
+Texas,Upshur,South,White,72.8
+Texas,Uvalde,South,White,71.7
+Texas,Val Verde,South,White,76.7
+Texas,Van Zandt,South,White,73.1
+Texas,Victoria,South,White,75.7
+Texas,Walker,South,White,76.4
+Texas,Waller,South,White,75.8
+Texas,Ward,South,White,69.8
+Texas,Washington,South,White,77.8
+Texas,Webb,South,White,82.6
+Texas,Wharton,South,White,74.4
+Texas,Wichita,South,White,72.5
+Texas,Wilbarger,South,White,70.4
+Texas,Willacy,South,White,77.6
+Texas,Williamson,South,White,79.9
+Texas,Wilson,South,White,76.5
+Texas,Winkler,South,White,66.5
+Texas,Wise,South,White,74.4
+Texas,Wood,South,White,72.9
+Texas,Yoakum,South,White,72.7
+Texas,Young,South,White,70.5
+Utah,Box Elder,West,White,77.7
+Utah,Cache,West,White,80.2
+Utah,Carbon,West,White,72.7
+Utah,Davis,West,White,79.2
+Utah,Iron,West,White,78.1
+Utah,Millard,West,White,75.9
+Utah,Salt Lake,West,White,78.5
+Utah,San Juan,West,White,80.8
+Utah,Summit,West,White,83.9
+Utah,Tooele,West,White,77.2
+Utah,Uintah,West,White,75.5
+Utah,Utah,West,White,79.3
+Utah,Wasatch,West,White,81.2
+Utah,Washington,West,White,80.2
+Utah,Weber,West,White,77.1
+Vermont,Chittenden,Northeast,White,80.8
+Virginia,Accomack,South,White,75.0
+Virginia,Albemarle,South,White,81.8
+Virginia,Amelia,South,White,73.8
+Virginia,Amherst,South,White,75.5
+Virginia,Appomattox,South,White,77.2
+Virginia,Arlington,South,White,84.4
+Virginia,Augusta,South,White,77.7
+Virginia,Bedford,South,White,76.7
+Virginia,Brunswick,South,White,75.7
+Virginia,Buckingham,South,White,74.7
+Virginia,Campbell,South,White,76.7
+Virginia,Caroline,South,White,74.0
+Virginia,Charles City,South,White,77.5
+Virginia,Charlotte,South,White,73.6
+Virginia,Chesterfield,South,White,78.3
+Virginia,Culpeper,South,White,77.1
+Virginia,Cumberland,South,White,76.1
+Virginia,Dinwiddie,South,White,74.6
+Virginia,Essex,South,White,74.5
+Virginia,Fairfax,South,White,84.0
+Virginia,Fauquier,South,White,79.1
+Virginia,Fluvanna,South,White,79.9
+Virginia,Franklin,South,White,75.6
+Virginia,Frederick,South,White,78.0
+Virginia,Gloucester,South,White,76.2
+Virginia,Goochland,South,White,81.2
+Virginia,Greensville,South,White,73.4
+Virginia,Halifax,South,White,72.8
+Virginia,Hanover,South,White,78.1
+Virginia,Henrico,South,White,77.8
+Virginia,Henry,South,White,70.1
+Virginia,Isle of Wight,South,White,78.3
+Virginia,James City,South,White,81.6
+Virginia,King George,South,White,77.9
+Virginia,King William,South,White,75.7
+Virginia,Lancaster,South,White,76.9
+Virginia,Loudoun,South,White,83.2
+Virginia,Louisa,South,White,76.0
+Virginia,Lunenburg,South,White,73.8
+Virginia,Mecklenburg,South,White,74.7
+Virginia,Montgomery,South,White,78.6
+Virginia,New Kent,South,White,76.9
+Virginia,Northampton,South,White,74.8
+Virginia,Northumberland,South,White,76.3
+Virginia,Nottoway,South,White,72.8
+Virginia,Orange,South,White,75.4
+Virginia,Pittsylvania,South,White,74.9
+Virginia,Powhatan,South,White,78.3
+Virginia,Prince Edward,South,White,75.3
+Virginia,Prince George,South,White,78.0
+Virginia,Prince William,South,White,80.3
+Virginia,Pulaski,South,White,73.4
+Virginia,Richmond,South,White,76.2
+Virginia,Roanoke,South,White,77.7
+Virginia,Rockingham,South,White,77.9
+Virginia,Shenandoah,South,White,76.2
+Virginia,Southampton,South,White,75.5
+Virginia,Spotsylvania,South,White,77.4
+Virginia,Stafford,South,White,79.1
+Virginia,Surry,South,White,76.2
+Virginia,Sussex,South,White,72.5
+Virginia,Warren,South,White,74.3
+Virginia,Westmoreland,South,White,75.2
+Virginia,Wise,South,White,70.4
+Virginia,York,South,White,80.6
+Virginia,Alexandria City,South,White,83.5
+Virginia,Charlottesville City,South,White,80.2
+Virginia,Chesapeake City,South,White,77.2
+Virginia,Colonial Heights City,South,White,71.7
+Virginia,Danville City,South,White,68.5
+Virginia,Fairfax City,South,White,76.5
+Virginia,Franklin City,South,White,70.4
+Virginia,Fredericksburg City,South,White,74.9
+Virginia,Hampton City,South,White,74.7
+Virginia,Harrisonburg City,South,White,78.0
+Virginia,Hopewell City,South,White,66.0
+Virginia,Lynchburg City,South,White,75.1
+Virginia,Manassas City,South,White,76.4
+Virginia,Manassas Park City,South,White,85.1
+Virginia,Martinsville City,South,White,64.9
+Virginia,Newport News City,South,White,75.9
+Virginia,Norfolk City,South,White,76.2
+Virginia,Petersburg City,South,White,60.2
+Virginia,Portsmouth City,South,White,72.9
+Virginia,Richmond City,South,White,81.9
+Virginia,Roanoke City,South,White,70.3
+Virginia,Salem City,South,White,73.4
+Virginia,Staunton City,South,White,74.9
+Virginia,Suffolk City,South,White,76.7
+Virginia,Virginia Beach City,South,White,78.7
+Virginia,Waynesboro City,South,White,72.9
+Virginia,Williamsburg City,South,White,81.8
+Virginia,Winchester City,South,White,73.8
+Washington,Adams,West,White,76.4
+Washington,Benton,West,White,77.5
+Washington,Chelan,West,White,78.7
+Washington,Clallam,West,White,77.2
+Washington,Clark,West,White,78.3
+Washington,Cowlitz,West,White,74.8
+Washington,Douglas,West,White,80.4
+Washington,Franklin,West,White,78.1
+Washington,Grant,West,White,76.1
+Washington,Grays Harbor,West,White,75.0
+Washington,Island,West,White,80.4
+Washington,King,West,White,80.9
+Washington,Kitsap,West,White,79.4
+Washington,Kittitas,West,White,80.0
+Washington,Klickitat,West,White,79.9
+Washington,Lewis,West,White,75.2
+Washington,Mason,West,White,76.7
+Washington,Okanogan,West,White,77.2
+Washington,Pacific,West,White,75.7
+Washington,Pierce,West,White,77.6
+Washington,Skagit,West,White,78.3
+Washington,Snohomish,West,White,78.6
+Washington,Spokane,West,White,77.1
+Washington,Stevens,West,White,77.1
+Washington,Thurston,West,White,78.2
+Washington,Walla Walla,West,White,77.5
+Washington,Whatcom,West,White,79.9
+Washington,Whitman,West,White,77.6
+Washington,Yakima,West,White,75.0
+West Virginia,Berkeley,South,White,73.0
+West Virginia,Cabell,South,White,69.4
+West Virginia,Jefferson,South,White,75.5
+West Virginia,Kanawha,South,White,71.1
+West Virginia,Marion,South,White,73.5
+West Virginia,Mercer,South,White,68.6
+West Virginia,Monongalia,South,White,77.3
+West Virginia,Raleigh,South,White,69.4
+Wisconsin,Ashland,Midwest,White,75.5
+Wisconsin,Brown,Midwest,White,79.3
+Wisconsin,Calumet,Midwest,White,81.5
+Wisconsin,Clark,Midwest,White,76.8
+Wisconsin,Dane,Midwest,White,81.3
+Wisconsin,Dodge,Midwest,White,76.5
+Wisconsin,Eau Claire,Midwest,White,78.9
+Wisconsin,Fond du Lac,Midwest,White,77.7
+Wisconsin,Jefferson,Midwest,White,78.0
+Wisconsin,Kenosha,Midwest,White,77.0
+Wisconsin,La Crosse,Midwest,White,78.9
+Wisconsin,Manitowoc,Midwest,White,78.0
+Wisconsin,Marathon,Midwest,White,78.7
+Wisconsin,Milwaukee,Midwest,White,76.9
+Wisconsin,Outagamie,Midwest,White,79.2
+Wisconsin,Ozaukee,Midwest,White,81.0
+Wisconsin,Portage,Midwest,White,79.3
+Wisconsin,Racine,Midwest,White,76.8
+Wisconsin,Rock,Midwest,White,76.5
+Wisconsin,St. Croix,Midwest,White,79.7
+Wisconsin,Sauk,Midwest,White,77.7
+Wisconsin,Sawyer,Midwest,White,77.8
+Wisconsin,Shawano,Midwest,White,78.1
+Wisconsin,Sheboygan,Midwest,White,78.4
+Wisconsin,Vilas,Midwest,White,78.0
+Wisconsin,Walworth,Midwest,White,78.1
+Wisconsin,Washington,Midwest,White,79.5
+Wisconsin,Waukesha,Midwest,White,80.3
+Wisconsin,Winnebago,Midwest,White,78.1
+Wisconsin,Wood,Midwest,White,77.1
+Wyoming,Albany,West,White,78.4
+Wyoming,Campbell,West,White,76.3
+Wyoming,Carbon,West,White,75.5
+Wyoming,Fremont,West,White,75.4
+Wyoming,Laramie,West,White,76.5
+Wyoming,Natrona,West,White,74.9
+Wyoming,Park,West,White,77.8
+Wyoming,Sweetwater,West,White,74.1
+Wyoming,Uinta,West,White,74.7
