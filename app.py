@@ -151,76 +151,26 @@ with tab1:
 with tab2:
     st.subheader("How Life Expectancy Varies by State and Racial Group")
     st.write(
-        "Click on states in the map to update the racial group comparison below. This gives the dashboard a coordinated visualization feature."
+        "Brush across states in the top chart to update the racial group comparison below. This gives the dashboard a coordinated visualization feature."
     )
 
-    # Data preparation for geochart
-    state_fips = {
-        "Alabama": 1, "Alaska": 2, "Arizona": 4, "Arkansas": 5, "California": 6,
-        "Colorado": 8, "Connecticut": 9, "Delaware": 10, "District of Columbia": 11,
-        "Florida": 12, "Georgia": 13, "Hawaii": 15, "Idaho": 16, "Illinois": 17,
-        "Indiana": 18, "Iowa": 19, "Kansas": 20, "Kentucky": 21, "Louisiana": 22,
-        "Maine": 23, "Maryland": 24, "Massachusetts": 25, "Michigan": 26,
-        "Minnesota": 27, "Mississippi": 28, "Missouri": 29, "Montana": 30,
-        "Nebraska": 31, "Nevada": 32, "New Hampshire": 33, "New Jersey": 34,
-        "New Mexico": 35, "New York": 36, "North Carolina": 37, "North Dakota": 38,
-        "Ohio": 39, "Oklahoma": 40, "Oregon": 41, "Pennsylvania": 42,
-        "Rhode Island": 44, "South Carolina": 45, "South Dakota": 46,
-        "Tennessee": 47, "Texas": 48, "Utah": 49, "Vermont": 50, "Virginia": 51,
-        "Washington": 53, "West Virginia": 54, "Wisconsin": 55, "Wyoming": 56
-    }
+    race_chart_data = filtered_race.dropna(subset=["Life Expectancy"])
+    state_brush = alt.selection_interval(encodings=["x"], name="StateBrush")
 
-    geochart_data = filtered_race.dropna(subset=["Life Expectancy"]).copy()
-    geochart_data["id"] = geochart_data["State"].map(state_fips)
-
-    state_summary_for_geochart = (
-        geochart_data
-        .groupby(["State", "id"], as_index=False)["Life Expectancy"]
-        .mean()
-    )
-
-    states_topo = alt.topo_feature(
-        "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json",
-        "states"
-    )
-
-    # Selection for the geochart
-    state_selection = alt.selection_point(fields=['State'], name='state_selection', on='click')
-
-    state_chart = alt.Chart(states_topo).mark_geoshape(
-        stroke="white",
-        strokeWidth=0.5
-    ).encode(
-        color=alt.Color(
-            "Life Expectancy:Q",
-            title="Avg. Life Expectancy",
-            scale=alt.Scale(scheme="blues")
-        ),
+    state_chart = alt.Chart(race_chart_data).mark_bar().encode(
+        x=alt.X("State:N", sort="-y", title="State"),
+        y=alt.Y("mean(Life Expectancy):Q", title="Average Life Expectancy"),
+        color=alt.condition(state_brush, alt.value("steelblue"), alt.value("lightgray")),
         tooltip=[
-            alt.Tooltip("State:N", title="State"),
-            alt.Tooltip("Life Expectancy:Q", title="Avg. Life Expectancy", format=".1f")
-        ],
-        # Add color condition for selection feedback
-        strokeOpacity=alt.condition(state_selection, alt.value(1), alt.value(0.5)),
-        strokeWidth=alt.condition(state_selection, alt.value(2), alt.value(0.5)),
-    ).transform_lookup(
-        lookup="id",
-        from_=alt.LookupData(
-            state_summary_for_geochart,
-            key="id",
-            fields=["State", "Life Expectancy"]
-        )
-    ).project(
-        type="albersUsa"
+            "State:N",
+            alt.Tooltip("mean(Life Expectancy):Q", title="Avg. Life Expectancy", format=".1f")
+        ]
     ).properties(
-        title="Average Life Expectancy by State — Click to Select",
-        height=400
-    ).add_params(state_selection)
+        title="Average Life Expectancy by State — Brush to Select",
+        height=260
+    ).add_params(state_brush)
 
-    # The race_chart uses filtered_race, which has 'State' column.
-    race_chart_data_for_bar = filtered_race.dropna(subset=["Life Expectancy"])
-
-    race_chart = alt.Chart(race_chart_data_for_bar).mark_bar().encode(
+    race_chart = alt.Chart(race_chart_data).mark_bar().encode(
         x=alt.X("Race Group:N", title="Racial/Ethnic Group"),
         y=alt.Y("mean(Life Expectancy):Q", title="Average Life Expectancy"),
         color=alt.Color("Race Group:N", title="Race Group"),
@@ -228,9 +178,7 @@ with tab2:
             "Race Group:N",
             alt.Tooltip("mean(Life Expectancy):Q", title="Avg. Life Expectancy", format=".1f")
         ]
-    ).transform_filter(
-        state_selection
-    ).properties(
+    ).transform_filter(state_brush).properties(
         title="Average Life Expectancy by Race for Selected State(s)",
         height=300
     )
