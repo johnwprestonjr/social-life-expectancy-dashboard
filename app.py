@@ -157,18 +157,61 @@ with tab2:
     race_chart_data = filtered_race.dropna(subset=["Life Expectancy"])
     state_brush = alt.selection_interval(encodings=["x"], name="StateBrush")
 
-    state_chart = alt.Chart(race_chart_data).mark_bar().encode(
-        x=alt.X("State:N", sort="-y", title="State"),
-        y=alt.Y("mean(Life Expectancy):Q", title="Average Life Expectancy"),
-        color=alt.condition(state_brush, alt.value("steelblue"), alt.value("lightgray")),
+    state_fips = {
+        "Alabama": 1, "Alaska": 2, "Arizona": 4, "Arkansas": 5, "California": 6,
+        "Colorado": 8, "Connecticut": 9, "Delaware": 10, "District of Columbia": 11,
+        "Florida": 12, "Georgia": 13, "Hawaii": 15, "Idaho": 16, "Illinois": 17,
+        "Indiana": 18, "Iowa": 19, "Kansas": 20, "Kentucky": 21, "Louisiana": 22,
+        "Maine": 23, "Maryland": 24, "Massachusetts": 25, "Michigan": 26,
+        "Minnesota": 27, "Mississippi": 28, "Missouri": 29, "Montana": 30,
+        "Nebraska": 31, "Nevada": 32, "New Hampshire": 33, "New Jersey": 34,
+        "New Mexico": 35, "New York": 36, "North Carolina": 37, "North Dakota": 38,
+        "Ohio": 39, "Oklahoma": 40, "Oregon": 41, "Pennsylvania": 42,
+        "Rhode Island": 44, "South Carolina": 45, "South Dakota": 46,
+        "Tennessee": 47, "Texas": 48, "Utah": 49, "Vermont": 50, "Virginia": 51,
+        "Washington": 53, "West Virginia": 54, "Wisconsin": 55, "Wyoming": 56
+    }
+
+    race_chart_data = filtered_race.dropna(subset=["Life Expectancy"]).copy()
+    race_chart_data["id"] = race_chart_data["State"].map(state_fips)
+
+    state_summary = (
+        race_chart_data
+        .groupby(["State", "id"], as_index=False)["Life Expectancy"]
+        .mean()
+    )
+
+    states = alt.topo_feature(
+        "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json",
+        "states"
+    )
+
+    state_chart = alt.Chart(states).mark_geoshape(
+        stroke="white",
+        strokeWidth=0.5
+    ).encode(
+        color=alt.Color(
+            "Life Expectancy:Q",
+            title="Avg. Life Expectancy",
+            scale=alt.Scale(scheme="blues")
+        ),
         tooltip=[
-            "State:N",
-            alt.Tooltip("mean(Life Expectancy):Q", title="Avg. Life Expectancy", format=".1f")
+            alt.Tooltip("State:N", title="State"),
+            alt.Tooltip("Life Expectancy:Q", title="Avg. Life Expectancy", format=".1f")
         ]
+    ).transform_lookup(
+        lookup="id",
+        from_=alt.LookupData(
+            state_summary,
+            key="id",
+            fields=["State", "Life Expectancy"]
+        )
+    ).project(
+        type="albersUsa"
     ).properties(
-        title="Average Life Expectancy by State — Brush to Select",
-        height=260
-    ).add_params(state_brush)
+        title="Average Life Expectancy by State",
+        height=400
+    )
 
     race_chart = alt.Chart(race_chart_data).mark_bar().encode(
         x=alt.X("Race Group:N", title="Racial/Ethnic Group"),
