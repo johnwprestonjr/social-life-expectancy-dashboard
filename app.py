@@ -235,7 +235,9 @@ with tab2:
         height=300
     )
 
-    st.altair_chart(state_chart & race_chart, use_container_width=True)with tab3:
+    st.altair_chart(state_chart & race_chart, use_container_width=True)
+
+with tab3:
     st.subheader("Highest and Lowest Life Expectancy Counties")
     st.write(
         "This view compares counties with the highest and lowest life expectancy and shows how food insecurity differs across those counties."
