@@ -182,7 +182,7 @@ with hero_col:
         )
 
 with text_col:
-    st.markdown('<div class="section-kicker">Interactive county health dashboard</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-kicker">Interactive dashboard</div>', unsafe_allow_html=True)
     st.markdown(
         '<div class="hero-title">Social Conditions &amp; Life Expectancy Explorer</div>',
         unsafe_allow_html=True,
