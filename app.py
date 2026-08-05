@@ -11,7 +11,6 @@ alt.data_transformers.disable_max_rows()
 # -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="Social Conditions & Life Expectancy Explorer",
-    page_icon="💜",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -164,9 +163,8 @@ hero_col, text_col = st.columns([1.0, 1.45], gap="large")
 
 with hero_col:
     image_candidates = [
-        Path("community_hero.webp"),
-        Path("10D61945-B857-4857-83FA-964B7C0994DD.webp"),
-        Path("assets/community_hero.webp"),
+        Path("community_hero.jpg"),
+        Path("assets/community_hero.jpg"),
     ]
     hero_path = next((path for path in image_candidates if path.exists()), None)
     if hero_path:
@@ -177,7 +175,7 @@ with hero_col:
             <div style="background:#E9E1F5;border:1px dashed {LAVENDER};border-radius:18px;
                         min-height:260px;display:flex;align-items:center;justify-content:center;
                         color:{MUTED_TEXT};padding:24px;text-align:center;">
-                Add <b>community_hero.webp</b> to the repository to display the homepage illustration.
+                Add <b>community_hero.jpg</b> to the repository to display the homepage illustration.
             </div>
             """,
             unsafe_allow_html=True,
@@ -267,10 +265,10 @@ tooltip_basic = [
 # Revised story order: overview -> explanation -> county detail
 state_tab, social_tab, county_tab, about_tab = st.tabs(
     [
-        "🗺️ State & Race Explorer",
-        "📊 Social Determinants",
-        "🏆 County Extremes",
-        "ℹ️ About",
+        "State & Race Explorer",
+        "Social Determinants",
+        "County Extremes",
+        "About",
     ]
 )
 
@@ -655,6 +653,6 @@ with about_tab:
 
 st.divider()
 st.markdown(
-    f'<div class="small-note">Built with Streamlit, Pandas, and Altair. Purple styling was selected to align the dashboard with its community-centered visual identity.</div>',
+    f'<div class="small-note">Built with Streamlit, Pandas, and Altair.</div>',
     unsafe_allow_html=True,
 )
