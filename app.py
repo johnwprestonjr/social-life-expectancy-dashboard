@@ -618,7 +618,7 @@ with county_tab:
         )
         st.altair_chart(county_scatter.configure_view(stroke=None), use_container_width=True)
         st.caption(
-            "Displaying only the selected highest and lowest counties reduces clutter. Very narrow filters can create a small comparison group."
+            "Displaying only the selected highest and lowest counties reduces clutter."
         )
 
 # -----------------------------------------------------------------------------
